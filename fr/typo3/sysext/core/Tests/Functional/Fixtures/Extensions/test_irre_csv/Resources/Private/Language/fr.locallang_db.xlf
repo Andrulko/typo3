@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file source-language="en" datatype="plaintext" original="EXT:test_irre_csv/Resources/Private/Language/locallang_db.xlf" date="2021-11-13T08:05:00Z" product-name="test_irre_csv" target-language="fr">
+    <header/>
+    <body>
+      <trans-unit id="tabs.general" resname="tabs.general">
+        <source>General</source>
+        <target state="needs-translation">General</target>
+      </trans-unit>
+      <trans-unit id="tabs.visibility" resname="tabs.visibility">
+        <source>Visibility</source>
+        <target state="needs-translation">Visibility</target>
+      </trans-unit>
+      <trans-unit id="tt_content.tx_testirrecsv_hotels" resname="tt_content.tx_testirrecsv_hotels">
+        <source>Hotels (1ncsv):</source>
+        <target state="needs-translation">Hotels (1ncsv):</target>
+      </trans-unit>
+      <trans-unit id="tx_testirrecsv_hotel" resname="tx_testirrecsv_hotel">
+        <source>1:n CSV: Hotels</source>
+        <target state="needs-translation">1:n CSV: Hotels</target>
+      </trans-unit>
+      <trans-unit id="tx_testirrecsv_offer" resname="tx_testirrecsv_offer">
+        <source>1:n CSV: Offers</source>
+        <target state="needs-translation">1:n CSV: Offers</target>
+      </trans-unit>
+      <trans-unit id="tx_testirrecsv_price" resname="tx_testirrecsv_price">
+        <source>1:n CSV: Prices</source>
+        <target state="needs-translation">1:n CSV: Prices</target>
+      </trans-unit>
+      <trans-unit id="pages.div.test_irre_csv" resname="pages.div.test_irre_csv">
+        <source>TEST IRRE CSV</source>
+        <target state="needs-translation">TEST IRRE CSV</target>
+      </trans-unit>
+      <trans-unit id="tt_content.div.test_irre_csv" resname="pages.div.test_irre_csv">
+        <source>TEST IRRE CSV</source>
+        <target state="needs-translation">TEST IRRE CSV</target>
+      </trans-unit>
+      <trans-unit id="tx_irretutorial_hotel.title" resname="tx_irretutorial_hotel.title">
+        <source>Title:</source>
+        <target state="needs-translation">Title:</target>
+      </trans-unit>
+      <trans-unit id="tx_irretutorial_hotel.offers" resname="tx_irretutorial_hotel.offers">
+        <source>Offers:</source>
+        <target state="needs-translation">Offers:</target>
+      </trans-unit>
+      <trans-unit id="tx_irretutorial_hotel.prices" resname="tx_irretutorial_hotel.prices">
+        <source>Prices:</source>
+        <target state="needs-translation">Prices:</target>
+      </trans-unit>
+      <trans-unit id="pages.hotels" resname="pages.hotels">
+        <source>Hotels</source>
+        <target state="needs-translation">Hotels</target>
+      </trans-unit>
+      <trans-unit id="tt_content.hotels" resname="tt_content.hotels">
+        <source>Hotels</source>
+        <target state="needs-translation">Hotels</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
