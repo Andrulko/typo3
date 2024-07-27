@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file source-language="en" datatype="plaintext" original="EXT:label_test/Resources/Private/Language/locallang.xlf" date="2023-01-03T15:50:00Z" product-name="label_test" target-language="fr">
+    <header/>
+    <body>
+      <trans-unit id="key1" resname="key1">
+        <source>English label for key1</source>
+        <target state="needs-translation">English label for key1</target>
+      </trans-unit>
+      <trans-unit id="key2" resname="key2">
+        <source>English label for key2</source>
+        <target state="needs-translation">English label for key2</target>
+      </trans-unit>
+      <trans-unit id="key3" resname="key3">
+        <source>English label for key3</source>
+        <target state="needs-translation">English label for key3</target>
+      </trans-unit>
+      <trans-unit id="key3.subkey1" resname="key3.subkey1">
+        <source>English label for key3.subkey1</source>
+        <target state="needs-translation">English label for key3.subkey1</target>
+      </trans-unit>
+      <trans-unit id="key4" resname="key4">
+        <source>English label for key4</source>
+        <target state="needs-translation">English label for key4</target>
+      </trans-unit>
+      <trans-unit id="keyWithPlaceholder" resname="keyWithPlaceholder">
+        <source>English label with number %d</source>
+        <target state="needs-translation">English label with number %d</target>
+      </trans-unit>
+      <trans-unit id="keyWithPlaceholderAndNoArguments" resname="keyWithPlaceholderAndNoArguments">
+        <source>%d/%m/%Y</source>
+        <target state="needs-translation">%d/%m/%Y</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
