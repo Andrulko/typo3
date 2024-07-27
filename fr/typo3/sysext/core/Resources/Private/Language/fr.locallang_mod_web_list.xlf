@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file source-language="en" datatype="plaintext" original="EXT:core/Resources/Private/Language/locallang_mod_web_list.xlf" date="2011-10-17T20:22:34Z" product-name="lang" target-language="fr">
+    <header/>
+    <body>
+      <trans-unit id="mlang_labels_tablabel" resname="mlang_labels_tablabel">
+        <source>List of database records</source>
+        <target state="needs-translation">List of database records</target>
+      </trans-unit>
+      <trans-unit id="mlang_labels_tabdescr" resname="mlang_labels_tabdescr">
+        <source>The Web&gt;List module provides low level access to records appearing on a page.</source>
+        <target state="needs-translation">The Web&gt;List module provides low level access to records appearing on a page.</target>
+      </trans-unit>
+      <trans-unit id="mlang_tabs_tab" resname="mlang_tabs_tab">
+        <source>List</source>
+        <target state="needs-translation">List</target>
+      </trans-unit>
+      <trans-unit id="clip_pasteAfter" resname="clip_pasteAfter">
+        <source>Paste after: Clipboard content is inserted after this record</source>
+        <target state="needs-translation">Paste after: Clipboard content is inserted after this record</target>
+      </trans-unit>
+      <trans-unit id="clip_pasteInto" resname="clip_pasteInto">
+        <source>Paste into: Clipboard content is inserted on this page</source>
+        <target state="needs-translation">Paste into: Clipboard content is inserted on this page</target>
+      </trans-unit>
+      <trans-unit id="clip_paste" resname="clip_paste">
+        <source>Paste in clipboard content</source>
+        <target state="needs-translation">Paste in clipboard content</target>
+      </trans-unit>
+      <trans-unit id="clip_markRecords" resname="clip_markRecords">
+        <source>Mark All/Mark none</source>
+        <target state="needs-translation">Mark All/Mark none</target>
+      </trans-unit>
+      <trans-unit id="clip_selectMarked" resname="clip_selectMarked">
+        <source>Transfer the selection of records to clipboard</source>
+        <target state="needs-translation">Transfer the selection of records to clipboard</target>
+      </trans-unit>
+      <trans-unit id="clip_duplicates" resname="clip_duplicates">
+        <source>Mark duplicates</source>
+        <target state="needs-translation">Mark duplicates</target>
+      </trans-unit>
+      <trans-unit id="clip_editMarked" resname="clip_editMarked">
+        <source>Edit marked</source>
+        <target state="needs-translation">Edit marked</target>
+      </trans-unit>
+      <trans-unit id="clip_deleteMarked" resname="clip_deleteMarked">
+        <source>Delete marked</source>
+        <target state="needs-translation">Delete marked</target>
+      </trans-unit>
+      <trans-unit id="clip_deleteMarkedWarning" resname="clip_deleteMarkedWarning">
+        <source>Are you sure you want to delete all marked records from the table '%s'?</source>
+        <target state="needs-translation">Are you sure you want to delete all marked records from the table '%s'?</target>
+      </trans-unit>
+      <trans-unit id="showInfo" resname="showInfo">
+        <source>Info</source>
+        <target state="needs-translation">Info</target>
+      </trans-unit>
+      <trans-unit id="edit" resname="edit">
+        <source>Edit record</source>
+        <target state="needs-translation">Edit record</target>
+      </trans-unit>
+      <trans-unit id="editPage" resname="editPage">
+        <source>Edit page properties</source>
+        <target state="needs-translation">Edit page properties</target>
+      </trans-unit>
+      <trans-unit id="new" resname="new">
+        <source>New record</source>
+        <target state="needs-translation">New record</target>
+      </trans-unit>
+      <trans-unit id="newRecordOfType" resname="newRecordOfType">
+        <source>New %s</source>
+        <target state="needs-translation">New %s</target>
+      </trans-unit>
+      <trans-unit id="newPage" resname="newPage">
+        <source>Create new page after this page</source>
+        <target state="needs-translation">Create new page after this page</target>
+      </trans-unit>
+      <trans-unit id="newRecord" resname="newRecord">
+        <source>Create new record after this record</source>
+        <target state="needs-translation">Create new record after this record</target>
+      </trans-unit>
+      <trans-unit id="newRecordGeneral" resname="newRecordGeneral">
+        <source>Create new record</source>
+        <target state="needs-translation">Create new record</target>
+      </trans-unit>
+      <trans-unit id="moveUp" resname="moveUp">
+        <source>Move up in list</source>
+        <target state="needs-translation">Move up in list</target>
+      </trans-unit>
+      <trans-unit id="moveDown" resname="moveDown">
+        <source>Move down in list</source>
+        <target state="needs-translation">Move down in list</target>
+      </trans-unit>
+      <trans-unit id="move_record" resname="move_record">
+        <source>Re-position content element</source>
+        <target state="needs-translation">Re-position content element</target>
+      </trans-unit>
+      <trans-unit id="move_page" resname="move_page">
+        <source>Move page</source>
+        <target state="needs-translation">Move page</target>
+      </trans-unit>
+      <trans-unit id="hide" resname="hide">
+        <source>Hide record</source>
+        <target state="needs-translation">Hide record</target>
+      </trans-unit>
+      <trans-unit id="unHide" resname="unHide">
+        <source>Un-hide record</source>
+        <target state="needs-translation">Un-hide record</target>
+      </trans-unit>
+      <trans-unit id="hidePage" resname="hidePage">
+        <source>Hide page</source>
+        <target state="needs-translation">Hide page</target>
+      </trans-unit>
+      <trans-unit id="unHidePage" resname="unHidePage">
+        <source>Un-hide page</source>
+        <target state="needs-translation">Un-hide page</target>
+      </trans-unit>
+      <trans-unit id="prevLevel" resname="prevLevel">
+        <source>Move this page to the position after the current parent page (Inwards)</source>
+        <target state="needs-translation">Move this page to the position after the current parent page (Inwards)</target>
+      </trans-unit>
+      <trans-unit id="nextLevel" resname="nextLevel">
+        <source>Move this page to be a subpage of the page above (Outwards)</source>
+        <target state="needs-translation">Move this page to be a subpage of the page above (Outwards)</target>
+      </trans-unit>
+      <trans-unit id="delete" resname="delete">
+        <source>Delete record (!)</source>
+        <target state="needs-translation">Delete record (!)</target>
+      </trans-unit>
+      <trans-unit id="history" resname="history">
+        <source>History/Undo</source>
+        <target state="needs-translation">History/Undo</target>
+      </trans-unit>
+      <trans-unit id="displayVersions" resname="displayVersions">
+        <source>Display versions</source>
+        <target state="needs-translation">Display versions</target>
+      </trans-unit>
+      <trans-unit id="permissions" resname="permissions">
+        <source>Set permissions for page</source>
+        <target state="needs-translation">Set permissions for page</target>
+      </trans-unit>
+      <trans-unit id="largeControl" resname="largeControl">
+        <source>Extended view</source>
+        <target state="needs-translation">Extended view</target>
+      </trans-unit>
+      <trans-unit id="contractView" resname="contractView">
+        <source>List all tables</source>
+        <target state="needs-translation">List all tables</target>
+      </trans-unit>
+      <trans-unit id="expandView" resname="expandView">
+        <source>List only this table</source>
+        <target state="needs-translation">List only this table</target>
+      </trans-unit>
+      <trans-unit id="collapseExpandTable" resname="collapseExpandTable">
+        <source>Collapse and expand records of table "%s"</source>
+        <target state="needs-translation">Collapse and expand records of table "%s"</target>
+      </trans-unit>
+      <trans-unit id="showClipBoard" resname="showClipBoard">
+        <source>Show clipboard</source>
+        <target state="needs-translation">Show clipboard</target>
+      </trans-unit>
+      <trans-unit id="editShownColumns" resname="editShownColumns">
+        <source>Edit all shown fields of the listed records</source>
+        <target state="needs-translation">Edit all shown fields of the listed records</target>
+      </trans-unit>
+      <trans-unit id="editThisColumn" resname="editThisColumn">
+        <source>Edit the '%s' field of the listed records</source>
+        <target state="needs-translation">Edit the '%s' field of the listed records</target>
+      </trans-unit>
+      <trans-unit id="deleteWarning" resname="deleteWarning">
+        <source>Are you sure you want to delete the record '%s'?</source>
+        <target state="needs-translation">Are you sure you want to delete the record '%s'?</target>
+      </trans-unit>
+      <trans-unit id="localization" resname="localization">
+        <source>Localization view</source>
+        <target state="needs-translation">Localization view</target>
+      </trans-unit>
+      <trans-unit id="defaultLanguage" resname="defaultLanguage">
+        <source>Default</source>
+        <target state="needs-translation">Default</target>
+      </trans-unit>
+      <trans-unit id="multipleLanguages" resname="multipleLanguages">
+        <source>All languages</source>
+        <target state="needs-translation">All languages</target>
+      </trans-unit>
+      <trans-unit id="Localize" resname="Localize">
+        <source>Localize to</source>
+        <target state="needs-translation">Localize to</target>
+      </trans-unit>
+      <trans-unit id="viewRecords" resname="viewRecords">
+        <source>Viewing records of</source>
+        <target state="needs-translation">Viewing records of</target>
+      </trans-unit>
+      <trans-unit id="pageIndicator" resname="pageIndicator">
+        <source>Page %1$s of %2$d</source>
+        <target state="needs-translation">Page %1$s of %2$d</target>
+      </trans-unit>
+      <trans-unit id="rangeIndicator" resname="rangeIndicator">
+        <source>Records %1$d - %2$d</source>
+        <target state="needs-translation">Records %1$d - %2$d</target>
+      </trans-unit>
+      <trans-unit id="missingTcaColumnsMessageTitle" resname="missingTcaColumnsMessageTitle">
+        <source>Missing TCA definition</source>
+        <target state="needs-translation">Missing TCA definition</target>
+      </trans-unit>
+      <trans-unit id="missingTcaColumnsMessage" resname="missingTcaColumnsMessage">
+        <source>No fields for table "%s" have been found. $TCA['%s']['columns'] does not contain the necessary definitions.</source>
+        <target state="needs-translation">No fields for table "%s" have been found. $TCA['%s']['columns'] does not contain the necessary definitions.</target>
+      </trans-unit>
+      <trans-unit id="noRecordsOnThisPage" resname="noRecordsOnThisPage">
+        <source>There are no records on this page.</source>
+        <target state="needs-translation">There are no records on this page.</target>
+      </trans-unit>
+      <trans-unit id="noRecordsOfTypeOnThisPage" resname="noRecordsOfTypeOnThisPage">
+        <source>There are no records of type "%s" on this page.</source>
+        <target state="needs-translation">There are no records of type "%s" on this page.</target>
+      </trans-unit>
+      <trans-unit id="button.cancel" resname="button.cancel">
+        <source>Cancel</source>
+        <target state="needs-translation">Cancel</target>
+      </trans-unit>
+      <trans-unit id="button.close" resname="button.close">
+        <source>Close</source>
+        <target state="needs-translation">Close</target>
+      </trans-unit>
+      <trans-unit id="button.ok" resname="button.ok">
+        <source>OK</source>
+        <target state="needs-translation">OK</target>
+      </trans-unit>
+      <trans-unit id="button.delete" resname="button.delete">
+        <source>Delete</source>
+        <target state="needs-translation">Delete</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
