@@ -1,0 +1,336 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file source-language="en" datatype="plaintext" original="EXT:reports/Resources/Private/Language/locallang_reports.xlf" date="2011-10-17T20:22:35Z" product-name="reports" target-language="fr">
+    <header/>
+    <body>
+      <trans-unit id="status_report_title" resname="status_report_title">
+        <source>Status Report</source>
+        <target state="needs-translation">Status Report</target>
+      </trans-unit>
+      <trans-unit id="status_report_description" resname="status_report_description">
+        <source>Get a status report about your site's operation and any detected problems.</source>
+        <target state="needs-translation">Get a status report about your site's operation and any detected problems.</target>
+      </trans-unit>
+      <trans-unit id="status_report_explanation" resname="status_report_explanation">
+        <source>Here you can find a short overview of your site's parameters as well as any problems detected with your installation. It may be useful to copy and paste this information into support requests filed on TYPO3's support mailinglists and project issue trackers.</source>
+        <target state="needs-translation">Here you can find a short overview of your site's parameters as well as any problems detected with your installation. It may be useful to copy and paste this information into support requests filed on TYPO3's support mailinglists and project issue trackers.</target>
+      </trans-unit>
+      <trans-unit id="status_ok" resname="status_ok">
+        <source>OK</source>
+        <target state="needs-translation">OK</target>
+      </trans-unit>
+      <trans-unit id="status_wrongValue" resname="status_wrongValue">
+        <source>Wrong value detected</source>
+        <target state="needs-translation">Wrong value detected</target>
+      </trans-unit>
+      <trans-unit id="status_info" resname="status_info">
+        <source>Information</source>
+        <target state="needs-translation">Information</target>
+      </trans-unit>
+      <trans-unit id="status_insecure" resname="status_insecure">
+        <source>Insecure</source>
+        <target state="needs-translation">Insecure</target>
+      </trans-unit>
+      <trans-unit id="status_disabled" resname="status_disabled">
+        <source>Disabled</source>
+        <target state="needs-translation">Disabled</target>
+      </trans-unit>
+      <trans-unit id="status_enabled" resname="status_enabled">
+        <source>Enabled</source>
+        <target state="needs-translation">Enabled</target>
+      </trans-unit>
+      <trans-unit id="status_enabledPermanently" resname="status_enabledPermanently">
+        <source>Enabled permanently</source>
+        <target state="needs-translation">Enabled permanently</target>
+      </trans-unit>
+      <trans-unit id="status_enabledTemporarily" resname="status_enabledTemporarily">
+        <source>Enabled temporarily</source>
+        <target state="needs-translation">Enabled temporarily</target>
+      </trans-unit>
+      <trans-unit id="status_empty" resname="status_empty">
+        <source>Empty</source>
+        <target state="needs-translation">Empty</target>
+      </trans-unit>
+      <trans-unit id="status_none" resname="status_none">
+        <source>None</source>
+        <target state="needs-translation">None</target>
+      </trans-unit>
+      <trans-unit id="status_connectionFailed" resname="status_connectionFailed">
+        <source>Connection Failed</source>
+        <target state="needs-translation">Connection Failed</target>
+      </trans-unit>
+      <trans-unit id="status_checkFailed" resname="status_checkFailed">
+        <source>Check Failed</source>
+        <target state="needs-translation">Check Failed</target>
+      </trans-unit>
+      <trans-unit id="status_updateComplete" resname="status_updateComplete">
+        <source>Update Complete</source>
+        <target state="needs-translation">Update Complete</target>
+      </trans-unit>
+      <trans-unit id="status_updateIncomplete" resname="status_updateIncomplete">
+        <source>Update Incomplete</source>
+        <target state="needs-translation">Update Incomplete</target>
+      </trans-unit>
+      <trans-unit id="status_problemNotification" resname="status_problemNotification">
+        <source>One or more problems were detected with your TYPO3 installation. Please check the %sstatus report%s for more information.</source>
+        <target state="needs-translation">One or more problems were detected with your TYPO3 installation. Please check the %sstatus report%s for more information.</target>
+      </trans-unit>
+      <trans-unit id="status_allNotification" resname="status_allNotification">
+        <source>This report contains all System Status Notifications from your TYPO3 installation. Please check the %sstatus report%s for more information.</source>
+        <target state="needs-translation">This report contains all System Status Notifications from your TYPO3 installation. Please check the %sstatus report%s for more information.</target>
+      </trans-unit>
+      <trans-unit id="status_typo3" resname="status_typo3">
+        <source>TYPO3 System</source>
+        <target state="needs-translation">TYPO3 System</target>
+      </trans-unit>
+      <trans-unit id="status_system" resname="status_system">
+        <source>System</source>
+        <target state="needs-translation">System</target>
+      </trans-unit>
+      <trans-unit id="status_security" resname="status_security">
+        <source>Security</source>
+        <target state="needs-translation">Security</target>
+      </trans-unit>
+      <trans-unit id="status_configuration" resname="status_configuration">
+        <source>Configuration</source>
+        <target state="needs-translation">Configuration</target>
+      </trans-unit>
+      <trans-unit id="status_referenceIndex" resname="status_referenceIndex">
+        <source>Reference Index</source>
+        <target state="needs-translation">Reference Index</target>
+      </trans-unit>
+      <trans-unit id="status_fal" resname="status_fal">
+        <source>File Abstraction Layer</source>
+        <target state="needs-translation">File Abstraction Layer</target>
+      </trans-unit>
+      <trans-unit id="status_missingFiles" resname="status_missingFiles">
+        <source>Files flagged as missing</source>
+        <target state="needs-translation">Files flagged as missing</target>
+      </trans-unit>
+      <trans-unit id="status_missingFilesCount" resname="status_missingFilesCount">
+        <source>%1$s files</source>
+        <target state="needs-translation">%1$s files</target>
+      </trans-unit>
+      <trans-unit id="status_missingFilesMessage" resname="status_missingFilesMessage">
+        <source>These files are flagged as missing. Restore the files and run the indexer to reset the missing flag.</source>
+        <target state="needs-translation">These files are flagged as missing. Restore the files and run the indexer to reset the missing flag.</target>
+      </trans-unit>
+      <trans-unit id="status_memcachedConfiguration" resname="status_memcachedConfiguration">
+        <source>Memcached Configuration</source>
+        <target state="needs-translation">Memcached Configuration</target>
+      </trans-unit>
+      <trans-unit id="status_CreatedFilePermissions" resname="status_CreatedFilePermissions">
+        <source>Permissions of created files</source>
+        <target state="needs-translation">Permissions of created files</target>
+      </trans-unit>
+      <trans-unit id="status_CreatedFilePermissions.writable" resname="status_CreatedFilePermissions.writable">
+        <source>Files created by TYPO3 are configured to be world writable. Depending on your server configuration, this can be a security risk. It is usually better to configure the create mask to not allow writing to files by "others". A sane default is often '0660' for $GLOBALS['TYPO3_CONF_VARS']['SYS']['fileCreateMask']. This can be set in the install tool.</source>
+        <target state="needs-translation">Files created by TYPO3 are configured to be world writable. Depending on your server configuration, this can be a security risk. It is usually better to configure the create mask to not allow writing to files by "others". A sane default is often '0660' for $GLOBALS['TYPO3_CONF_VARS']['SYS']['fileCreateMask']. This can be set in the install tool.</target>
+      </trans-unit>
+      <trans-unit id="status_CreatedDirectoryPermissions" resname="status_CreatedDirectoryPermissions">
+        <source>Permissions of created directories</source>
+        <target state="needs-translation">Permissions of created directories</target>
+      </trans-unit>
+      <trans-unit id="status_CreatedDirectoryPermissions.writable" resname="status_CreatedDirectoryPermissions.writable">
+        <source>Directories created by TYPO3 are configured to be world writable. Depending on your server configuration, this can be a security risk. It is usually better to configure the create mask to not allow writing to directories by "others". A sane default is often '2770' for $GLOBALS['TYPO3_CONF_VARS']['SYS']['folderCreateMask']. This can be set in the install tool.</source>
+        <target state="needs-translation">Directories created by TYPO3 are configured to be world writable. Depending on your server configuration, this can be a security risk. It is usually better to configure the create mask to not allow writing to directories by "others". A sane default is often '2770' for $GLOBALS['TYPO3_CONF_VARS']['SYS']['folderCreateMask']. This can be set in the install tool.</target>
+      </trans-unit>
+      <trans-unit id="status_MysqlDatabaseCharacterSet" resname="status_MysqlDatabaseCharacterSet">
+        <source>MySQL Database Character Set</source>
+        <target state="needs-translation">MySQL Database Character Set</target>
+      </trans-unit>
+      <trans-unit id="status_MysqlDatabaseCharacterSet_CheckFailed" resname="status_MysqlDatabaseCharacterSet_CheckFailed">
+        <source>Checking database character set failed, got key "%1$s" instead of "character_set_database"</source>
+        <target state="needs-translation">Checking database character set failed, got key "%1$s" instead of "character_set_database"</target>
+      </trans-unit>
+      <trans-unit id="status_MysqlDatabaseCharacterSet_Unsupported" resname="status_MysqlDatabaseCharacterSet_Unsupported">
+        <source>Your default database uses character set "%1$s", but only "utf8", "utf8mb3" or "utf8mb4" is supported with TYPO3.</source>
+        <target state="needs-translation">Your default database uses character set "%1$s", but only "utf8", "utf8mb3" or "utf8mb4" is supported with TYPO3.</target>
+      </trans-unit>
+      <trans-unit id="status_MysqlDatabaseCharacterSet_Ok" resname="status_MysqlDatabaseCharacterSet_Ok">
+        <source>Your default database uses utf-8. All good.</source>
+        <target state="needs-translation">Your default database uses utf-8. All good.</target>
+      </trans-unit>
+      <trans-unit id="status_MysqlDatabaseCharacterSet_Info" resname="status_MysqlDatabaseCharacterSet_Info">
+        <source>Your default database uses a different charset, but all tables uses utf-8. All good. But consider fixing your database collation and check the table creation settings.</source>
+        <target state="needs-translation">Your default database uses a different charset, but all tables uses utf-8. All good. But consider fixing your database collation and check the table creation settings.</target>
+      </trans-unit>
+      <trans-unit id="status_MysqlDatabaseCharacterSet_MixedCollations" resname="status_MysqlDatabaseCharacterSet_MixedCollations">
+        <source>Your default database is set to create tables with character set "%1$s", but contains tables or columns with different collations. Please fix these tables to avoid "illegal mix of collations" errors.</source>
+        <target state="needs-translation">Your default database is set to create tables with character set "%1$s", but contains tables or columns with different collations. Please fix these tables to avoid "illegal mix of collations" errors.</target>
+      </trans-unit>
+      <trans-unit id="status_encryptedConnectionStatus" resname="status_encryptedConnectionStatus">
+        <source>Encrypted backend connection (HTTPS)</source>
+        <target state="needs-translation">Encrypted backend connection (HTTPS)</target>
+      </trans-unit>
+      <trans-unit id="status_encryptedConnectionStatus_insecure" resname="status_encryptedConnectionStatus_insecure">
+        <source>Your backend access is not secured using HTTPS but relies on HTTP which sends all your data (including login passwords) over an insecure connection. All modern web sites should rely on HTTPS and only sites secured differently, for instance some intranet installations may use HTTP only.</source>
+        <target state="needs-translation">Your backend access is not secured using HTTPS but relies on HTTP which sends all your data (including login passwords) over an insecure connection. All modern web sites should rely on HTTPS and only sites secured differently, for instance some intranet installations may use HTTP only.</target>
+      </trans-unit>
+      <trans-unit id="status_lockSslStatus" resname="status_lockSslStatus">
+        <source>Backend only accessible through HTTPS</source>
+        <target state="needs-translation">Backend only accessible through HTTPS</target>
+      </trans-unit>
+      <trans-unit id="status_lockSslStatus_insecure" resname="status_lockSslStatus_insecure">
+        <source><![CDATA[It is highly recommended to activate the option (<code>$GLOBALS['TYPO3_CONF_VARS']['BE']['lockSSL']</code>).]]></source>
+        <target state="needs-translation"><![CDATA[It is highly recommended to activate the option (<code>$GLOBALS['TYPO3_CONF_VARS']['BE']['lockSSL']</code>).]]></target>
+      </trans-unit>
+      <trans-unit id="status_trustedHostsPattern" resname="status_trustedHostsPattern">
+        <source>Trusted Hosts Pattern</source>
+        <target state="needs-translation">Trusted Hosts Pattern</target>
+      </trans-unit>
+      <trans-unit id="status_encryptionKey" resname="status_encryptionKey">
+        <source>Encryption Key</source>
+        <target state="needs-translation">Encryption Key</target>
+      </trans-unit>
+      <trans-unit id="status_fileDenyPattern" resname="status_fileDenyPattern">
+        <source>File Deny Pattern</source>
+        <target state="needs-translation">File Deny Pattern</target>
+      </trans-unit>
+      <trans-unit id="status_htaccessUploadProtection" resname="status_htaccessUploadProtection">
+        <source>.htaccess Upload Protection</source>
+        <target state="needs-translation">.htaccess Upload Protection</target>
+      </trans-unit>
+      <trans-unit id="status_exceptionHandler" resname="status_exceptionHandler">
+        <source>Exception Handler / Error Reporting</source>
+        <target state="needs-translation">Exception Handler / Error Reporting</target>
+      </trans-unit>
+      <trans-unit id="status_exportedFiles" resname="status_exportedFiles">
+        <source>XML/T3D export files</source>
+        <target state="needs-translation">XML/T3D export files</target>
+      </trans-unit>
+      <trans-unit id="status_exceptionHandler_warningMessage" resname="status_exceptionHandler_warningMessage">
+        <source>Display Errors is set to 1 - errors will be displayed with the DebugExceptionHandler including stack traces.</source>
+        <target state="needs-translation">Display Errors is set to 1 - errors will be displayed with the DebugExceptionHandler including stack traces.</target>
+      </trans-unit>
+      <trans-unit id="status_exceptionHandler_errorMessage" resname="status_exceptionHandler_errorMessage">
+        <source>Debug Exception Handler enabled in Production Context - will show full error messages including stack traces.</source>
+        <target state="needs-translation">Debug Exception Handler enabled in Production Context - will show full error messages including stack traces.</target>
+      </trans-unit>
+      <trans-unit id="status_exportedFiles_warningMessage" resname="status_exportedFiles_warningMessage">
+        <source>The following exported files were found:</source>
+        <target state="needs-translation">The following exported files were found:</target>
+      </trans-unit>
+      <trans-unit id="status_exportedFiles_warningRecommendation" resname="status_exportedFiles_warningRecommendation">
+        <source>It is recommended to delete exported files to avoid possible disclosure of exported data to backend users with lower/different access rights than user(s) who originally created the export(s).</source>
+        <target state="needs-translation">It is recommended to delete exported files to avoid possible disclosure of exported data to backend users with lower/different access rights than user(s) who originally created the export(s).</target>
+      </trans-unit>
+      <trans-unit id="status_installTool" resname="status_installTool">
+        <source>Install Tool</source>
+        <target state="needs-translation">Install Tool</target>
+      </trans-unit>
+      <trans-unit id="status_phpModules" resname="status_phpModules">
+        <source>PHP Modules</source>
+        <target state="needs-translation">PHP Modules</target>
+      </trans-unit>
+      <trans-unit id="status_phpModulesMissing" resname="status_phpModulesMissing">
+        <source>One or more modules are missing.</source>
+        <target state="needs-translation">One or more modules are missing.</target>
+      </trans-unit>
+      <trans-unit id="status_phpModulesList" resname="status_phpModulesList">
+        <source>The following PHP module(s) is/are missing: %s.</source>
+        <target state="needs-translation">The following PHP module(s) is/are missing: %s.</target>
+      </trans-unit>
+      <trans-unit id="status_phpModulesInfo" resname="status_phpModulesInfo">
+        <source>You need to install and enable these modules to let TYPO3 function correctly.</source>
+        <target state="needs-translation">You need to install and enable these modules to let TYPO3 function correctly.</target>
+      </trans-unit>
+      <trans-unit id="status_phpModulesGroup" resname="status_phpModulesGroup">
+        <source>one of: %s</source>
+        <target state="needs-translation">one of: %s</target>
+      </trans-unit>
+      <trans-unit id="status_phpModulesPresent" resname="status_phpModulesPresent">
+        <source>All required modules are installed.</source>
+        <target state="needs-translation">All required modules are installed.</target>
+      </trans-unit>
+      <trans-unit id="status_installEnabledTemporarily" resname="status_installEnabledTemporarily">
+        <source>The Install Tool is temporarily enabled. Delete the file "%s" when you have finished setting up TYPO3. If not used the Install Tool will be disabled automatically in %s minutes.</source>
+        <target state="needs-translation">The Install Tool is temporarily enabled. Delete the file "%s" when you have finished setting up TYPO3. If not used the Install Tool will be disabled automatically in %s minutes.</target>
+      </trans-unit>
+      <trans-unit id="status_updateTaskTitle" resname="status_updateTaskTitle">
+        <source>System Status Update</source>
+        <target state="needs-translation">System Status Update</target>
+      </trans-unit>
+      <trans-unit id="status_updateTaskDescription" resname="status_updateTaskDescription">
+        <source>Runs a system status check and sends notifications if problems have been found.</source>
+        <target state="needs-translation">Runs a system status check and sends notifications if problems have been found.</target>
+      </trans-unit>
+      <trans-unit id="status_updateTaskField_notificationEmail" resname="status_updateTaskField_notificationEmail">
+        <source>Notification Email Address</source>
+        <target state="needs-translation">Notification Email Address</target>
+      </trans-unit>
+      <trans-unit id="status_updateTaskField_notificationEmails" resname="status_updateTaskField_notificationEmails">
+        <source>Notification Email Addresses (one per line)</source>
+        <target state="needs-translation">Notification Email Addresses (one per line)</target>
+      </trans-unit>
+      <trans-unit id="status_updateTaskField_notificationEmail_invalid" resname="status_updateTaskField_notificationEmail_invalid">
+        <source>Empty or invalid notification email address.</source>
+        <target state="needs-translation">Empty or invalid notification email address.</target>
+      </trans-unit>
+      <trans-unit id="status_updateTaskField_notificationEmails_invalid" resname="status_updateTaskField_notificationEmails_invalid">
+        <source>Empty or invalid notification email addresses.</source>
+        <target state="needs-translation">Empty or invalid notification email addresses.</target>
+      </trans-unit>
+      <trans-unit id="status_updateTaskField_notificationAll" resname="status_updateTaskField_notificationAll">
+        <source>Always send notification mail (not only on errors or warnings)</source>
+        <target state="needs-translation">Always send notification mail (not only on errors or warnings)</target>
+      </trans-unit>
+      <trans-unit id="status_updateTask_email_subject" resname="status_updateTask_email_subject">
+        <source>System Status Notification for site %s</source>
+        <target state="needs-translation">System Status Notification for site %s</target>
+      </trans-unit>
+      <trans-unit id="status_updateTask_email_site" resname="status_updateTask_email_site">
+        <source>Site</source>
+        <target state="needs-translation">Site</target>
+      </trans-unit>
+      <trans-unit id="status_updateTask_email_issues" resname="status_updateTask_email_issues">
+        <source>Issues</source>
+        <target state="needs-translation">Issues</target>
+      </trans-unit>
+      <trans-unit id="status_xclassUsage" resname="status_xclassUsage">
+        <source>XCLASS used</source>
+        <target state="needs-translation">XCLASS used</target>
+      </trans-unit>
+      <trans-unit id="status_xclassUsageFound" resname="status_xclassUsageFound">
+        <source>Your system registers XCLASS</source>
+        <target state="needs-translation">Your system registers XCLASS</target>
+      </trans-unit>
+      <trans-unit id="status_xclassUsageFound_message" resname="status_xclassUsageFound_message">
+        <source>XCLASS can overwrite methods or classes of the core or other extensions. This is not necessarily a bad thing, but those XCLASS might break during extension or core upgrades. You should keep an eye on extension compatibility and make sure the intended functionality is still given after updates.</source>
+        <target state="needs-translation">XCLASS can overwrite methods or classes of the core or other extensions. This is not necessarily a bad thing, but those XCLASS might break during extension or core upgrades. You should keep an eye on extension compatibility and make sure the intended functionality is still given after updates.</target>
+      </trans-unit>
+      <trans-unit id="status_xclassUsageFound_message_detail" resname="status_xclassUsageFound_message_detail">
+        <source>%2$s registers an XCLASS of %1$s</source>
+        <target state="needs-translation">%2$s registers an XCLASS of %1$s</target>
+      </trans-unit>
+      <trans-unit id="status_imageprocessing" resname="status_imageprocessing">
+        <source>Image Processing</source>
+        <target state="needs-translation">Image Processing</target>
+      </trans-unit>
+      <trans-unit id="status_imageprocessing_webp" resname="status_imageprocessing_webp">
+        <source>WebP support and availability</source>
+        <target state="needs-translation">WebP support and availability</target>
+      </trans-unit>
+      <trans-unit id="status_imageprocessing_disabled" resname="status_imageprocessing_disabled">
+        <source>Image processing via ImageMagick/GraphicsMagick is disabled</source>
+        <target state="needs-translation">Image processing via ImageMagick/GraphicsMagick is disabled</target>
+      </trans-unit>
+      <trans-unit id="status_imageprocessing_webp_not_configured" resname="status_imageprocessing_webp_not_configured">
+        <source>Support for WebP image generation is not configured in $TYPO3_CONF_VARS[GFX][imagefile_ext]. No WebP image files will be generated.</source>
+        <target state="needs-translation">Support for WebP image generation is not configured in $TYPO3_CONF_VARS[GFX][imagefile_ext]. No WebP image files will be generated.</target>
+      </trans-unit>
+      <trans-unit id="status_imageprocessing_webp_available" resname="status_imageprocessing_webp_available">
+        <source>Support for WebP image generation is not configured in $TYPO3_CONF_VARS[GFX][imagefile_ext], but ImageMagick/GraphicsMagick supports generation of WebP image files.</source>
+        <target state="needs-translation">Support for WebP image generation is not configured in $TYPO3_CONF_VARS[GFX][imagefile_ext], but ImageMagick/GraphicsMagick supports generation of WebP image files.</target>
+      </trans-unit>
+      <trans-unit id="status_imageprocessing_webp_not_available" resname="status_imageprocessing_webp_not_available">
+        <source>Support for WebP image generation is configured in $TYPO3_CONF_VARS[GFX][imagefile_ext], but ImageMagick/GraphicsMagick does NOT support generation of WebP image files, update your system environment or disable webp support in TYPO3 Configuration.</source>
+        <target state="needs-translation">Support for WebP image generation is configured in $TYPO3_CONF_VARS[GFX][imagefile_ext], but ImageMagick/GraphicsMagick does NOT support generation of WebP image files, update your system environment or disable webp support in TYPO3 Configuration.</target>
+      </trans-unit>
+      <trans-unit id="status_imageprocessing_webp_available_and_configured" resname="status_imageprocessing_webp_available_and_configured">
+        <source>Support for WebP image generation is configured in $TYPO3_CONF_VARS[GFX][imagefile_ext] and ImageMagick/GraphicsMagick supports generation of WebP image files - all fine!</source>
+        <target state="needs-translation">Support for WebP image generation is configured in $TYPO3_CONF_VARS[GFX][imagefile_ext] and ImageMagick/GraphicsMagick supports generation of WebP image files - all fine!</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
