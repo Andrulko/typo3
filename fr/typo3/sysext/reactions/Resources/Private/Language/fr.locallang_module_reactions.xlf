@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file source-language="en" datatype="plaintext" original="EXT:reactions/Resources/Private/Language/locallang_module_reactions.xlf" date="2022-08-17T12:12:34Z" product-name="reactions" target-language="fr">
+    <header/>
+    <body>
+      <trans-unit id="mlang_labels_tablabel" resname="mlang_labels_tablabel">
+        <source>Reaction Administration</source>
+        <target state="needs-translation">Reaction Administration</target>
+      </trans-unit>
+      <trans-unit id="mlang_labels_tabdescr" resname="mlang_labels_tabdescr">
+        <source>This is the administration area for Reactions.</source>
+        <target state="needs-translation">This is the administration area for Reactions.</target>
+      </trans-unit>
+      <trans-unit id="mlang_tabs_tab" resname="mlang_tabs_tab">
+        <source>Reactions</source>
+        <target state="needs-translation">Reactions</target>
+      </trans-unit>
+      <trans-unit id="heading_text" resname="heading_text">
+        <source>Reactions — Manage Incoming HTTP Webhooks</source>
+        <target state="needs-translation">Reactions — Manage Incoming HTTP Webhooks</target>
+      </trans-unit>
+      <trans-unit id="reaction_not_found.title" resname="reaction_not_found.title">
+        <source>No reactions found!</source>
+        <target state="needs-translation">No reactions found!</target>
+      </trans-unit>
+      <trans-unit id="reaction_not_found.message" resname="reaction_not_found.message">
+        <source>There are currently no reaction records found in the database.</source>
+        <target state="needs-translation">There are currently no reaction records found in the database.</target>
+      </trans-unit>
+      <trans-unit id="reaction_create" resname="reaction_create">
+        <source>Create new reaction</source>
+        <target state="needs-translation">Create new reaction</target>
+      </trans-unit>
+      <trans-unit id="reaction_not_found_with_filter.title" resname="reaction_not_found_with_filter.title">
+        <source>No reactions found!</source>
+        <target state="needs-translation">No reactions found!</target>
+      </trans-unit>
+      <trans-unit id="reaction_not_found_with_filter.message" resname="reaction_not_found_with_filter.message">
+        <source>With the current set of filters applied, no reactions could be found.</source>
+        <target state="needs-translation">With the current set of filters applied, no reactions could be found.</target>
+      </trans-unit>
+      <trans-unit id="reaction_no_filter" resname="reaction_no_filter">
+        <source>Remove all filter</source>
+        <target state="needs-translation">Remove all filter</target>
+      </trans-unit>
+      <trans-unit id="reaction_no_implementation_class" resname="reaction_no_implementation_class">
+        <source>Implementation class for reaction type "%s" is missing.</source>
+        <target state="needs-translation">Implementation class for reaction type "%s" is missing.</target>
+      </trans-unit>
+      <trans-unit id="reaction_example" resname="reaction_example">
+        <source>Example</source>
+        <target state="needs-translation">Example</target>
+      </trans-unit>
+      <trans-unit id="filter.sendButton" resname="filter.sendButton">
+        <source>Filter</source>
+        <target state="needs-translation">Filter</target>
+      </trans-unit>
+      <trans-unit id="filter.resetButton" resname="filter.resetButton">
+        <source>Reset</source>
+        <target state="needs-translation">Reset</target>
+      </trans-unit>
+      <trans-unit id="filter.name" resname="filter.name">
+        <source>Name</source>
+        <target state="needs-translation">Name</target>
+      </trans-unit>
+      <trans-unit id="filter.reaction_type" resname="filter.reaction_type">
+        <source>Reaction Type</source>
+        <target state="needs-translation">Reaction Type</target>
+      </trans-unit>
+      <trans-unit id="filter.reaction_type.showAll" resname="filter.reaction_type.showAll">
+        <source>Show all</source>
+        <target state="needs-translation">Show all</target>
+      </trans-unit>
+      <trans-unit id="pagination.previous" resname="pagination.previous">
+        <source>previous</source>
+        <target state="needs-translation">previous</target>
+      </trans-unit>
+      <trans-unit id="pagination.next" resname="pagination.next">
+        <source>next</source>
+        <target state="needs-translation">next</target>
+      </trans-unit>
+      <trans-unit id="pagination.first" resname="pagination.first">
+        <source>first</source>
+        <target state="needs-translation">first</target>
+      </trans-unit>
+      <trans-unit id="pagination.last" resname="pagination.last">
+        <source>last</source>
+        <target state="needs-translation">last</target>
+      </trans-unit>
+      <trans-unit id="pagination.records" resname="pagination.records">
+        <source>Records</source>
+        <target state="needs-translation">Records</target>
+      </trans-unit>
+      <trans-unit id="pagination.page" resname="pagination.page">
+        <source>Page</source>
+        <target state="needs-translation">Page</target>
+      </trans-unit>
+      <trans-unit id="pagination.refresh" resname="pagination.refresh">
+        <source>Refresh</source>
+        <target state="needs-translation">Refresh</target>
+      </trans-unit>
+      <trans-unit id="labels.delete.title" resname="labels.delete.title">
+        <source>Delete reactions</source>
+        <target state="needs-translation">Delete reactions</target>
+      </trans-unit>
+      <trans-unit id="labels.delete.message" resname="labels.delete.message">
+        <source>Are you sure you want to delete all marked reactions?</source>
+        <target state="needs-translation">Are you sure you want to delete all marked reactions?</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
