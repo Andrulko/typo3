@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file source-language="en" datatype="plaintext" original="EXT:core/Resources/Private/Language/Form/locallang_tabs.xlf" date="2016-10-23T20:22:33Z" product-name="tabs" target-language="fr">
+    <header/>
+    <body>
+      <trans-unit id="general" resname="general">
+        <source>General</source>
+        <target state="needs-translation">General</target>
+      </trans-unit>
+      <trans-unit id="access" resname="access">
+        <source>Access</source>
+        <target state="needs-translation">Access</target>
+      </trans-unit>
+      <trans-unit id="accesscapabilities" resname="accesscapabilities">
+        <source>Access capabilities</source>
+        <target state="needs-translation">Access capabilities</target>
+      </trans-unit>
+      <trans-unit id="categories" resname="categories">
+        <source>Categories</source>
+        <target state="needs-translation">Categories</target>
+      </trans-unit>
+      <trans-unit id="notes" resname="notes">
+        <source>Notes</source>
+        <target state="needs-translation">Notes</target>
+      </trans-unit>
+      <trans-unit id="language" resname="language">
+        <source>Language</source>
+        <target state="needs-translation">Language</target>
+      </trans-unit>
+      <trans-unit id="extended" resname="extended">
+        <source>Extended</source>
+        <target state="needs-translation">Extended</target>
+      </trans-unit>
+      <trans-unit id="appearance" resname="appearance">
+        <source>Appearance</source>
+        <target state="needs-translation">Appearance</target>
+      </trans-unit>
+      <trans-unit id="behaviour" resname="behaviour">
+        <source>Behaviour</source>
+        <target state="needs-translation">Behaviour</target>
+      </trans-unit>
+      <trans-unit id="images" resname="images">
+        <source>Images</source>
+        <target state="needs-translation">Images</target>
+      </trans-unit>
+      <trans-unit id="accessibility" resname="accessibility">
+        <source>Accessibility</source>
+        <target state="needs-translation">Accessibility</target>
+      </trans-unit>
+      <trans-unit id="text" resname="text">
+        <source>Text</source>
+        <target state="needs-translation">Text</target>
+      </trans-unit>
+      <trans-unit id="media" resname="media">
+        <source>Media</source>
+        <target state="needs-translation">Media</target>
+      </trans-unit>
+      <trans-unit id="plugin" resname="plugin">
+        <source>Plugin</source>
+        <target state="needs-translation">Plugin</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
