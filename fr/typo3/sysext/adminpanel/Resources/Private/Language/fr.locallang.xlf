@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file source-language="en" datatype="plaintext" original="EXT:adminpanel/Resources/Private/Language/locallang.xlf" date="2018-03-31T08:08:00Z" product-name="adminpanel" target-language="fr">
+    <header/>
+    <body>
+      <trans-unit id="deprecatedModuleLabel" resname="deprecatedModuleLabel">
+        <source>General</source>
+        <target state="needs-translation">General</target>
+      </trans-unit>
+      <trans-unit id="settings.label" resname="settings.label">
+        <source>Settings</source>
+        <target state="needs-translation">Settings</target>
+      </trans-unit>
+      <trans-unit id="settings.updateButtonLabel" resname="settings.updateButtonLabel">
+        <source>Update Settings</source>
+        <target state="needs-translation">Update Settings</target>
+      </trans-unit>
+      <trans-unit id="settings.openBackendUrlLabel" resname="settings.openBackendUrlLabel">
+        <source>Open page in backend</source>
+        <target state="needs-translation">Open page in backend</target>
+      </trans-unit>
+      <trans-unit id="button.close" resname="button.close">
+        <source>Close</source>
+        <target state="needs-translation">Close</target>
+      </trans-unit>
+      <trans-unit id="button.view" resname="button.view">
+        <source>View</source>
+        <target state="needs-translation">View</target>
+      </trans-unit>
+      <trans-unit id="button.clearAll" resname="button.clearAll">
+        <source>Clear all</source>
+        <target state="needs-translation">Clear all</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
