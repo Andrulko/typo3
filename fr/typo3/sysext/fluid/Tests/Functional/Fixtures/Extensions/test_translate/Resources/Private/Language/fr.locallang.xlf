@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file source-language="en" datatype="plaintext" original="EXT:test_translate/Resources/Private/Language/locallang.xlf" date="2023-08-22T09:10:11Z" target-language="fr">
+    <body>
+      <trans-unit id="shortcut.title" resname="shortcut.title">
+        <source>%s%s on page "%s" [%d]</source>
+        <target state="needs-translation">%s%s on page "%s" [%d]</target>
+      </trans-unit>
+      <trans-unit id="login.header" resname="login.header">
+        <source>Login</source>
+        <target state="needs-translation">Login</target>
+      </trans-unit>
+      <trans-unit id="form.legend" resname="form.legend">
+        <source>Search form</source>
+        <target state="needs-translation">Search form</target>
+      </trans-unit>
+      <trans-unit id="validator.string.notvalid" resname="validator.string.notvalid">
+        <source>A valid string is expected.</source>
+        <target state="needs-translation">A valid string is expected.</target>
+      </trans-unit>
+      <trans-unit id="not.localized.to.de" resname="not.localized.to.de">
+        <source>EN label</source>
+        <target state="needs-translation">EN label</target>
+      </trans-unit>
+      <trans-unit id="localized.to.de" resname="localized.to.de">
+        <source>EN label</source>
+        <target state="needs-translation">EN label</target>
+      </trans-unit>
+      <trans-unit id="localized.to.de_at" resname="localized.to.de_at">
+        <source>EN label</source>
+        <target state="needs-translation">EN label</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
