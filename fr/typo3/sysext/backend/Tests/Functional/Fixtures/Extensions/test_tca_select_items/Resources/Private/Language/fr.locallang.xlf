@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file source-language="en" datatype="plaintext" original="EXT:test_tca_select/Resources/Private/Language/locallang.xlf" date="2022-12-21T19:27:00Z" product-name="test_tca_select" target-language="fr">
+    <header/>
+    <body>
+      <trans-unit id="aLabel" resname="aLabel">
+        <source>translated</source>
+        <target state="needs-translation">translated</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
