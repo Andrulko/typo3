@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file source-language="en" datatype="plaintext" original="EXT:redirects/Resources/Private/Language/locallang_db.xlf" date="2017-12-29T20:22:14Z" product-name="redirects" target-language="fr">
+    <header/>
+    <body>
+      <trans-unit id="sys_redirect" resname="sys_redirect">
+        <source>Redirect</source>
+        <target state="needs-translation">Redirect</target>
+      </trans-unit>
+      <trans-unit id="sys_redirect.source_host" resname="sys_redirect.source_host">
+        <source>Source Domain</source>
+        <target state="needs-translation">Source Domain</target>
+      </trans-unit>
+      <trans-unit id="sys_redirect.source_path" resname="sys_redirect.source_path">
+        <source>Source Path</source>
+        <target state="needs-translation">Source Path</target>
+      </trans-unit>
+      <trans-unit id="sys_redirect.force_https" resname="sys_redirect.force_https">
+        <source>SSL Redirect</source>
+        <target state="needs-translation">SSL Redirect</target>
+      </trans-unit>
+      <trans-unit id="sys_redirect.force_https.0" resname="sys_redirect.force_https.0">
+        <source>Force SSL Redirect</source>
+        <target state="needs-translation">Force SSL Redirect</target>
+      </trans-unit>
+      <trans-unit id="sys_redirect.keep_query_parameters" resname="sys_redirect.keep_query_parameters">
+        <source>GET Parameters</source>
+        <target state="needs-translation">GET Parameters</target>
+      </trans-unit>
+      <trans-unit id="sys_redirect.keep_query_parameters.0" resname="sys_redirect.keep_query_parameters.0">
+        <source>Keep GET Parameters</source>
+        <target state="needs-translation">Keep GET Parameters</target>
+      </trans-unit>
+      <trans-unit id="sys_redirect.respect_query_parameters" resname="sys_redirect.respect_query_parameters">
+        <source>GET Parameters (source)</source>
+        <target state="needs-translation">GET Parameters (source)</target>
+      </trans-unit>
+      <trans-unit id="sys_redirect.respect_query_parameters.0" resname="sys_redirect.respect_query_parameters.0">
+        <source>Respect GET Parameters</source>
+        <target state="needs-translation">Respect GET Parameters</target>
+      </trans-unit>
+      <trans-unit id="sys_redirect.target" resname="sys_redirect.target">
+        <source>Target</source>
+        <target state="needs-translation">Target</target>
+      </trans-unit>
+      <trans-unit id="sys_redirect.target_statuscode" resname="sys_redirect.target_statuscode">
+        <source>Status Code HTTP Header</source>
+        <target state="needs-translation">Status Code HTTP Header</target>
+      </trans-unit>
+      <trans-unit id="sys_redirect.target_statuscode.301" resname="sys_redirect.target_statuscode.301">
+        <source>301 Moved Permanently</source>
+        <target state="needs-translation">301 Moved Permanently</target>
+      </trans-unit>
+      <trans-unit id="sys_redirect.target_statuscode.302" resname="sys_redirect.target_statuscode.302">
+        <source>302 Found</source>
+        <target state="needs-translation">302 Found</target>
+      </trans-unit>
+      <trans-unit id="sys_redirect.target_statuscode.303" resname="sys_redirect.target_statuscode.303">
+        <source>303 See Other</source>
+        <target state="needs-translation">303 See Other</target>
+      </trans-unit>
+      <trans-unit id="sys_redirect.target_statuscode.307" resname="sys_redirect.target_statuscode.307">
+        <source>307 Temporary Redirect</source>
+        <target state="needs-translation">307 Temporary Redirect</target>
+      </trans-unit>
+      <trans-unit id="sys_redirect.target_statuscode.308" resname="sys_redirect.target_statuscode.308">
+        <source>308 Permanent Redirect</source>
+        <target state="needs-translation">308 Permanent Redirect</target>
+      </trans-unit>
+      <trans-unit id="sys_redirect.target_statuscode.keep" resname="sys_redirect.target_statuscode.keep">
+        <source>Keep HTTP method</source>
+        <target state="needs-translation">Keep HTTP method</target>
+      </trans-unit>
+      <trans-unit id="sys_redirect.target_statuscode.change" resname="sys_redirect.target_statuscode.change">
+        <source>Change HTTP method to GET</source>
+        <target state="needs-translation">Change HTTP method to GET</target>
+      </trans-unit>
+      <trans-unit id="sys_redirect.hitcount" resname="sys_redirect.hitcount">
+        <source>Hit count</source>
+        <target state="needs-translation">Hit count</target>
+      </trans-unit>
+      <trans-unit id="sys_redirect.lasthiton" resname="sys_redirect.lasthiton">
+        <source>Last Hit on</source>
+        <target state="needs-translation">Last Hit on</target>
+      </trans-unit>
+      <trans-unit id="sys_redirect.hitcountState" resname="sys_redirect.hitcountState">
+        <source>Hit Counter</source>
+        <target state="needs-translation">Hit Counter</target>
+      </trans-unit>
+      <trans-unit id="sys_redirect.disable_hitcount" resname="sys_redirect.disable_hitcount">
+        <source>Disable Hit Counter</source>
+        <target state="needs-translation">Disable Hit Counter</target>
+      </trans-unit>
+      <trans-unit id="sys_redirect.disable_hitcount.0" resname="sys_redirect.disable_hitcount.0">
+        <source>Disable</source>
+        <target state="needs-translation">Disable</target>
+      </trans-unit>
+      <trans-unit id="tabs.redirectCount" resname="tabs.redirectCount">
+        <source>Statistics</source>
+        <target state="needs-translation">Statistics</target>
+      </trans-unit>
+      <trans-unit id="sys_redirect.protected" resname="sys_redirect.protected">
+        <source>Protected</source>
+        <target state="needs-translation">Protected</target>
+      </trans-unit>
+      <trans-unit id="sys_redirect.protected.description" resname="sys_redirect.protected">
+        <source>When enabled, this redirect will be skipped by scheduled cleanup tasks that might delete redirects under certain conditions.</source>
+        <target state="needs-translation">When enabled, this redirect will be skipped by scheduled cleanup tasks that might delete redirects under certain conditions.</target>
+      </trans-unit>
+      <trans-unit id="sys_redirect.is_regexp" resname="sys_redirect.is_regexp">
+        <source>Is regular expression?</source>
+        <target state="needs-translation">Is regular expression?</target>
+      </trans-unit>
+      <trans-unit id="sys_redirect.is_regexp.0" resname="sys_redirect.is_regexp.0">
+        <source>Yes</source>
+        <target state="needs-translation">Yes</target>
+      </trans-unit>
+      <trans-unit id="sys_redirect.disabled" resname="sys_redirect.disabled">
+        <source>Disable</source>
+        <target state="needs-translation">Disable</target>
+      </trans-unit>
+      <trans-unit id="sys_redirect.disabled.0" resname="sys_redirect.disabled.0">
+        <source>Deactivate redirect</source>
+        <target state="needs-translation">Deactivate redirect</target>
+      </trans-unit>
+      <trans-unit id="sys_redirect.creation_type" resname="sys_redirect.creation_type">
+        <source>Creation Type</source>
+        <target state="needs-translation">Creation Type</target>
+      </trans-unit>
+      <trans-unit id="sys_redirect.creation_type.1" resname="sys_redirect.creation_type.1">
+        <source>manually created</source>
+        <target state="needs-translation">manually created</target>
+      </trans-unit>
+      <trans-unit id="sys_redirect.creation_type.0" resname="sys_redirect.creation_type.0">
+        <source>automatically created</source>
+        <target state="needs-translation">automatically created</target>
+      </trans-unit>
+      <trans-unit id="sys_redirect.webhook_type.typo3-redirect-was-hit" resname="sys_redirect.webhook_type.typo3-redirect-was-hit">
+        <source>... when a redirect has been hit</source>
+        <target state="needs-translation">... when a redirect has been hit</target>
+      </trans-unit>
+      <trans-unit id="sys_redirect.integrity_status" resname="sys_redirect.integrity_status">
+        <source>Integrity status</source>
+        <target state="needs-translation">Integrity status</target>
+      </trans-unit>
+      <trans-unit id="sys_redirect.integrity_status.description" resname="sys_redirect.integrity_status.description">
+        <source>Redirects can be checked via the command redirects:checkintegrity.</source>
+        <target state="needs-translation">Redirects can be checked via the command redirects:checkintegrity.</target>
+      </trans-unit>
+      <trans-unit id="sys_redirect.integrity_status.no_conflict" resname="sys_redirect.integrity_status.no_conflict">
+        <source>No conflict</source>
+        <target state="needs-translation">No conflict</target>
+      </trans-unit>
+      <trans-unit id="sys_redirect.integrity_status.self_reference" resname="sys_redirect.integrity_status.self_reference">
+        <source>Self reference</source>
+        <target state="needs-translation">Self reference</target>
+      </trans-unit>
+      <trans-unit id="sys_redirect.uid" resname="sys_redirect.uid">
+        <source>UID</source>
+        <target state="needs-translation">UID</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

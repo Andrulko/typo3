@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file source-language="en" datatype="plaintext" original="EXT:backend/Resources/Private/Language/locallang_pages_new.xlf" date="2011-10-17T20:22:37Z" product-name="backend" target-language="fr">
+    <header/>
+    <body>
+      <trans-unit id="title" resname="title">
+        <source>Create multiple pages</source>
+        <target state="needs-translation">Create multiple pages</target>
+      </trans-unit>
+      <trans-unit id="canNotCreateNew.title" resname="canNotCreateNew.title">
+        <source>Insufficient permissions</source>
+        <target state="needs-translation">Insufficient permissions</target>
+      </trans-unit>
+      <trans-unit id="canNotCreateNew.message" resname="canNotCreateNew.message">
+        <source>Sorry, you are not allowed to create new subpages to this page due to access restrictions.</source>
+        <target state="needs-translation">Sorry, you are not allowed to create new subpages to this page due to access restrictions.</target>
+      </trans-unit>
+      <trans-unit id="newPage" resname="newPage">
+        <source>Page</source>
+        <target state="needs-translation">Page</target>
+      </trans-unit>
+      <trans-unit id="addMoreLines" resname="addMoreLines">
+        <source>Add more lines</source>
+        <target state="needs-translation">Add more lines</target>
+      </trans-unit>
+      <trans-unit id="listEnd" resname="listEnd">
+        <source>Place new pages after the existing subpages</source>
+        <target state="needs-translation">Place new pages after the existing subpages</target>
+      </trans-unit>
+      <trans-unit id="hidePages" resname="hidePages">
+        <source>Hide new pages</source>
+        <target state="needs-translation">Hide new pages</target>
+      </trans-unit>
+      <trans-unit id="hidePagesInMenus" resname="hidePagesInMenus">
+        <source>Hide new pages in menus</source>
+        <target state="needs-translation">Hide new pages in menus</target>
+      </trans-unit>
+      <trans-unit id="create" resname="create">
+        <source>Create pages</source>
+        <target state="needs-translation">Create pages</target>
+      </trans-unit>
+      <trans-unit id="reset" resname="reset">
+        <source>Clear fields</source>
+        <target state="needs-translation">Clear fields</target>
+      </trans-unit>
+      <trans-unit id="newSubPages" resname="newSubPages">
+        <source>New page structure</source>
+        <target state="needs-translation">New page structure</target>
+      </trans-unit>
+      <trans-unit id="newSubPages.pageTitle" resname="newSubPages.pageTitle">
+        <source>Page title</source>
+        <target state="needs-translation">Page title</target>
+      </trans-unit>
+      <trans-unit id="noPagesCreated.title" resname="noPagesCreated.title">
+        <source>No pages added</source>
+        <target state="needs-translation">No pages added</target>
+      </trans-unit>
+      <trans-unit id="noPagesCreated.message" resname="noPagesCreated.message">
+        <source>No pages were created.</source>
+        <target state="needs-translation">No pages were created.</target>
+      </trans-unit>
+      <trans-unit id="pagesCreated.title" resname="pagesCreated.title">
+        <source>Pages added</source>
+        <target state="needs-translation">Pages added</target>
+      </trans-unit>
+      <trans-unit id="pagesCreated.message" resname="pagesCreated.message">
+        <source>The pages were created successfully.</source>
+        <target state="needs-translation">The pages were created successfully.</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

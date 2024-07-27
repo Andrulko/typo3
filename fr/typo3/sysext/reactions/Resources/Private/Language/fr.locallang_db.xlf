@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file source-language="en" datatype="plaintext" original="EXT:reactions/Resources/Private/Language/locallang_db.xlf" date="2022-08-15T20:22:32Z" product-name="reactions" target-language="fr">
+    <header/>
+    <body>
+      <trans-unit id="reactions" resname="reactions">
+        <source>Reactions</source>
+        <target state="needs-translation">Reactions</target>
+      </trans-unit>
+      <trans-unit id="sys_reaction" resname="sys_reaction">
+        <source>System Reactions</source>
+        <target state="needs-translation">System Reactions</target>
+      </trans-unit>
+      <trans-unit id="sys_reaction.name" resname="sys_reaction.name">
+        <source>Name</source>
+        <target state="needs-translation">Name</target>
+      </trans-unit>
+      <trans-unit id="sys_reaction.name.description" resname="sys_reaction.name.description">
+        <source>Meaningful name of the reaction</source>
+        <target state="needs-translation">Meaningful name of the reaction</target>
+      </trans-unit>
+      <trans-unit id="sys_reaction.identifier" resname="sys_reaction.identifier">
+        <source>Identifier</source>
+        <target state="needs-translation">Identifier</target>
+      </trans-unit>
+      <trans-unit id="sys_reaction.identifier.description" resname="sys_reaction.identifier.description">
+        <source>This is your unique reaction identifier within the TYPO3 URL</source>
+        <target state="needs-translation">This is your unique reaction identifier within the TYPO3 URL</target>
+      </trans-unit>
+      <trans-unit id="sys_reaction.secret" resname="sys_reaction.secret">
+        <source>Secret</source>
+        <target state="needs-translation">Secret</target>
+      </trans-unit>
+      <trans-unit id="sys_reaction.secret.description" resname="sys_reaction.secret.description">
+        <source>The secret is required to call the reaction from the outside. The secret can be re-created anytime, but will only be visible once (until the record got saved).</source>
+        <target state="needs-translation">The secret is required to call the reaction from the outside. The secret can be re-created anytime, but will only be visible once (until the record got saved).</target>
+      </trans-unit>
+      <trans-unit id="sys_reaction.secret.passwordGenerator" resname="sys_reaction.secret.passwordGenerator">
+        <source>Generate secret token</source>
+        <target state="needs-translation">Generate secret token</target>
+      </trans-unit>
+      <trans-unit id="sys_reaction.reaction_type" resname="sys_reaction.reaction_type">
+        <source>Reaction Type</source>
+        <target state="needs-translation">Reaction Type</target>
+      </trans-unit>
+      <trans-unit id="sys_reactions.reaction_type.description" resname="sys_reactions.reaction_type.description">
+        <source>Select the reaction type to be configured.</source>
+        <target state="needs-translation">Select the reaction type to be configured.</target>
+      </trans-unit>
+      <trans-unit id="sys_reaction.reaction_type.select" resname="sys_reaction.reaction_type.select">
+        <source>Select a reaction</source>
+        <target state="needs-translation">Select a reaction</target>
+      </trans-unit>
+      <trans-unit id="sys_reaction.reaction_type.create_record" resname="sys_reaction.reaction_type.create_record">
+        <source>Create database record</source>
+        <target state="needs-translation">Create database record</target>
+      </trans-unit>
+      <trans-unit id="sys_reaction.impersonate_user" resname="sys_reaction.impersonate_user">
+        <source>Impersonate User</source>
+        <target state="needs-translation">Impersonate User</target>
+      </trans-unit>
+      <trans-unit id="sys_reaction.impersonate_user.description" resname="sys_reaction.impersonate_user.description">
+        <source>Select the user with the appropriate access rights that is allowed to add a record of this type. If in doubt, use the CLI user.</source>
+        <target state="needs-translation">Select the user with the appropriate access rights that is allowed to add a record of this type. If in doubt, use the CLI user.</target>
+      </trans-unit>
+      <trans-unit id="sys_reaction.table_name" resname="sys_reaction.table_name">
+        <source>Table</source>
+        <target state="needs-translation">Table</target>
+      </trans-unit>
+      <trans-unit id="sys_reaction.table_name.description" resname="sys_reaction.table_name.description">
+        <source>Select one tables to display the corresponding fields.</source>
+        <target state="needs-translation">Select one tables to display the corresponding fields.</target>
+      </trans-unit>
+      <trans-unit id="sys_reaction.table_name.select" resname="sys_reaction.table_name.select">
+        <source>Select a table</source>
+        <target state="needs-translation">Select a table</target>
+      </trans-unit>
+      <trans-unit id="sys_reaction.storage_pid" resname="sys_reaction.storage_pid">
+        <source>Storage PID</source>
+        <target state="needs-translation">Storage PID</target>
+      </trans-unit>
+      <trans-unit id="sys_reaction.storage_pid.description" resname="sys_reaction.storage_pid.description">
+        <source>Select the page on which a new record is created on.</source>
+        <target state="needs-translation">Select the page on which a new record is created on.</target>
+      </trans-unit>
+      <trans-unit id="sys_reaction.fields" resname="sys_reaction.fields">
+        <source>Fields</source>
+        <target state="needs-translation">Fields</target>
+      </trans-unit>
+      <trans-unit id="sys_reaction.fields.description" resname="sys_reaction.fields.description">
+        <source>The available fields depend on the selected table. The usage of placeholders like ${foo.bar} is possible.</source>
+        <target state="needs-translation">The available fields depend on the selected table. The usage of placeholders like ${foo.bar} is possible.</target>
+      </trans-unit>
+      <trans-unit id="palette.config" resname="palette.config">
+        <source>Configuration</source>
+        <target state="needs-translation">Configuration</target>
+      </trans-unit>
+      <trans-unit id="palette.config.description" resname="palette.config.description">
+        <source>General configuration of the reaction.</source>
+        <target state="needs-translation">General configuration of the reaction.</target>
+      </trans-unit>
+      <trans-unit id="palette.additional" resname="palette.additional">
+        <source>Additional configuration</source>
+        <target state="needs-translation">Additional configuration</target>
+      </trans-unit>
+      <trans-unit id="palette.additional.description" resname="palette.additional.description">
+        <source>Specific configuration for the selected reaction type</source>
+        <target state="needs-translation">Specific configuration for the selected reaction type</target>
+      </trans-unit>
+      <trans-unit id="fieldMapElement.noFields" resname="fieldMapElement.noFields">
+        <source>The selected table '%s' does not define any valid fields to be configured.</source>
+        <target state="needs-translation">The selected table '%s' does not define any valid fields to be configured.</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

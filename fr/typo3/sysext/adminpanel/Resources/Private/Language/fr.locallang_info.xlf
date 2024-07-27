@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file source-language="en" datatype="plaintext" original="EXT:adminpanel/Resources/Private/Language/locallang_info.xlf" date="2018-03-12T13:52:01Z" product-name="adminpanel" target-language="fr">
+    <header/>
+    <body>
+      <trans-unit id="module.label" resname="module.label">
+        <source>Info</source>
+        <target state="needs-translation">Info</target>
+      </trans-unit>
+      <trans-unit id="module.shortinfoLoadAndMemory" resname="module.shortinfoLoadAndMemory">
+        <source>(Load Time: %1$u ms, Memory: %2$s)</source>
+        <target state="needs-translation">(Load Time: %1$u ms, Memory: %2$s)</target>
+      </trans-unit>
+      <trans-unit id="imagesOnPage" resname="imagesOnPage">
+        <source>Images on this page</source>
+        <target state="needs-translation">Images on this page</target>
+      </trans-unit>
+      <trans-unit id="imagesSize" resname="imagesSize">
+        <source>Total image file sizes</source>
+        <target state="needs-translation">Total image file sizes</target>
+      </trans-unit>
+      <trans-unit id="DocumentSize" resname="DocumentSize">
+        <source>Document size</source>
+        <target state="needs-translation">Document size</target>
+      </trans-unit>
+      <trans-unit id="pageUid" resname="pageUid">
+        <source>Page Uid</source>
+        <target state="needs-translation">Page Uid</target>
+      </trans-unit>
+      <trans-unit id="pageType" resname="pageType">
+        <source>Page type</source>
+        <target state="needs-translation">Page type</target>
+      </trans-unit>
+      <trans-unit id="groupList" resname="groupList">
+        <source>Frontenduser group combination</source>
+        <target state="needs-translation">Frontenduser group combination</target>
+      </trans-unit>
+      <trans-unit id="noCache" resname="noCache">
+        <source>Page cached</source>
+        <target state="needs-translation">Page cached</target>
+      </trans-unit>
+      <trans-unit id="noCache_yes" resname="noCache_yes">
+        <source>Yes</source>
+        <target state="needs-translation">Yes</target>
+      </trans-unit>
+      <trans-unit id="noCache_no" resname="noCache_no">
+        <source>No</source>
+        <target state="needs-translation">No</target>
+      </trans-unit>
+      <trans-unit id="countUserInt" resname="countUserInt">
+        <source>Count of USER_INT objects</source>
+        <target state="needs-translation">Count of USER_INT objects</target>
+      </trans-unit>
+      <trans-unit id="feuserName" resname="feuserName">
+        <source>Name of logged in FE-User</source>
+        <target state="needs-translation">Name of logged in FE-User</target>
+      </trans-unit>
+      <trans-unit id="feuserId" resname="feuserId">
+        <source>Id of logged in FE-User</source>
+        <target state="needs-translation">Id of logged in FE-User</target>
+      </trans-unit>
+      <trans-unit id="totalParsetime" resname="totalParsetime">
+        <source>Total parsetime</source>
+        <target state="needs-translation">Total parsetime</target>
+      </trans-unit>
+      <trans-unit id="noUserInt" resname="noUserInt">
+        <source>There are no USER_INT objects on this page.</source>
+        <target state="needs-translation">There are no USER_INT objects on this page.</target>
+      </trans-unit>
+      <trans-unit id="key" resname="key">
+        <source>Key</source>
+        <target state="needs-translation">Key</target>
+      </trans-unit>
+      <trans-unit id="value" resname="value">
+        <source>Value</source>
+        <target state="needs-translation">Value</target>
+      </trans-unit>
+      <trans-unit id="sub.general.label" resname="sub.general.label">
+        <source>General</source>
+        <target state="needs-translation">General</target>
+      </trans-unit>
+      <trans-unit id="sub.php.label" resname="sub.php.label">
+        <source>PHP</source>
+        <target state="needs-translation">PHP</target>
+      </trans-unit>
+      <trans-unit id="sub.request.label" resname="sub.request.label">
+        <source>REQUEST</source>
+        <target state="needs-translation">REQUEST</target>
+      </trans-unit>
+      <trans-unit id="sub.userint.label" resname="sub.userint.label">
+        <source>USER_INT</source>
+        <target state="needs-translation">USER_INT</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file source-language="en" datatype="plaintext" original="EXT:tstemplate/Resources/Private/Language/locallang_active.xlf" date="2011-10-17T20:22:37Z" product-name="tstemplate" target-language="fr">
+    <header/>
+    <body>
+      <trans-unit id="submodule.title" resname="submodule.title">
+        <source>Active TypoScript</source>
+        <target state="needs-translation">Active TypoScript</target>
+      </trans-unit>
+      <trans-unit id="submodule.titleWithRecord" resname="submodule.titleWithRecord">
+        <source>Active TypoScript for record "%s"</source>
+        <target state="needs-translation">Active TypoScript for record "%s"</target>
+      </trans-unit>
+      <trans-unit id="submodule.description" resname="submodule.description">
+        <source>Overview of the current TypoScript configuration of the system, divided into constants and setup parts. Optionally, the constant values can be displayed directly in the setup. A targeted search for values and TypoScript names is possible. The list of results can also be filtered according to TypoScript conditions.</source>
+        <target state="needs-translation">Overview of the current TypoScript configuration of the system, divided into constants and setup parts. Optionally, the constant values can be displayed directly in the setup. A targeted search for values and TypoScript names is possible. The list of results can also be filtered according to TypoScript conditions.</target>
+      </trans-unit>
+      <trans-unit id="infobox.message.noTypoScriptFound" resname="infobox.message.noTypoScriptFound">
+        <source>No TypoScript found.</source>
+        <target state="needs-translation">No TypoScript found.</target>
+      </trans-unit>
+      <trans-unit id="options.displayComments" resname="options.displayComments">
+        <source>Display comments</source>
+        <target state="needs-translation">Display comments</target>
+      </trans-unit>
+      <trans-unit id="options.displayConstantSubstitutions" resname="options.displayConstantSubstitutions">
+        <source>Substitute constants in setup</source>
+        <target state="needs-translation">Substitute constants in setup</target>
+      </trans-unit>
+      <trans-unit id="options.selectedRecord" resname="options.selectedRecord">
+        <source>Selected record</source>
+        <target state="needs-translation">Selected record</target>
+      </trans-unit>
+      <trans-unit id="options.sortAlphabetically" resname="options.sortAlphabetically">
+        <source>Sort keys alphabetically</source>
+        <target state="needs-translation">Sort keys alphabetically</target>
+      </trans-unit>
+      <trans-unit id="sectionHeadline.constants" resname="sectionHeadline.constants">
+        <source>Constants</source>
+        <target state="needs-translation">Constants</target>
+      </trans-unit>
+      <trans-unit id="sectionHeadline.setup" resname="sectionHeadline.setup">
+        <source>Setup</source>
+        <target state="needs-translation">Setup</target>
+      </trans-unit>
+      <trans-unit id="panel.header.conditions" resname="panel.header.conditions">
+        <source>Conditions</source>
+        <target state="needs-translation">Conditions</target>
+      </trans-unit>
+      <trans-unit id="panel.header.configuration" resname="panel.header.configuration">
+        <source>Configuration</source>
+        <target state="needs-translation">Configuration</target>
+      </trans-unit>
+      <trans-unit id="panel.header.numberOfSearchMatches" resname="panel.header.numberOfSearchMatches">
+        <source>%s search match(es)</source>
+        <target state="needs-translation">%s search match(es)</target>
+      </trans-unit>
+      <trans-unit id="panel.info.conditionActiveCount.multiple" resname="panel.info.conditionActiveCount.multiple">
+        <source>%s active conditions</source>
+        <target state="needs-translation">%s active conditions</target>
+      </trans-unit>
+      <trans-unit id="panel.info.conditionActiveCount.single" resname="panel.info.conditionActiveCount.single">
+        <source>%s active condition</source>
+        <target state="needs-translation">%s active condition</target>
+      </trans-unit>
+      <trans-unit id="panel.info.conditionWithConstant" resname="panel.info.conditionWithConstant">
+        <source>Constant usage: [%s]</source>
+        <target state="needs-translation">Constant usage: [%s]</target>
+      </trans-unit>
+      <trans-unit id="tree.valueWithConstant" resname="tree.valueWithConstant">
+        <source>Constant usage: %s</source>
+        <target state="needs-translation">Constant usage: %s</target>
+      </trans-unit>
+      <!-- Edit action -->
+      <trans-unit id="editAction.submodule.title" resname="editAction.submodule.title">
+        <source>Edit single property</source>
+        <target state="needs-translation">Edit single property</target>
+      </trans-unit>
+      <trans-unit id="editAction.submodule.titleWithTemplate" resname="editAction.submodule.titleWithTemplate">
+        <source>Edit single property in TypoScript record "%s"</source>
+        <target state="needs-translation">Edit single property in TypoScript record "%s"</target>
+      </trans-unit>
+      <trans-unit id="editAction.infobox.title.noTypoScriptTemplateOnCurrentPage" resname="editAction.infobox.title.noTypoScriptTemplateOnCurrentPage">
+        <source>No TypoScript record on the current page</source>
+        <target state="needs-translation">No TypoScript record on the current page</target>
+      </trans-unit>
+      <trans-unit id="editAction.infobox.message.noTypoScriptTemplateOnCurrentPage" resname="editAction.infobox.message.noTypoScriptTemplateOnCurrentPage">
+        <source>You cannot edit properties and values if there is no current TypoScript record in which the configuration can be stored. Please create an extension TypoScript record in "Edit TypoScript Record" first.</source>
+        <target state="needs-translation">You cannot edit properties and values if there is no current TypoScript record in which the configuration can be stored. Please create an extension TypoScript record in "Edit TypoScript Record" first.</target>
+      </trans-unit>
+      <trans-unit id="editAction.addProperty.headline" resname="editAction.addProperty.headline">
+        <source>Add or override child property</source>
+        <target state="needs-translation">Add or override child property</target>
+      </trans-unit>
+      <trans-unit id="editAction.addProperty.btn" resname="editAction.addProperty.btn">
+        <source>Add</source>
+        <target state="needs-translation">Add</target>
+      </trans-unit>
+      <trans-unit id="editAction.editProperty.headline" resname="editAction.editProperty.headline">
+        <source>Edit current value</source>
+        <target state="needs-translation">Edit current value</target>
+      </trans-unit>
+      <trans-unit id="editAction.editProperty.btn" resname="editAction.editProperty.btn">
+        <source>Update</source>
+        <target state="needs-translation">Update</target>
+      </trans-unit>
+      <trans-unit id="editAction.clearObject.headline" resname="editAction.clearObject.headline">
+        <source>Clear the object</source>
+        <target state="needs-translation">Clear the object</target>
+      </trans-unit>
+      <trans-unit id="editAction.clearObject.infotextWithProperty" resname="editAction.clearObject.infotextWithProperty">
+        <source>The object will be cleared via the statement:</source>
+        <target state="needs-translation">The object will be cleared via the statement:</target>
+      </trans-unit>
+      <trans-unit id="editAction.clearObject.btn" resname="editAction.clearObject.btn">
+        <source>Clear now</source>
+        <target state="needs-translation">Clear now</target>
+      </trans-unit>
+      <!-- Update action -->
+      <trans-unit id="updateAction.lineAdded" resname="updateAction.lineAdded">
+        <source>Line added to current TypoScript record</source>
+        <target state="needs-translation">Line added to current TypoScript record</target>
+      </trans-unit>
+      <trans-unit id="updateAction.lineNotAdded" resname="updateAction.lineNotAdded">
+        <source>No line added to current TypoScript record</source>
+        <target state="needs-translation">No line added to current TypoScript record</target>
+      </trans-unit>
+      <trans-unit id="updateAction.noSpaces" resname="updateAction.noSpaces">
+        <source>You must enter a property with characters "a-z", "A-Z", "0-9", or ".". Dots will be quoted. No spaces or special chars.</source>
+        <target state="needs-translation">You must enter a property with characters "a-z", "A-Z", "0-9", or ".". Dots will be quoted. No spaces or special chars.</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

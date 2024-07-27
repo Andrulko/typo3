@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file source-language="en" datatype="plaintext" original="EXT:recycler/Resources/Private/Language/locallang.xlf" date="2011-10-17T20:22:35Z" product-name="recycler" target-language="fr">
+    <header/>
+    <body>
+      <trans-unit id="title" resname="title">
+        <source>Recycler</source>
+        <target state="needs-translation">Recycler</target>
+      </trans-unit>
+      <trans-unit id="description" resname="description">
+        <source>The recycler allows you to select any deleted data and undelete it. You can undelete recursive if the parent of the element is deleted too.</source>
+        <target state="needs-translation">The recycler allows you to select any deleted data and undelete it. You can undelete recursive if the parent of the element is deleted too.</target>
+      </trans-unit>
+      <trans-unit id="label_allrecordtypes" resname="label_allrecordtypes">
+        <source>All Record Types</source>
+        <target state="needs-translation">All Record Types</target>
+      </trans-unit>
+      <trans-unit id="filter.search">
+        <source>Search term</source>
+        <target state="needs-translation">Search term</target>
+      </trans-unit>
+      <trans-unit id="filter.depth">
+        <source>Depth</source>
+        <target state="needs-translation">Depth</target>
+      </trans-unit>
+      <trans-unit id="filter.type">
+        <source>Type</source>
+        <target state="needs-translation">Type</target>
+      </trans-unit>
+      <trans-unit id="button.cancel" resname="button.cancel">
+        <source>Cancel</source>
+        <target state="needs-translation">Cancel</target>
+      </trans-unit>
+      <trans-unit id="button.delete" resname="button.delete">
+        <source>Delete</source>
+        <target state="needs-translation">Delete</target>
+      </trans-unit>
+      <trans-unit id="button.deleteselected" resname="button.deleteselected">
+        <source>Delete {0} records</source>
+        <target state="needs-translation">Delete {0} records</target>
+      </trans-unit>
+      <trans-unit id="button.undo" resname="button.undo">
+        <source>Recover</source>
+        <target state="needs-translation">Recover</target>
+      </trans-unit>
+      <trans-unit id="button.expand" resname="button.expand">
+        <source>Expand record</source>
+        <target state="needs-translation">Expand record</target>
+      </trans-unit>
+      <trans-unit id="button.dropdown.multiselect" resname="button.dropdown.multiselect">
+        <source>Open context menu for multiselect options</source>
+        <target state="needs-translation">Open context menu for multiselect options</target>
+      </trans-unit>
+      <trans-unit id="button.undoselected" resname="button.undoselected">
+        <source>Recover {0} records</source>
+        <target state="needs-translation">Recover {0} records</target>
+      </trans-unit>
+      <trans-unit id="button.reload" resname="button.reload">
+        <source>Reload</source>
+        <target state="needs-translation">Reload</target>
+      </trans-unit>
+      <trans-unit id="modal.delete.header" resname="modal.delete.header">
+        <source>Confirm deletion</source>
+        <target state="needs-translation">Confirm deletion</target>
+      </trans-unit>
+      <trans-unit id="modal.undo.header" resname="modal.undo.header">
+        <source>Recover records</source>
+        <target state="needs-translation">Recover records</target>
+      </trans-unit>
+      <trans-unit id="modal.undo.recursive" resname="modal.undo.recursive">
+        <source>Recover content and subpages recursively</source>
+        <target state="needs-translation">Recover content and subpages recursively</target>
+      </trans-unit>
+      <trans-unit id="modal.deletecontent.text" resname="modal.deletecontent.text">
+        <source>Do you really want to delete the record "{0}" {1} permanently? You cannot revert this action!</source>
+        <target state="needs-translation">Do you really want to delete the record "{0}" {1} permanently? You cannot revert this action!</target>
+      </trans-unit>
+      <trans-unit id="modal.massdelete.text" resname="modal.massdelete.text">
+        <source>Do you really want to delete all selected records and potential subpages? You cannot revert this action!</source>
+        <target state="needs-translation">Do you really want to delete all selected records and potential subpages? You cannot revert this action!</target>
+      </trans-unit>
+      <trans-unit id="modal.deletepage.text" resname="modal.deletepage.text">
+        <source>Do you really want to delete the page "{0}" {1} and all of its contents (records and pages) permanently? You cannot revert this action!</source>
+        <target state="needs-translation">Do you really want to delete the page "{0}" {1} and all of its contents (records and pages) permanently? You cannot revert this action!</target>
+      </trans-unit>
+      <trans-unit id="modal.undocontent.text" resname="modal.undocontent.text">
+        <source>Do you really want to recover the record "{0}" {1}?</source>
+        <target state="needs-translation">Do you really want to recover the record "{0}" {1}?</target>
+      </trans-unit>
+      <trans-unit id="modal.undopage.text" resname="modal.undopage.text">
+        <source>Do you really want to recover the page "{0}" {1}, its contents and optionally all of its subpages?</source>
+        <target state="needs-translation">Do you really want to recover the page "{0}" {1}, its contents and optionally all of its subpages?</target>
+      </trans-unit>
+      <trans-unit id="modal.undo.parentpages" resname="modal.undo.parentpages">
+        <source>All parent pages have been restored to ensure a valid rootline!</source>
+        <target state="needs-translation">All parent pages have been restored to ensure a valid rootline!</target>
+      </trans-unit>
+      <trans-unit id="modal.massundo.text" resname="modal.massundo.text">
+        <source>Do you really want to recover all selected records and optionally potential subpages?</source>
+        <target state="needs-translation">Do you really want to recover all selected records and optionally potential subpages?</target>
+      </trans-unit>
+      <trans-unit id="flashmessage.delete.norecordsselected" resname="flashmessage.delete.norecordsselected">
+        <source>No records set to delete.</source>
+        <target state="needs-translation">No records set to delete.</target>
+      </trans-unit>
+      <trans-unit id="flashmessage.delete.success.singular" resname="flashmessage.delete.success.singular">
+        <source>One record was deleted.</source>
+        <target state="needs-translation">One record was deleted.</target>
+      </trans-unit>
+      <trans-unit id="flashmessage.delete.success.plural" resname="flashmessage.delete.success.plural">
+        <source>%d records were deleted.</source>
+        <target state="needs-translation">%d records were deleted.</target>
+      </trans-unit>
+      <trans-unit id="flashmessage.delete.failure.singular" resname="flashmessage.delete.failure.singular">
+        <source>Could not delete one record.</source>
+        <target state="needs-translation">Could not delete one record.</target>
+      </trans-unit>
+      <trans-unit id="flashmessage.delete.failure.plural" resname="flashmessage.delete.failure.plural">
+        <source>Could not delete %d records.</source>
+        <target state="needs-translation">Could not delete %d records.</target>
+      </trans-unit>
+      <trans-unit id="flashmessage.undo.norecordsselected" resname="flashmessage.undo.norecordsselected">
+        <source>No records set to recover.</source>
+        <target state="needs-translation">No records set to recover.</target>
+      </trans-unit>
+      <trans-unit id="flashmessage.undo.success.singular" resname="flashmessage.undo.success.singular">
+        <source>One record was recovered.</source>
+        <target state="needs-translation">One record was recovered.</target>
+      </trans-unit>
+      <trans-unit id="flashmessage.undo.success.plural" resname="flashmessage.undo.success.plural">
+        <source>%d records were recovered.</source>
+        <target state="needs-translation">%d records were recovered.</target>
+      </trans-unit>
+      <trans-unit id="flashmessage.undo.failure.singular" resname="flashmessage.undo.failure.singular">
+        <source>Could not recover one record.</source>
+        <target state="needs-translation">Could not recover one record.</target>
+      </trans-unit>
+      <trans-unit id="flashmessage.undo.failure.plural" resname="flashmessage.undo.failure.plural">
+        <source>Could not recover %d records.</source>
+        <target state="needs-translation">Could not recover %d records.</target>
+      </trans-unit>
+      <trans-unit id="table.caption.recently_deleted_records" resname="table.caption.recently_deleted_records">
+        <source>Recently deleted records</source>
+        <target state="needs-translation">Recently deleted records</target>
+      </trans-unit>
+      <trans-unit id="table.header.uid" resname="table.header.uid">
+        <source>UID</source>
+        <target state="needs-translation">UID</target>
+      </trans-unit>
+      <trans-unit id="table.header.pageTitle" resname="table.header.pageTitle">
+        <source>Page title</source>
+        <target state="needs-translation">Page title</target>
+      </trans-unit>
+      <trans-unit id="table.header.pid" resname="table.header.pid">
+        <source>Page ID</source>
+        <target state="needs-translation">Page ID</target>
+      </trans-unit>
+      <trans-unit id="table.header.record" resname="table.header.record">
+        <source>Record</source>
+        <target state="needs-translation">Record</target>
+      </trans-unit>
+      <trans-unit id="table.header.tstamp" resname="table.header.tstamp">
+        <source>Last edit</source>
+        <target state="needs-translation">Last edit</target>
+      </trans-unit>
+      <trans-unit id="table.header.crdate" resname="table.header.crdate">
+        <source>Created at</source>
+        <target state="needs-translation">Created at</target>
+      </trans-unit>
+      <trans-unit id="table.header.createdBy" resname="table.header.createdBy">
+        <source>Created by</source>
+        <target state="needs-translation">Created by</target>
+      </trans-unit>
+      <trans-unit id="table.header.deletedBy" resname="table.header.deletedBy">
+        <source>Deleted by</source>
+        <target state="needs-translation">Deleted by</target>
+      </trans-unit>
+      <trans-unit id="table.header.path" resname="table.header.path">
+        <source>Path</source>
+        <target state="needs-translation">Path</target>
+      </trans-unit>
+      <trans-unit id="record.userDeleted" resname="record.userDeleted">
+        <source>[Deleted user] (id=%s)</source>
+        <target state="needs-translation">[Deleted user] (id=%s)</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

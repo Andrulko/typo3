@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file source-language="en" datatype="plaintext" original="EXT:backend/Resources/Private/Language/locallang_toolbar.xlf" date="2024-06-17T15:00:00Z" product-name="lang" target-language="fr">
+    <header/>
+    <body>
+      <trans-unit id="toolbarItems.bookmarkAlreadyExistsMessage" resname="toolbarItems.bookmarkAlreadyExistsMessage">
+        <source>The document is already in your bookmarks.</source>
+        <target state="needs-translation">The document is already in your bookmarks.</target>
+      </trans-unit>
+      <trans-unit id="toolbarItems.bookmarkAlreadyExistsTitle" resname="toolbarItems.bookmarkAlreadyExistsTitle">
+        <source>Bookmark already exists</source>
+        <target state="needs-translation">Bookmark already exists</target>
+      </trans-unit>
+      <trans-unit id="toolbarItems.bookmarkFailedMessage" resname="toolbarItems.bookmarkFailedMessage">
+        <source>The bookmark couldn't get created</source>
+        <target state="needs-translation">The bookmark couldn't get created</target>
+      </trans-unit>
+      <trans-unit id="toolbarItems.bookmarkFailedTitle" resname="toolbarItems.bookmarkFailedTitle">
+        <source>Bookmark creation failed</source>
+        <target state="needs-translation">Bookmark creation failed</target>
+      </trans-unit>
+      <trans-unit id="toolbarItems.bookmarkSavedMessage" resname="toolbarItems.bookmarkSavedMessage">
+        <source>The bookmark was saved.</source>
+        <target state="needs-translation">The bookmark was saved.</target>
+      </trans-unit>
+      <trans-unit id="toolbarItems.bookmarkSavedTitle" resname="toolbarItems.bookmarkSavedTitle">
+        <source>Bookmark saved</source>
+        <target state="needs-translation">Bookmark saved</target>
+      </trans-unit>
+      <trans-unit id="toolbarItems.bookmarks" resname="toolbarItems.bookmarks">
+        <source>Bookmarks</source>
+        <target state="needs-translation">Bookmarks</target>
+      </trans-unit>
+      <trans-unit id="toolbarItems.bookmarks.description" resname="toolbarItems.bookmarks.description">
+        <source>This is the bookmarks menu. You do not have any bookmarks added yet. You can add one by clicking the bookmark icon %s, which you can find on all pages in the backend.</source>
+        <target state="needs-translation">This is the bookmarks menu. You do not have any bookmarks added yet. You can add one by clicking the bookmark icon %s, which you can find on all pages in the backend.</target>
+      </trans-unit>
+      <trans-unit id="toolbarItems.bookmarks.field.group" resname="toolbarItems.bookmarks.field.group">
+        <source>Group</source>
+        <target state="needs-translation">Group</target>
+      </trans-unit>
+      <trans-unit id="toolbarItems.bookmarks.field.title" resname="toolbarItems.bookmarks.field.title">
+        <source>Title</source>
+        <target state="needs-translation">Title</target>
+      </trans-unit>
+      <trans-unit id="toolbarItems.bookmarks.notGrouped" resname="toolbarItems.bookmarks.notGrouped">
+        <source>Not grouped</source>
+        <target state="needs-translation">Not grouped</target>
+      </trans-unit>
+      <trans-unit id="toolbarItems.bookmarksDelete" resname="toolbarItems.bookmarksDelete">
+        <source>Delete bookmark</source>
+        <target state="needs-translation">Delete bookmark</target>
+      </trans-unit>
+      <trans-unit id="toolbarItems.bookmarksEdit" resname="toolbarItems.bookmarksEdit">
+        <source>Edit bookmark</source>
+        <target state="needs-translation">Edit bookmark</target>
+      </trans-unit>
+      <trans-unit id="toolbarItems.confirmBookmarksDelete" resname="toolbarItems.confirmBookmarksDelete">
+        <source>Do you really want to remove this bookmark?</source>
+        <target state="needs-translation">Do you really want to remove this bookmark?</target>
+      </trans-unit>
+      <trans-unit id="toolbarItems.clearCache" resname="toolbarItems.clearCache">
+        <source>Clear cache</source>
+        <target state="needs-translation">Clear cache</target>
+      </trans-unit>
+      <trans-unit id="toolbarItems.help" resname="toolbarItems.help">
+        <source>Help</source>
+        <target state="needs-translation">Help</target>
+      </trans-unit>
+      <trans-unit id="toolbarItems.minMaxModuleMenu" resname="toolbarItems.minMaxModuleMenu">
+        <source>Minimize/maximize module menu</source>
+        <target state="needs-translation">Minimize/maximize module menu</target>
+      </trans-unit>
+      <trans-unit id="toolbarItems.search" resname="toolbarItems.search">
+        <source>Search</source>
+        <target state="needs-translation">Search</target>
+      </trans-unit>
+      <trans-unit id="toolbarItems.searchbarOpenClose" resname="toolbarItems.searchbarOpenClose">
+        <source>Open/Close searchbar</source>
+        <target state="needs-translation">Open/Close searchbar</target>
+      </trans-unit>
+      <trans-unit id="toolbarItems.sysinfo" resname="toolbarItems.sysinfo">
+        <source>System Information</source>
+        <target state="needs-translation">System Information</target>
+      </trans-unit>
+      <trans-unit id="toolbarItems.sysinfo.intro.text" resname="toolbarItems.sysinfo.intro.text">
+        <source>This is a short system overview. For advanced information please head to: </source>
+        <target state="needs-translation">This is a short system overview. For advanced information please head to: </target>
+      </trans-unit>
+      <trans-unit id="toolbarItems.sysinfo.intro.link" resname="toolbarItems.sysinfo.intro.link">
+        <source>Environment Module</source>
+        <target state="needs-translation">Environment Module</target>
+      </trans-unit>
+      <trans-unit id="toolbarItems.sysinfo.allgood" resname="toolbarItems.sysinfo.allgood" xml:space="preserve">
+				<source>Your system is fully operational.
+Have a nice day.</source>
+			<target state="needs-translation">Your system is fully operational.
+Have a nice day.</target></trans-unit>
+      <trans-unit id="toolbarItems.sysinfo.applicationcontext" resname="toolbarItems.sysinfo.applicationcontext">
+        <source>Application Context</source>
+        <target state="needs-translation">Application Context</target>
+      </trans-unit>
+      <trans-unit id="toolbarItems.sysinfo.composerMode" resname="toolbarItems.sysinfo.composerMode">
+        <source>Composer mode</source>
+        <target state="needs-translation">Composer mode</target>
+      </trans-unit>
+      <trans-unit id="toolbarItems.sysinfo.database" resname="toolbarItems.sysinfo.database">
+        <source>Database</source>
+        <target state="needs-translation">Database</target>
+      </trans-unit>
+      <trans-unit id="toolbarItems.sysinfo.database.offline" resname="toolbarItems.sysinfo.database.offline">
+        <source>Offline</source>
+        <target state="needs-translation">Offline</target>
+      </trans-unit>
+      <trans-unit id="toolbarItems.sysinfo.debugger" resname="toolbarItems.sysinfo.debugger">
+        <source>Debugger</source>
+        <target state="needs-translation">Debugger</target>
+      </trans-unit>
+      <trans-unit id="toolbarItems.sysinfo.gitrevision" resname="toolbarItems.sysinfo.gitrevision">
+        <source>GIT Revision</source>
+        <target state="needs-translation">GIT Revision</target>
+      </trans-unit>
+      <trans-unit id="toolbarItems.sysinfo.operatingsystem" resname="toolbarItems.sysinfo.operatingsystem">
+        <source>Operating System</source>
+        <target state="needs-translation">Operating System</target>
+      </trans-unit>
+      <trans-unit id="toolbarItems.sysinfo.phpversion" resname="toolbarItems.sysinfo.phpversion">
+        <source>PHP Version</source>
+        <target state="needs-translation">PHP Version</target>
+      </trans-unit>
+      <trans-unit id="toolbarItems.sysinfo.typo3-version" resname="toolbarItems.sysinfo.typo3-version">
+        <source>TYPO3 Version</source>
+        <target state="needs-translation">TYPO3 Version</target>
+      </trans-unit>
+      <trans-unit id="toolbarItems.sysinfo.webserver" resname="toolbarItems.sysinfo.webserver">
+        <source>Webserver</source>
+        <target state="needs-translation">Webserver</target>
+      </trans-unit>
+      <trans-unit id="toolbarItems.toolbarOpenClose" resname="toolbarItems.toolbarOpenClose">
+        <source>Open/Close toolbar</source>
+        <target state="needs-translation">Open/Close toolbar</target>
+      </trans-unit>
+      <trans-unit id="toolbarItems.user.account.switchToUserMode.tooltip" resname="toolbarItems.user.account.switchToUserMode.tooltip">
+        <source>Switch to User</source>
+        <target state="needs-translation">Switch to User</target>
+      </trans-unit>
+      <trans-unit id="toolbarItems.user.account.switchToUserMode.account.prefix" resname="toolbarItems.user.account.switchToUserMode.account.prefix">
+        <source>SU</source>
+        <target state="needs-translation">SU</target>
+      </trans-unit>
+      <trans-unit id="toolbarItems.user.recentlySwitchedUsers" resname="toolbarItems.user.recentlySwitchedUsers">
+        <source>Recently switched to</source>
+        <target state="needs-translation">Recently switched to</target>
+      </trans-unit>
+      <trans-unit id="toolbarItems.user.recentlySwitchedUsers.su.tooltip" resname="toolbarItems.user.recentlySwitchedUsers.su.tooltip">
+        <source>Switch to user %s</source>
+        <target state="needs-translation">Switch to user %s</target>
+      </trans-unit>
+      <trans-unit id="toolbarItems.user.btn.exitSwitchUser" resname="toolbarItems.user.btn.exitSwitchUser">
+        <source>Exit switch user mode</source>
+        <target state="needs-translation">Exit switch user mode</target>
+      </trans-unit>
+      <trans-unit id="toolbarItems.user.btn.logout" resname="toolbarItems.user.btn.logout">
+        <source>Logout</source>
+        <target state="needs-translation">Logout</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

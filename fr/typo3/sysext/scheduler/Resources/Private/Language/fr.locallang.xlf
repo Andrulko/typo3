@@ -1,0 +1,786 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file source-language="en" datatype="plaintext" original="EXT:scheduler/Resources/Private/Language/locallang.xlf" date="2011-10-17T20:22:37Z" product-name="scheduler" target-language="fr">
+    <header/>
+    <body>
+      <trans-unit id="button.cancel" resname="button.cancel">
+        <source>Cancel</source>
+        <target state="needs-translation">Cancel</target>
+      </trans-unit>
+      <trans-unit id="button.group.modalOk" resname="button.group.modalOk">
+        <source>Create group</source>
+        <target state="needs-translation">Create group</target>
+      </trans-unit>
+      <trans-unit id="function.scheduler" resname="function.scheduler">
+        <source>Scheduled tasks</source>
+        <target state="needs-translation">Scheduled tasks</target>
+      </trans-unit>
+      <trans-unit id="function.check" resname="function.check">
+        <source>Scheduler setup check</source>
+        <target state="needs-translation">Scheduler setup check</target>
+      </trans-unit>
+      <trans-unit id="function.info" resname="function.info">
+        <source>Available scheduler commands &amp; tasks</source>
+        <target state="needs-translation">Available scheduler commands &amp; tasks</target>
+      </trans-unit>
+      <trans-unit id="function.edit" resname="function.edit">
+        <source>Edit scheduled task "%s"</source>
+        <target state="needs-translation">Edit scheduled task "%s"</target>
+      </trans-unit>
+      <trans-unit id="function.add" resname="function.add">
+        <source>New task</source>
+        <target state="needs-translation">New task</target>
+      </trans-unit>
+      <trans-unit id="function.group.add" resname="function.group.add">
+        <source>New group</source>
+        <target state="needs-translation">New group</target>
+      </trans-unit>
+      <trans-unit id="function.group.label" resname="function.group.label">
+        <source>Group name</source>
+        <target state="needs-translation">Group name</target>
+      </trans-unit>
+      <trans-unit id="hdg.cliScript" resname="hdg.cliScript">
+        <source>CLI script</source>
+        <target state="needs-translation">CLI script</target>
+      </trans-unit>
+      <trans-unit id="hdg.composerMode" resname="hdg.composerMode">
+        <source>System is running in Composer Mode</source>
+        <target state="needs-translation">System is running in Composer Mode</target>
+      </trans-unit>
+      <trans-unit id="msg.composerMode" resname="msg.composerMode">
+        <source>
+					The system is running in composer mode, the path to the `typo3` executable could not be reliably determined.
+					By default, the command to run in composer mode is `vendor/bin/typo3 scheduler:run`.
+				</source>
+        <target state="needs-translation">
+					The system is running in composer mode, the path to the `typo3` executable could not be reliably determined.
+					By default, the command to run in composer mode is `vendor/bin/typo3 scheduler:run`.
+				</target>
+      </trans-unit>
+      <trans-unit id="hdg.lastRun" resname="hdg.lastRun">
+        <source>Last run</source>
+        <target state="needs-translation">Last run</target>
+      </trans-unit>
+      <trans-unit id="availableCommands.headline" resname="availableCommands.headline">
+        <source>Available commands</source>
+        <target state="needs-translation">Available commands</target>
+      </trans-unit>
+      <trans-unit id="availableCommands.description" resname="availableCommands.description">
+        <source>List of all available commands in this TYPO3 installation.</source>
+        <target state="needs-translation">List of all available commands in this TYPO3 installation.</target>
+      </trans-unit>
+      <trans-unit id="availableCommands.noCommandsDefined" resname="availableCommands.noCommandsDefined">
+        <source>There are currently no commands available at all.</source>
+        <target state="needs-translation">There are currently no commands available at all.</target>
+      </trans-unit>
+      <trans-unit id="availableTasks.headline" resname="availableTasks.headline">
+        <source>Available tasks</source>
+        <target state="needs-translation">Available tasks</target>
+      </trans-unit>
+      <trans-unit id="availableTasks.description" resname="availableTasks.description">
+        <source>List of all available tasks in this TYPO3 installation.</source>
+        <target state="needs-translation">List of all available tasks in this TYPO3 installation.</target>
+      </trans-unit>
+      <trans-unit id="label.automatically" resname="label.automatically">
+        <source>automatically</source>
+        <target state="needs-translation">automatically</target>
+      </trans-unit>
+      <trans-unit id="label.cachingFrameworkGarbageCollection.selectBackends" resname="label.cachingFrameworkGarbageCollection.selectBackends">
+        <source>Backend types</source>
+        <target state="needs-translation">Backend types</target>
+      </trans-unit>
+      <trans-unit id="label.recyclerGarbageCollection.numberOfDays" resname="label.recyclerGarbageCollection.numberOfDays">
+        <source>Number of days until removing files</source>
+        <target state="needs-translation">Number of days until removing files</target>
+      </trans-unit>
+      <trans-unit id="label.checkAll" resname="label.checkAll">
+        <source>Check/uncheck all</source>
+        <target state="needs-translation">Check/uncheck all</target>
+      </trans-unit>
+      <trans-unit id="label.class" resname="label.class">
+        <source>Task</source>
+        <target state="needs-translation">Task</target>
+      </trans-unit>
+      <trans-unit id="label.cron" resname="label.cron">
+        <source>Cron</source>
+        <target state="needs-translation">Cron</target>
+      </trans-unit>
+      <trans-unit id="label.defType" resname="label.defType">
+        <source>Definition type</source>
+        <target state="needs-translation">Definition type</target>
+      </trans-unit>
+      <trans-unit id="label.defType.interval" resname="label.defType.interval">
+        <source>Interval</source>
+        <target state="needs-translation">Interval</target>
+      </trans-unit>
+      <trans-unit id="label.defType.cron" resname="label.defType.cron">
+        <source>Cron command</source>
+        <target state="needs-translation">Cron command</target>
+      </trans-unit>
+      <trans-unit id="label.description" resname="label.description">
+        <source>Description</source>
+        <target state="needs-translation">Description</target>
+      </trans-unit>
+      <trans-unit id="label.email" resname="label.email">
+        <source>Email</source>
+        <target state="needs-translation">Email</target>
+      </trans-unit>
+      <trans-unit id="label.end" resname="label.end">
+        <source>End (HH:MM DD-MM-YYYY)</source>
+        <target state="needs-translation">End (HH:MM DD-MM-YYYY)</target>
+      </trans-unit>
+      <trans-unit id="label.executeSelected" resname="label.executeSelected">
+        <source>Execute</source>
+        <target state="needs-translation">Execute</target>
+      </trans-unit>
+      <trans-unit id="label.cronjobSelected" resname="label.cronjobSelected">
+        <source>Execute on next cron job</source>
+        <target state="needs-translation">Execute on next cron job</target>
+      </trans-unit>
+      <trans-unit id="label.extension" resname="label.extension">
+        <source>Extension</source>
+        <target state="needs-translation">Extension</target>
+      </trans-unit>
+      <trans-unit id="label.frequency" resname="label.frequency">
+        <source>Frequency</source>
+        <target state="needs-translation">Frequency</target>
+      </trans-unit>
+      <trans-unit id="label.frequency.long" resname="label.frequency.long">
+        <source>Frequency (seconds or cron command)</source>
+        <target state="needs-translation">Frequency (seconds or cron command)</target>
+      </trans-unit>
+      <trans-unit id="label.id" resname="label.id">
+        <source>ID</source>
+        <target state="needs-translation">ID</target>
+      </trans-unit>
+      <trans-unit id="label.lastExecution" resname="label.lastExecution">
+        <source>Last Execution</source>
+        <target state="needs-translation">Last Execution</target>
+      </trans-unit>
+      <trans-unit id="label.manual" resname="label.manual">
+        <source>Manual</source>
+        <target state="needs-translation">Manual</target>
+      </trans-unit>
+      <trans-unit id="label.manually" resname="label.manually">
+        <source>manually</source>
+        <target state="needs-translation">manually</target>
+      </trans-unit>
+      <trans-unit id="label.name" resname="label.name">
+        <source>Name</source>
+        <target state="needs-translation">Name</target>
+      </trans-unit>
+      <trans-unit id="label.nextExecution" resname="label.nextExecution">
+        <source>Next Execution</source>
+        <target state="needs-translation">Next Execution</target>
+      </trans-unit>
+      <trans-unit id="label.parallel" resname="label.parallel">
+        <source>Parallel Execution</source>
+        <target state="needs-translation">Parallel Execution</target>
+      </trans-unit>
+      <trans-unit id="label.parallel.long" resname="label.parallel.long">
+        <source>Allow Parallel Execution</source>
+        <target state="needs-translation">Allow Parallel Execution</target>
+      </trans-unit>
+      <trans-unit id="label.serverTime" resname="label.serverTime">
+        <source>Server time</source>
+        <target state="needs-translation">Server time</target>
+      </trans-unit>
+      <trans-unit id="label.sleepTime" resname="label.sleepTime">
+        <source>Sleep time</source>
+        <target state="needs-translation">Sleep time</target>
+      </trans-unit>
+      <trans-unit id="label.start" resname="label.start">
+        <source>Start (HH:MM DD-MM-YYYY)</source>
+        <target state="needs-translation">Start (HH:MM DD-MM-YYYY)</target>
+      </trans-unit>
+      <trans-unit id="label.fileStorageIndexing.storage" resname="label.fileStorageIndexing.storage">
+        <source>Storage to index</source>
+        <target state="needs-translation">Storage to index</target>
+      </trans-unit>
+      <trans-unit id="label.fileStorageExtraction.fileCount" resname="label.fileStorageExtraction.fileCount">
+        <source>Number of files per run</source>
+        <target state="needs-translation">Number of files per run</target>
+      </trans-unit>
+      <trans-unit id="label.fileStorageExtraction.registeredExtractors" resname="label.fileStorageExtraction.registeredExtractors">
+        <source>Registered extractors</source>
+        <target state="needs-translation">Registered extractors</target>
+      </trans-unit>
+      <trans-unit id="label.fileStorageExtraction.registeredExtractors.extractor" resname="label.fileStorageExtraction.registeredExtractors.extractor">
+        <source>%1$s with priority %2$d</source>
+        <target state="needs-translation">%1$s with priority %2$d</target>
+      </trans-unit>
+      <trans-unit id="label.fileStorageExtraction.registeredExtractors.with_extractors" resname="label.fileStorageExtraction.registeredExtractors.with_extractors">
+        <source>Following extractors have been registered and will be used when running this task</source>
+        <target state="needs-translation">Following extractors have been registered and will be used when running this task</target>
+      </trans-unit>
+      <trans-unit id="label.fileStorageExtraction.registeredExtractors.without_extractors" resname="label.fileStorageExtraction.registeredExtractors.without_extractors">
+        <source>There currently is no extractor registered. This task will have no effect!</source>
+        <target state="needs-translation">There currently is no extractor registered. This task will have no effect!</target>
+      </trans-unit>
+      <trans-unit id="label.tableGarbageCollection.allTables" resname="label.tableGarbageCollection.allTables">
+        <source>Clean all available tables</source>
+        <target state="needs-translation">Clean all available tables</target>
+      </trans-unit>
+      <trans-unit id="label.tableGarbageCollection.table" resname="label.tableGarbageCollection.table">
+        <source>Table to clean up</source>
+        <target state="needs-translation">Table to clean up</target>
+      </trans-unit>
+      <trans-unit id="label.tableGarbageCollection.additionalInformationTable" resname="label.tableGarbageCollection.additionalInformationTable">
+        <source>Table: %s</source>
+        <target state="needs-translation">Table: %s</target>
+      </trans-unit>
+      <trans-unit id="label.tableGarbageCollection.additionalInformationAllTables" resname="label.tableGarbageCollection.additionalInformationAllTables">
+        <source>All tables</source>
+        <target state="needs-translation">All tables</target>
+      </trans-unit>
+      <trans-unit id="label.tableGarbageCollection.numberOfDays" resname="label.tableGarbageCollection.numberOfDays">
+        <source>Delete entries older than given number of days</source>
+        <target state="needs-translation">Delete entries older than given number of days</target>
+      </trans-unit>
+      <trans-unit id="label.optimizeDatabaseTables.selectTables" resname="label.optimizeDatabaseTables.selectTables">
+        <source>Database tables</source>
+        <target state="needs-translation">Database tables</target>
+      </trans-unit>
+      <trans-unit id="label.status" resname="label.status">
+        <source>Status</source>
+        <target state="needs-translation">Status</target>
+      </trans-unit>
+      <trans-unit id="label.type" resname="label.type">
+        <source>Type</source>
+        <target state="needs-translation">Type</target>
+      </trans-unit>
+      <trans-unit id="label.type.recurring" resname="label.type.recurring">
+        <source>Recurring</source>
+        <target state="needs-translation">Recurring</target>
+      </trans-unit>
+      <trans-unit id="label.type.single" resname="label.type.single">
+        <source>Single</source>
+        <target state="needs-translation">Single</target>
+      </trans-unit>
+      <trans-unit id="label.group" resname="label.group">
+        <source>Task group</source>
+        <target state="needs-translation">Task group</target>
+      </trans-unit>
+      <trans-unit id="label.group.taskCount" resname="label.group.taskCount">
+        <source>Amount of tasks in this scheduler task group</source>
+        <target state="needs-translation">Amount of tasks in this scheduler task group</target>
+      </trans-unit>
+      <trans-unit id="label.group.taskUnusedCount" resname="label.group.taskUnusedCount">
+        <source>Amount of unused task groups</source>
+        <target state="needs-translation">Amount of unused task groups</target>
+      </trans-unit>
+      <trans-unit id="label.noGroup" resname="label.noGroup">
+        <source>Not assigned to any task group</source>
+        <target state="needs-translation">Not assigned to any task group</target>
+      </trans-unit>
+      <trans-unit id="label.noGroup.taskCount" resname="label.noGroup.taskCount">
+        <source>Amount of tasks that are not assigned to any scheduler task group</source>
+        <target state="needs-translation">Amount of tasks that are not assigned to any scheduler task group</target>
+      </trans-unit>
+      <trans-unit id="label.group.isDisabled" resname="label.group.isDisabled">
+        <source>disabled</source>
+        <target state="needs-translation">disabled</target>
+      </trans-unit>
+      <trans-unit id="label.group.unused" resname="label.noGroup">
+        <source>Unused task groups</source>
+        <target state="needs-translation">Unused task groups</target>
+      </trans-unit>
+      <trans-unit id="label.group.tableColumn" resname="label.noGroup">
+        <source>Group</source>
+        <target state="needs-translation">Group</target>
+      </trans-unit>
+      <trans-unit id="label.group.enable" resname="label.noGroup">
+        <source>Enable group</source>
+        <target state="needs-translation">Enable group</target>
+      </trans-unit>
+      <trans-unit id="label.group.disable" resname="label.noGroup">
+        <source>Disable group</source>
+        <target state="needs-translation">Disable group</target>
+      </trans-unit>
+      <trans-unit id="label.group.edit" resname="label.noGroup">
+        <source>Edit group</source>
+        <target state="needs-translation">Edit group</target>
+      </trans-unit>
+      <trans-unit id="label.errorClass" resname="label.errorClass">
+        <source>Broken tasks</source>
+        <target state="needs-translation">Broken tasks</target>
+      </trans-unit>
+      <trans-unit id="label.errorClass.taskCount" resname="label.errorClass.taskCount">
+        <source>Amount of broken tasks</source>
+        <target state="needs-translation">Amount of broken tasks</target>
+      </trans-unit>
+      <trans-unit id="label.schedulableCommandName" resname="label.schedulableCommandName">
+        <source>Schedulable Command. Save and reopen to define command arguments</source>
+        <target state="needs-translation">Schedulable Command. Save and reopen to define command arguments</target>
+      </trans-unit>
+      <trans-unit id="label.saveAndCreateNewTask" resname="label.saveAndCreateNewTask">
+        <source>Save and create new task</source>
+        <target state="needs-translation">Save and create new task</target>
+      </trans-unit>
+      <trans-unit id="label.addOptionToCommand" resname="label.addOptionToCommand">
+        <source>Add option</source>
+        <target state="needs-translation">Add option</target>
+      </trans-unit>
+      <trans-unit id="msg.addSuccess" resname="msg.addSuccess">
+        <source>The task was added successfully.</source>
+        <target state="needs-translation">The task was added successfully.</target>
+      </trans-unit>
+      <trans-unit id="msg.cliScript" resname="msg.cliScript">
+        <source>The script to execute the Scheduler from the command line is: &lt;strong&gt;"%s scheduler:run"&lt;/strong&gt;.</source>
+        <target state="needs-translation">The script to execute the Scheduler from the command line is: &lt;strong&gt;"%s scheduler:run"&lt;/strong&gt;.</target>
+      </trans-unit>
+      <trans-unit id="msg.cliScriptExecutable" resname="msg.cliScriptExecutable">
+        <source>The webserver user is allowed execute this script.</source>
+        <target state="needs-translation">The webserver user is allowed execute this script.</target>
+      </trans-unit>
+      <trans-unit id="msg.cliScriptNotExecutable" resname="msg.cliScriptNotExecutable">
+        <source>The webserver user is not allowed to execute this script.</source>
+        <target state="needs-translation">The webserver user is not allowed to execute this script.</target>
+      </trans-unit>
+      <trans-unit id="msg.delete" resname="msg.delete">
+        <source>Are you sure you want to delete this task?</source>
+        <target state="needs-translation">Are you sure you want to delete this task?</target>
+      </trans-unit>
+      <trans-unit id="msg.deleteError" resname="msg.deleteError">
+        <source>The task could not be deleted.</source>
+        <target state="needs-translation">The task could not be deleted.</target>
+      </trans-unit>
+      <trans-unit id="msg.deleteSuccess" resname="msg.deleteSuccess">
+        <source>The task was successfully deleted.</source>
+        <target state="needs-translation">The task was successfully deleted.</target>
+      </trans-unit>
+      <trans-unit id="msg.endDateSmallerThanStartDate" resname="msg.endDateSmallerThanStartDate">
+        <source>The end date is before the start date.</source>
+        <target state="needs-translation">The end date is before the start date.</target>
+      </trans-unit>
+      <trans-unit id="msg.executed" resname="msg.executed">
+        <source>Task "%s" with uid "%s" has been executed.</source>
+        <target state="needs-translation">Task "%s" with uid "%s" has been executed.</target>
+      </trans-unit>
+      <trans-unit id="msg.frequencyError" resname="msg.frequencyError">
+        <source>Invalid frequency. Please enter either a number of seconds or a valid cron command. The cron parser said: %1$s [code: %2$d].</source>
+        <target state="needs-translation">Invalid frequency. Please enter either a number of seconds or a valid cron command. The cron parser said: %1$s [code: %2$d].</target>
+      </trans-unit>
+      <trans-unit id="msg.incompleteLastRun" resname="msg.incompleteLastRun">
+        <source>The information about the last execution of the Scheduler is incomplete.</source>
+        <target state="needs-translation">The information about the last execution of the Scheduler is incomplete.</target>
+      </trans-unit>
+      <trans-unit id="msg.invalidFrequency" resname="msg.invalidFrequency">
+        <source>Invalid frequency. Please enter either a number of seconds or a valid cron command.</source>
+        <target state="needs-translation">Invalid frequency. Please enter either a number of seconds or a valid cron command.</target>
+      </trans-unit>
+      <trans-unit id="msg.invalidSleepTime" resname="msg.invalidSleepTime">
+        <source>Please enter a sleep time greater or equal to 0 (zero).</source>
+        <target state="needs-translation">Please enter a sleep time greater or equal to 0 (zero).</target>
+      </trans-unit>
+      <trans-unit id="msg.lastRun" resname="msg.lastRun">
+        <source>The Scheduler was last started (%1$s) on %2$s at %3$s and ended on %4$s at %5$s.</source>
+        <target state="needs-translation">The Scheduler was last started (%1$s) on %2$s at %3$s and ended on %4$s at %5$s.</target>
+      </trans-unit>
+      <trans-unit id="msg.canNotDeleteRunningTask" resname="msg.canNotDeleteRunningTask">
+        <source>A running task may not be deleted.</source>
+        <target state="needs-translation">A running task may not be deleted.</target>
+      </trans-unit>
+      <trans-unit id="msg.maynotEditRunningTask" resname="msg.maynotEditRunningTask">
+        <source>A running task may not be edited.</source>
+        <target state="needs-translation">A running task may not be edited.</target>
+      </trans-unit>
+      <trans-unit id="msg.maynotStopNonRunningTask" resname="msg.maynotStopNonRunningTask">
+        <source>The task is not running. There are no executions to unmark.</source>
+        <target state="needs-translation">The task is not running. There are no executions to unmark.</target>
+      </trans-unit>
+      <trans-unit id="msg.noEmail" resname="msg.noEmail">
+        <source>Please enter an email address.</source>
+        <target state="needs-translation">Please enter an email address.</target>
+      </trans-unit>
+      <trans-unit id="msg.noFrequency" resname="msg.noFrequency">
+        <source>No frequency was defined, either as an interval or as a cron command.</source>
+        <target state="needs-translation">No frequency was defined, either as an interval or as a cron command.</target>
+      </trans-unit>
+      <trans-unit id="msg.noLastRun" resname="msg.noLastRun">
+        <source>The Scheduler has never yet run or the information about the last run has been lost.</source>
+        <target state="needs-translation">The Scheduler has never yet run or the information about the last run has been lost.</target>
+      </trans-unit>
+      <trans-unit id="msg.noTasksDefined" resname="msg.noTasksDefined">
+        <source>There are currently no task classes available at all. To be able to create new tasks, you must either enable the samples provided by the Scheduler or install some other extension that relies on the Scheduler.</source>
+        <target state="needs-translation">There are currently no task classes available at all. To be able to create new tasks, you must either enable the samples provided by the Scheduler or install some other extension that relies on the Scheduler.</target>
+      </trans-unit>
+      <trans-unit id="msg.noTaskClassFound" resname="msg.noTaskClassFound">
+        <source>The selected task class could not be found. You should probably contact the task's developers.</source>
+        <target state="needs-translation">The selected task class could not be found. You should probably contact the task's developers.</target>
+      </trans-unit>
+      <trans-unit id="msg.invalidTaskType" resname="msg.invalidTaskType">
+        <source>The selected task type must be either "single execution" or "recurring execution".</source>
+        <target state="needs-translation">The selected task type must be either "single execution" or "recurring execution".</target>
+      </trans-unit>
+      <trans-unit id="msg.noTasks" resname="msg.noTasks">
+        <source>No tasks defined yet.</source>
+        <target state="needs-translation">No tasks defined yet.</target>
+      </trans-unit>
+      <trans-unit id="msg.notExecuted" resname="msg.notExecuted">
+        <source>Task "%s" with uid "%s" has not been executed.</source>
+        <target state="needs-translation">Task "%s" with uid "%s" has not been executed.</target>
+      </trans-unit>
+      <trans-unit id="msg.executionFailed" resname="msg.executionFailed">
+        <source>Execution of task "%1$s" failed with the following message: %2$s</source>
+        <target state="needs-translation">Execution of task "%1$s" failed with the following message: %2$s</target>
+      </trans-unit>
+      <trans-unit id="msg.schedulingFailed" resname="msg.schedulingFailed">
+        <source>Scheduling of task "%1$s" failed with the following message: %2$s</source>
+        <target state="needs-translation">Scheduling of task "%1$s" failed with the following message: %2$s</target>
+      </trans-unit>
+      <trans-unit id="msg.toggleDisableFailed" resname="msg.toggleDisableFailed">
+        <source>Toggling disabled state of task "%1$s" failed with the following message: %2$s</source>
+        <target state="needs-translation">Toggling disabled state of task "%1$s" failed with the following message: %2$s</target>
+      </trans-unit>
+      <trans-unit id="msg.stopTaskFailed" resname="msg.stopTaskFailed">
+        <source>Stopping task "%1$s" failed with the following message: %2$s</source>
+        <target state="needs-translation">Stopping task "%1$s" failed with the following message: %2$s</target>
+      </trans-unit>
+      <trans-unit id="msg.executionFailureDefault" resname="msg.executionFailureDefault">
+        <source>The execution failed, but the error message could not be retrieved (it was probably too large). Sorry.</source>
+        <target state="needs-translation">The execution failed, but the error message could not be retrieved (it was probably too large). Sorry.</target>
+      </trans-unit>
+      <trans-unit id="msg.executionFailureReport" resname="msg.executionFailureReport">
+        <source>Execution failed: %1$d, %2$s</source>
+        <target state="needs-translation">Execution failed: %1$d, %2$s</target>
+      </trans-unit>
+      <trans-unit id="msg.noStartDate" resname="msg.noStartDate">
+        <source>Please define a start date.</source>
+        <target state="needs-translation">Please define a start date.</target>
+      </trans-unit>
+      <trans-unit id="msg.invalidStartDate" resname="msg.invalidStartDate">
+        <source>Start date is invalid.</source>
+        <target state="needs-translation">Start date is invalid.</target>
+      </trans-unit>
+      <trans-unit id="msg.invalidEndDate" resname="msg.invalidEndDate">
+        <source>End date is invalid.</source>
+        <target state="needs-translation">End date is invalid.</target>
+      </trans-unit>
+      <trans-unit id="msg.invalidNumberOfDays" resname="msg.invalidNumberOfDays">
+        <source>Number of days is invalid.</source>
+        <target state="needs-translation">Number of days is invalid.</target>
+      </trans-unit>
+      <trans-unit id="msg.selectionOfNonExistingCacheBackends" resname="msg.selectionOfNonExistingCacheBackends">
+        <source>Some of the selected cache backends do not exist. Please select valid backends only.</source>
+        <target state="needs-translation">Some of the selected cache backends do not exist. Please select valid backends only.</target>
+      </trans-unit>
+      <trans-unit id="msg.noCacheBackendSelected" resname="msg.noCacheBackendSelected">
+        <source>Please select at least one cache backend.</source>
+        <target state="needs-translation">Please select at least one cache backend.</target>
+      </trans-unit>
+      <trans-unit id="msg.invalidTaskClass" resname="msg.invalidTaskClass">
+        <source><![CDATA[<strong>The following tasks are broken.</strong> If your task doesn't have a registered class, you should consider reinstalling the extension that provided them or simply deleting the task. In case the error is "Cannot unserialize [class]", the announced class must be removed from your task class, as it is not allowed to be used due to security reasons. Please check also if any of the listed tasks have to be recreated manually (which can be necessary after an extension update due to breaking changes or missing migration scripts).]]></source>
+        <target state="needs-translation"><![CDATA[<strong>The following tasks are broken.</strong> If your task doesn't have a registered class, you should consider reinstalling the extension that provided them or simply deleting the task. In case the error is "Cannot unserialize [class]", the announced class must be removed from your task class, as it is not allowed to be used due to security reasons. Please check also if any of the listed tasks have to be recreated manually (which can be necessary after an extension update due to breaking changes or missing migration scripts).]]></target>
+      </trans-unit>
+      <trans-unit id="msg.errorMessage" resname="msg.errorMessage">
+        <source>Error message</source>
+        <target state="needs-translation">Error message</target>
+      </trans-unit>
+      <trans-unit id="msg.invalidTaskClassEdit" resname="msg.invalidTaskClassEdit">
+        <source>The current class (%s) could not be found. Change it below or consider deleting this task altogether.</source>
+        <target state="needs-translation">The current class (%s) could not be found. Change it below or consider deleting this task altogether.</target>
+      </trans-unit>
+      <trans-unit id="msg.invalidTaskClass.infobox.title" resname="msg.invalidTaskClass.infobox.title">
+        <source>%s registered scheduler tasks can not be executed</source>
+        <target state="needs-translation">%s registered scheduler tasks can not be executed</target>
+      </trans-unit>
+      <trans-unit id="msg.invalidTaskClass.infobox.message" resname="msg.invalidTaskClass.infobox.message">
+        <source><![CDATA[<a href="#scheduler-task-group-missing">Please check the erroneous tasks!</a>]]></source>
+        <target state="needs-translation"><![CDATA[<a href="#scheduler-task-group-missing">Please check the erroneous tasks!</a>]]></target>
+      </trans-unit>
+      <trans-unit id="msg.schedulerSetupCheck" resname="msg.schedulerSetupCheck">
+        <source>This screen checks if the requisites for running the Scheduler as a cron job are fulfilled. It also displays information about the last run of the Scheduler.</source>
+        <target state="needs-translation">This screen checks if the requisites for running the Scheduler as a cron job are fulfilled. It also displays information about the last run of the Scheduler.</target>
+      </trans-unit>
+      <trans-unit id="msg.serverTime" resname="msg.serverTime">
+        <source>Current server time is %s.</source>
+        <target state="needs-translation">Current server time is %s.</target>
+      </trans-unit>
+      <trans-unit id="msg.serverTimeHelp" resname="msg.serverTimeHelp">
+        <source>All dates and times in the Scheduler are measured according to the server's time, as the Scheduler is run purely on the server-side.</source>
+        <target state="needs-translation">All dates and times in the Scheduler are measured according to the server's time, as the Scheduler is run purely on the server-side.</target>
+      </trans-unit>
+      <trans-unit id="msg.stop" resname="msg.stop">
+        <source>Are you sure you want to mark this task as not running? Note that this will not stop the actual script (if unsure please refer to the manual).</source>
+        <target state="needs-translation">Are you sure you want to mark this task as not running? Note that this will not stop the actual script (if unsure please refer to the manual).</target>
+      </trans-unit>
+      <trans-unit id="msg.stopError" resname="msg.stopError">
+        <source>The task could not be marked as non-running.</source>
+        <target state="needs-translation">The task could not be marked as non-running.</target>
+      </trans-unit>
+      <trans-unit id="msg.stopSuccess" resname="msg.stopSuccess">
+        <source>The task was successfully marked as non-running.</source>
+        <target state="needs-translation">The task was successfully marked as non-running.</target>
+      </trans-unit>
+      <trans-unit id="msg.taskNotFound" resname="msg.taskNotFound">
+        <source>The requested task (UID: %d) was not found.</source>
+        <target state="needs-translation">The requested task (UID: %d) was not found.</target>
+      </trans-unit>
+      <trans-unit id="msg.updateSuccess" resname="msg.updateSuccess">
+        <source>The task was updated successfully.</source>
+        <target state="needs-translation">The task was updated successfully.</target>
+      </trans-unit>
+      <trans-unit id="msg.updateError" resname="msg.updateError">
+        <source>The task could not be updated.</source>
+        <target state="needs-translation">The task could not be updated.</target>
+      </trans-unit>
+      <trans-unit id="msg.selectionOfNonExistingDatabaseTables" resname="msg.selectionOfNonExistingDatabaseTables">
+        <source>Some of the selected database tables do not exist. Please select only valid tables.</source>
+        <target state="needs-translation">Some of the selected database tables do not exist. Please select only valid tables.</target>
+      </trans-unit>
+      <trans-unit id="msg.noDatabaseTablesSelected" resname="msg.noDatabaseTablesSelected">
+        <source>Please select at least one database table.</source>
+        <target state="needs-translation">Please select at least one database table.</target>
+      </trans-unit>
+      <trans-unit id="msg.unregisteredCommand" resname="msg.unregisteredCommand">
+        <source>Command with identifier "%s" has not been registered.</source>
+        <target state="needs-translation">Command with identifier "%s" has not been registered.</target>
+      </trans-unit>
+      <trans-unit id="msg.errorParsingArguments" resname="msg.errorParsingArguments">
+        <source>Error parsing current set of arguments: "%s".</source>
+        <target state="needs-translation">Error parsing current set of arguments: "%s".</target>
+      </trans-unit>
+      <trans-unit id="msg.errorParsingOptions" resname="msg.errorParsingOptions">
+        <source>Error parsing current set of options: "%s".</source>
+        <target state="needs-translation">Error parsing current set of options: "%s".</target>
+      </trans-unit>
+      <trans-unit id="msg.mandatoryArgumentMissing" resname="msg.mandatoryArgumentMissing">
+        <source>Argument "%s" is mandatory.</source>
+        <target state="needs-translation">Argument "%s" is mandatory.</target>
+      </trans-unit>
+      <trans-unit id="msg.taskEnabled" resname="msg.taskEnabled">
+        <source>Task "%s" with uid "%s" has been enabled.</source>
+        <target state="needs-translation">Task "%s" with uid "%s" has been enabled.</target>
+      </trans-unit>
+      <trans-unit id="msg.taskDisabled" resname="msg.taskDisabled">
+        <source>Task "%s" with uid "%s" has been disabled.</source>
+        <target state="needs-translation">Task "%s" with uid "%s" has been disabled.</target>
+      </trans-unit>
+      <trans-unit id="msg.taskEnabledAndQueuedForExecution" resname="msg.taskEnabledAndQueuedForExecution">
+        <source>Task "%s" with uid "%s" has been enabled and queued for execution at next scheduler CLI run.</source>
+        <target state="needs-translation">Task "%s" with uid "%s" has been enabled and queued for execution at next scheduler CLI run.</target>
+      </trans-unit>
+      <trans-unit id="msg.taskQueuedForExecution" resname="msg.taskQueuedForExecution">
+        <source>Task "%s" with uid "%s" has been queued for execution at next scheduler CLI run.</source>
+        <target state="needs-translation">Task "%s" with uid "%s" has been queued for execution at next scheduler CLI run.</target>
+      </trans-unit>
+      <trans-unit id="msg.group.deleted" resname="msg.group.deleted">
+        <source>Successfully deleted scheduler group.</source>
+        <target state="needs-translation">Successfully deleted scheduler group.</target>
+      </trans-unit>
+      <trans-unit id="msg.group.delete.failed" resname="msg.group.delete.failed">
+        <source>Failed to delete scheduler group.</source>
+        <target state="needs-translation">Failed to delete scheduler group.</target>
+      </trans-unit>
+      <trans-unit id="none" resname="none">
+        <source>None</source>
+        <target state="needs-translation">None</target>
+      </trans-unit>
+      <trans-unit id="status" resname="status">
+        <source>Status</source>
+        <target state="needs-translation">Status</target>
+      </trans-unit>
+      <trans-unit id="status.progress" resname="status.progress">
+        <source>Progress</source>
+        <target state="needs-translation">Progress</target>
+      </trans-unit>
+      <trans-unit id="status.disabled" resname="status.disabled">
+        <source>disabled</source>
+        <target state="needs-translation">disabled</target>
+      </trans-unit>
+      <trans-unit id="status.disabledByGroup" resname="status.disabledByGroup">
+        <source>disabled by group</source>
+        <target state="needs-translation">disabled by group</target>
+      </trans-unit>
+      <trans-unit id="status.failure" resname="status.failure">
+        <source>failure</source>
+        <target state="needs-translation">failure</target>
+      </trans-unit>
+      <trans-unit id="status.late" resname="status.late">
+        <source>late</source>
+        <target state="needs-translation">late</target>
+      </trans-unit>
+      <trans-unit id="status.running" resname="status.running">
+        <source>running</source>
+        <target state="needs-translation">running</target>
+      </trans-unit>
+      <trans-unit id="status.scheduled" resname="status.scheduled">
+        <source>scheduled</source>
+        <target state="needs-translation">scheduled</target>
+      </trans-unit>
+      <trans-unit id="task" resname="task">
+        <source>Task</source>
+        <target state="needs-translation">Task</target>
+      </trans-unit>
+      <trans-unit id="title" resname="title">
+        <source>TYPO3 Scheduler administration module</source>
+        <target state="needs-translation">TYPO3 Scheduler administration module</target>
+      </trans-unit>
+      <trans-unit id="action.run_task" resname="action.run_task">
+        <source>Run task</source>
+        <target state="needs-translation">Run task</target>
+      </trans-unit>
+      <trans-unit id="action.run_task_cron" resname="action.run_task_cron">
+        <source>Run task on next cron job</source>
+        <target state="needs-translation">Run task on next cron job</target>
+      </trans-unit>
+      <trans-unit id="cachingFrameworkGarbageCollection.name" resname="cachingFrameworkGarbageCollection.name">
+        <source>Caching framework garbage collection</source>
+        <target state="needs-translation">Caching framework garbage collection</target>
+      </trans-unit>
+      <trans-unit id="cachingFrameworkGarbageCollection.description" resname="cachingFrameworkGarbageCollection.description">
+        <source>This task calls the garbage collection of configured caching framework caches which use one of the selected backends. This will free some space in cache backends which do not have an internal garbage collection. In case of the default database backend it is advisable to run this task once a day when the database is mostly idle.</source>
+        <target state="needs-translation">This task calls the garbage collection of configured caching framework caches which use one of the selected backends. This will free some space in cache backends which do not have an internal garbage collection. In case of the default database backend it is advisable to run this task once a day when the database is mostly idle.</target>
+      </trans-unit>
+      <trans-unit id="fileIndexing.name" resname="fileIndexing.name">
+        <source>[OBSOLETE] File Abstraction Layer: Indexing job</source>
+        <target state="needs-translation">[OBSOLETE] File Abstraction Layer: Indexing job</target>
+      </trans-unit>
+      <trans-unit id="fileIndexing.description" resname="fileIndexing.description">
+        <source>Runs indexing tasks based on an indexing configuration and a storage/folder information.</source>
+        <target state="needs-translation">Runs indexing tasks based on an indexing configuration and a storage/folder information.</target>
+      </trans-unit>
+      <trans-unit id="fileStorageIndexing.name" resname="fileStorageIndexing.name">
+        <source>File Abstraction Layer: Update storage index</source>
+        <target state="needs-translation">File Abstraction Layer: Update storage index</target>
+      </trans-unit>
+      <trans-unit id="fileStorageIndexing.description" resname="fileStorageIndexing.description">
+        <source>Updates the Index/Cache Data of a Storage; only needed if changes to the storage are possible outside the backend (FTP, RemoteStorages).</source>
+        <target state="needs-translation">Updates the Index/Cache Data of a Storage; only needed if changes to the storage are possible outside the backend (FTP, RemoteStorages).</target>
+      </trans-unit>
+      <trans-unit id="fileStorageExtraction.name" resname="fileStorageExtraction.name">
+        <source>File Abstraction Layer: Extract metadata in storage</source>
+        <target state="needs-translation">File Abstraction Layer: Extract metadata in storage</target>
+      </trans-unit>
+      <trans-unit id="fileStorageExtraction.description" resname="fileStorageExtraction.description">
+        <source>Extracts metadata for all files in storage which have been changed since last run.</source>
+        <target state="needs-translation">Extracts metadata for all files in storage which have been changed since last run.</target>
+      </trans-unit>
+      <trans-unit id="tableGarbageCollection.name" resname="tableGarbageCollection.name">
+        <source>Table garbage collection</source>
+        <target state="needs-translation">Table garbage collection</target>
+      </trans-unit>
+      <trans-unit id="tableGarbageCollection.description" resname="tableGarbageCollection.description">
+        <source>Task to delete old entries from specific tables like sys_log. Use $GLOBALS['TYPO3_CONF_VARS']['SC_OPTIONS']['scheduler']['tasks']['tx_scheduler_TableGarbageCollection']['options']['tables'] to configure tables. Refer to the manual for more details.</source>
+        <target state="needs-translation">Task to delete old entries from specific tables like sys_log. Use $GLOBALS['TYPO3_CONF_VARS']['SC_OPTIONS']['scheduler']['tasks']['tx_scheduler_TableGarbageCollection']['options']['tables'] to configure tables. Refer to the manual for more details.</target>
+      </trans-unit>
+      <trans-unit id="recyclerGarbageCollection.name" resname="recyclerGarbageCollection.name">
+        <source>Fileadmin garbage collection</source>
+        <target state="needs-translation">Fileadmin garbage collection</target>
+      </trans-unit>
+      <trans-unit id="recyclerGarbageCollection.description" resname="recyclerGarbageCollection.description">
+        <source>This task empties all "_recycler_" folders below fileadmin. This helps free some space in the file system.</source>
+        <target state="needs-translation">This task empties all "_recycler_" folders below fileadmin. This helps free some space in the file system.</target>
+      </trans-unit>
+      <trans-unit id="executeSchedulableCommandTask.name" resname="executeSchedulableCommandTask.name">
+        <source>Execute console commands</source>
+        <target state="needs-translation">Execute console commands</target>
+      </trans-unit>
+      <trans-unit id="executeSchedulableCommandTask.description" resname="executeSchedulableCommandTask.description">
+        <source>Allows regular console commands to be configured and executed through the scheduler framework.</source>
+        <target state="needs-translation">Allows regular console commands to be configured and executed through the scheduler framework.</target>
+      </trans-unit>
+      <trans-unit id="optimizeDatabaseTable.name" resname="optimizeDatabaseTable.name">
+        <source>Optimize MySQL database tables</source>
+        <target state="needs-translation">Optimize MySQL database tables</target>
+      </trans-unit>
+      <trans-unit id="optimizeDatabaseTable.description" resname="optimizeDatabaseTable.description">
+        <source>This task executes "OPTIMIZE TABLE" statements on the selected database tables. This helps to reduce storage space and improve I/O efficiency. Warning! Tables will be locked during the optimization process.</source>
+        <target state="needs-translation">This task executes "OPTIMIZE TABLE" statements on the selected database tables. This helps to reduce storage space and improve I/O efficiency. Warning! Tables will be locked during the optimization process.</target>
+      </trans-unit>
+      <trans-unit id="ipAnonymization.name" resname="ipAnonymization.name">
+        <source>Anonymize IP addresses in database tables</source>
+        <target state="needs-translation">Anonymize IP addresses in database tables</target>
+      </trans-unit>
+      <trans-unit id="ipAnonymization.description" resname="ipAnonymization.description">
+        <source>This task anonymizes the IP addresses to enforce the privacy of the persisted data.</source>
+        <target state="needs-translation">This task anonymizes the IP addresses to enforce the privacy of the persisted data.</target>
+      </trans-unit>
+      <trans-unit id="label.ipAnonymization.table" resname="label.ipAnonymization.table">
+        <source>Table to anonymize</source>
+        <target state="needs-translation">Table to anonymize</target>
+      </trans-unit>
+      <trans-unit id="label.ipAnonymization.additionalInformationTable" resname="label.ipAnonymization.additionalInformationTable">
+        <source>Table: %s after %s days</source>
+        <target state="needs-translation">Table: %s after %s days</target>
+      </trans-unit>
+      <trans-unit id="label.ipAnonymization.additionalInformationAllTables" resname="label.ipAnonymization.additionalInformationAllTables">
+        <source>All tables</source>
+        <target state="needs-translation">All tables</target>
+      </trans-unit>
+      <trans-unit id="label.ipAnonymization.numberOfDays" resname="label.ipAnonymization.numberOfDays">
+        <source>Handle entries older than given number of days</source>
+        <target state="needs-translation">Handle entries older than given number of days</target>
+      </trans-unit>
+      <trans-unit id="label.ipAnonymization.mask" resname="label.ipAnonymization.mask">
+        <source>Mask level</source>
+        <target state="needs-translation">Mask level</target>
+      </trans-unit>
+      <trans-unit id="label.ipAnonymization.mask.1" resname="label.ipAnonymization.mask.1">
+        <source>Last byte for IPv4 / Interface ID for IPv6</source>
+        <target state="needs-translation">Last byte for IPv4 / Interface ID for IPv6</target>
+      </trans-unit>
+      <trans-unit id="label.ipAnonymization.mask.2" resname="label.ipAnonymization.mask.2">
+        <source>Last 2 bytes for IPv4 / Interface &amp; SLA ID for IPv6</source>
+        <target state="needs-translation">Last 2 bytes for IPv4 / Interface &amp; SLA ID for IPv6</target>
+      </trans-unit>
+      <trans-unit id="command.example1" resname="command.example1">
+        <source>Every day-of-week from Monday through Friday at 09:00 and 15:00</source>
+        <target state="needs-translation">Every day-of-week from Monday through Friday at 09:00 and 15:00</target>
+      </trans-unit>
+      <trans-unit id="command.example2" resname="command.example2">
+        <source>Every 2 hours</source>
+        <target state="needs-translation">Every 2 hours</target>
+      </trans-unit>
+      <trans-unit id="command.example3" resname="command.example3">
+        <source>Every 20 minutes</source>
+        <target state="needs-translation">Every 20 minutes</target>
+      </trans-unit>
+      <trans-unit id="command.example4" resname="command.example4">
+        <source>Every Tuesday at 07:00</source>
+        <target state="needs-translation">Every Tuesday at 07:00</target>
+      </trans-unit>
+      <trans-unit id="systemmessage.noLastRun" resname="systemmessage.noLastRun">
+        <source><![CDATA[It seems the Scheduler has never yet run. Please check your <a href="%1$s">configuration</a>.]]></source>
+        <target state="needs-translation"><![CDATA[It seems the Scheduler has never yet run. Please check your <a href="%1$s">configuration</a>.]]></target>
+      </trans-unit>
+      <trans-unit id="systeminformation.lastRunLabel" resname="systeminformation.lastRunLabel">
+        <source>Last Scheduler run</source>
+        <target state="needs-translation">Last Scheduler run</target>
+      </trans-unit>
+      <trans-unit id="systeminformation.lastRunValue" resname="systeminformation.lastRunValue">
+        <source>%1$s at %2$s, Duration %3$s, (started %4$s)</source>
+        <target state="needs-translation">%1$s at %2$s, Duration %3$s, (started %4$s)</target>
+      </trans-unit>
+      <trans-unit id="msg.group.notification.error.title" resname="group.notification.error.title">
+        <source>Error</source>
+        <target state="needs-translation">Error</target>
+      </trans-unit>
+      <trans-unit id="msg.group.notification.error.message" resname="group.notification.error.message">
+        <source>Could not create group</source>
+        <target state="needs-translation">Could not create group</target>
+      </trans-unit>
+      <trans-unit id="scheduler.form.palettes.general" resname="scheduler.form.palettes.general">
+        <source>General</source>
+        <target state="needs-translation">General</target>
+      </trans-unit>
+      <trans-unit id="scheduler.form.palettes.settings" resname="scheduler.form.palettes.settings">
+        <source>Settings</source>
+        <target state="needs-translation">Settings</target>
+      </trans-unit>
+      <trans-unit id="scheduler.form.palettes.timing" resname="scheduler.form.palettes.timing">
+        <source>Timing</source>
+        <target state="needs-translation">Timing</target>
+      </trans-unit>
+      <trans-unit id="editableGroupName.input.field.label" resname="editableGroupName.input.field.label">
+        <source>Enter a group name</source>
+        <target state="needs-translation">Enter a group name</target>
+      </trans-unit>
+      <trans-unit id="editableGroupName.button.edit.label" resname="editableGroupName.button.edit.label">
+        <source>Edit group name</source>
+        <target state="needs-translation">Edit group name</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

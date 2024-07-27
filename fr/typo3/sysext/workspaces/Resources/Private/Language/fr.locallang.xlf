@@ -1,0 +1,549 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file source-language="en" datatype="plaintext" original="EXT:workspaces/Resources/Private/Language/locallang.xlf" date="2011-10-17T20:22:37Z" product-name="workspaces" target-language="fr">
+    <header/>
+    <body>
+      <trans-unit id="title" resname="title">
+        <source>Workspaces</source>
+        <target state="needs-translation">Workspaces</target>
+      </trans-unit>
+      <trans-unit id="noResults" resname="noResults">
+        <source>No records found.</source>
+        <target state="needs-translation">No records found.</target>
+      </trans-unit>
+      <trans-unit id="ok" resname="ok">
+        <source>Ok</source>
+        <target state="needs-translation">Ok</target>
+      </trans-unit>
+      <trans-unit id="cancel" resname="cancel">
+        <source>Cancel</source>
+        <target state="needs-translation">Cancel</target>
+      </trans-unit>
+      <trans-unit id="entireWorkspace" resname="entireWorkspace">
+        <source>Entire workspace:</source>
+        <target state="needs-translation">Entire workspace:</target>
+      </trans-unit>
+      <trans-unit id="chooseMassAction" resname="chooseMassAction">
+        <source>Choose mass action</source>
+        <target state="needs-translation">Choose mass action</target>
+      </trans-unit>
+      <trans-unit id="chooseSelectionAction" resname="chooseSelectionAction">
+        <source>Choose selection action</source>
+        <target state="needs-translation">Choose selection action</target>
+      </trans-unit>
+      <trans-unit id="chooseAction" resname="chooseAction">
+        <source>Choose staging action</source>
+        <target state="needs-translation">Choose staging action</target>
+      </trans-unit>
+      <trans-unit id="item" resname="item">
+        <source>item</source>
+        <target state="needs-translation">item</target>
+      </trans-unit>
+      <trans-unit id="items" resname="items">
+        <source>items</source>
+        <target state="needs-translation">items</target>
+      </trans-unit>
+      <trans-unit id="recordsToDisplay" resname="recordsToDisplay">
+        <source>Records to display</source>
+        <target state="needs-translation">Records to display</target>
+      </trans-unit>
+      <trans-unit id="reviewandpublish" resname="reviewandpublish">
+        <source>review and publish</source>
+        <target state="needs-translation">review and publish</target>
+      </trans-unit>
+      <trans-unit id="workspacelist" resname="workspacelist">
+        <source>Workspace List</source>
+        <target state="needs-translation">Workspace List</target>
+      </trans-unit>
+      <trans-unit id="editorInLive" resname="editorInLive" xml:space="preserve">
+				<source>You are in LIVE workspace. Please select a draft workspace from the top bar
+					menu before you can review and publish changes.
+				</source>
+			<target state="needs-translation">You are in LIVE workspace. Please select a draft workspace from the top bar
+					menu before you can review and publish changes.
+				</target></trans-unit>
+      <trans-unit id="moduleOnPageIdZero" resname="moduleOnPageIdZero" xml:space="preserve">
+				<source>Please select a page in the page tree to review and publish changes.</source>
+			<target state="needs-translation">Please select a page in the page tree to review and publish changes.</target></trans-unit>
+      <trans-unit id="admin.noWorkspaceSetup.title" resname="admin.noWorkspaceSetup.title" xml:space="preserve">
+				<source>No workspace set up!</source>
+			<target state="needs-translation">No workspace set up!</target></trans-unit>
+      <trans-unit id="admin.noWorkspaceSetup.message" resname="admin.noWorkspaceSetup.message" xml:space="preserve">
+				<source>There are currently no workspace records configured in the database. To use the workspace
+					functionality, at least one workspace must be set up on the root page.
+				</source>
+			<target state="needs-translation">There are currently no workspace records configured in the database. To use the workspace
+					functionality, at least one workspace must be set up on the root page.
+				</target></trans-unit>
+      <trans-unit id="admin.noWorkspaceSetup.buttonCreate" resname="admin.noWorkspaceSetup.buttonCreate" xml:space="preserve">
+				<source>Create a workspace</source>
+			<target state="needs-translation">Create a workspace</target></trans-unit>
+      <trans-unit id="button.editWorkspaceSettings" resname="button.editWorkspaceSettings" xml:space="preserve">
+				<source>Edit workspace settings</source>
+			<target state="needs-translation">Edit workspace settings</target></trans-unit>
+      <trans-unit id="actionSendToStage" resname="actionSendToStage">
+        <source>Send to stage</source>
+        <target state="needs-translation">Send to stage</target>
+      </trans-unit>
+      <trans-unit id="publish_execute_action_option" resname="publish_execute_action_option">
+        <source>Publish to LIVE</source>
+        <target state="needs-translation">Publish to LIVE</target>
+      </trans-unit>
+      <trans-unit id="close" resname="close">
+        <source>Close</source>
+        <target state="needs-translation">Close</target>
+      </trans-unit>
+      <trans-unit id="runMassAction.done" resname="runMassAction.done">
+        <source>Done processing %d elements</source>
+        <target state="needs-translation">Done processing %d elements</target>
+      </trans-unit>
+      <trans-unit id="runMassAction.init" resname="runMassAction.init">
+        <source>init</source>
+        <target state="needs-translation">init</target>
+      </trans-unit>
+      <trans-unit id="tooltip.publish" resname="tooltip.publish">
+        <source>Publish version of record</source>
+        <target state="needs-translation">Publish version of record</target>
+      </trans-unit>
+      <trans-unit id="tooltip.publishAll" resname="tooltip.publishAll">
+        <source>Really publish entire workspace?</source>
+        <target state="needs-translation">Really publish entire workspace?</target>
+      </trans-unit>
+      <trans-unit id="tooltip.discardAll" resname="tooltip.discardAll">
+        <source>Do you really want to discard changes from the whole workspace?</source>
+        <target state="needs-translation">Do you really want to discard changes from the whole workspace?</target>
+      </trans-unit>
+      <trans-unit id="window.publish.title" resname="window.publish.title">
+        <source>Publish version</source>
+        <target state="needs-translation">Publish version</target>
+      </trans-unit>
+      <trans-unit id="window.publish.message" resname="window.publish.message">
+        <source>Do you really want to publish this version?</source>
+        <target state="needs-translation">Do you really want to publish this version?</target>
+      </trans-unit>
+      <trans-unit id="tooltip.publishSelected" resname="tooltip.publishSelected">
+        <source>Really publish selected elements?</source>
+        <target state="needs-translation">Really publish selected elements?</target>
+      </trans-unit>
+      <trans-unit id="tooltip.discardSelected" resname="tooltip.discardSelected">
+        <source>Really discard changes of the selected elements?</source>
+        <target state="needs-translation">Really discard changes of the selected elements?</target>
+      </trans-unit>
+      <trans-unit id="tooltip.affectWholeWorkspace" resname="tooltip.affectWholeWorkspace">
+        <source>Please note that this will affect all changes in the current workspace, which may be more than you are currently seeing on your screen.</source>
+        <target state="needs-translation">Please note that this will affect all changes in the current workspace, which may be more than you are currently seeing on your screen.</target>
+      </trans-unit>
+      <trans-unit id="tooltip.generatePagePreview" resname="tooltip.generatePagePreview">
+        <source>Generate page preview links</source>
+        <target state="needs-translation">Generate page preview links</target>
+      </trans-unit>
+      <trans-unit id="tooltip.showChanges" resname="tooltip.showChanges">
+        <source>Show changes</source>
+        <target state="needs-translation">Show changes</target>
+      </trans-unit>
+      <trans-unit id="previewLink" resname="previewLink">
+        <source>Preview Link</source>
+        <target state="needs-translation">Preview Link</target>
+      </trans-unit>
+      <trans-unit id="error.noResponse" resname="error.noResponse">
+        <source>The server did not send any response whether the action was successful.</source>
+        <target state="needs-translation">The server did not send any response whether the action was successful.</target>
+      </trans-unit>
+      <trans-unit id="rowDetails" resname="rowDetails">
+        <source>Row details...</source>
+        <target state="needs-translation">Row details...</target>
+      </trans-unit>
+      <trans-unit id="column.difference" resname="column.difference">
+        <source>Difference</source>
+        <target state="needs-translation">Difference</target>
+      </trans-unit>
+      <trans-unit id="column.changeDate" resname="column.changeDate">
+        <source>Modification</source>
+        <target state="needs-translation">Modification</target>
+      </trans-unit>
+      <trans-unit id="column.stage" resname="column.stage">
+        <source>Current Stage</source>
+        <target state="needs-translation">Current Stage</target>
+      </trans-unit>
+      <trans-unit id="column.lastChangeOn" resname="column.lastChangeOn">
+        <source>Last changed on</source>
+        <target state="needs-translation">Last changed on</target>
+      </trans-unit>
+      <trans-unit id="column.actions" resname="column.actions">
+        <source>Actions</source>
+        <target state="needs-translation">Actions</target>
+      </trans-unit>
+      <trans-unit id="column.wsPath" resname="column.wsPath">
+        <source>Path</source>
+        <target state="needs-translation">Path</target>
+      </trans-unit>
+      <trans-unit id="column.wsTitle" resname="column.wsTitle">
+        <source>Title</source>
+        <target state="needs-translation">Title</target>
+      </trans-unit>
+      <trans-unit id="column.wsStateAction" resname="column.wsStateAction">
+        <source>Action</source>
+        <target state="needs-translation">Action</target>
+      </trans-unit>
+      <trans-unit id="column.wsStateAction.deleted" resname="column.wsStateAction.deleted">
+        <source>deleted</source>
+        <target state="needs-translation">deleted</target>
+      </trans-unit>
+      <trans-unit id="column.wsStateAction.hidden" resname="column.wsStateAction.hidden">
+        <source>hidden</source>
+        <target state="needs-translation">hidden</target>
+      </trans-unit>
+      <trans-unit id="column.wsStateAction.modified" resname="column.wsStateAction.modified">
+        <source>modified</source>
+        <target state="needs-translation">modified</target>
+      </trans-unit>
+      <trans-unit id="column.wsStateAction.moved" resname="column.wsStateAction.moved">
+        <source>moved</source>
+        <target state="needs-translation">moved</target>
+      </trans-unit>
+      <trans-unit id="column.wsStateAction.new" resname="column.wsStateAction.new">
+        <source>created</source>
+        <target state="needs-translation">created</target>
+      </trans-unit>
+      <trans-unit id="column.wsStateAction.unchanged" resname="column.wsStateAction.unchanged">
+        <source>unchanged</source>
+        <target state="needs-translation">unchanged</target>
+      </trans-unit>
+      <trans-unit id="column.uid" resname="column.uid">
+        <source>WS ID</source>
+        <target state="needs-translation">WS ID</target>
+      </trans-unit>
+      <trans-unit id="column.oid" resname="column.oid">
+        <source>Live ID</source>
+        <target state="needs-translation">Live ID</target>
+      </trans-unit>
+      <trans-unit id="column.workspaceName" resname="column.workspaceName">
+        <source>Workspace</source>
+        <target state="needs-translation">Workspace</target>
+      </trans-unit>
+      <trans-unit id="column.livePath" resname="column.livePath">
+        <source>Live path</source>
+        <target state="needs-translation">Live path</target>
+      </trans-unit>
+      <trans-unit id="column.integrity" resname="column.integrity">
+        <source>Integrity</source>
+        <target state="needs-translation">Integrity</target>
+      </trans-unit>
+      <trans-unit id="tooltip.viewElementAction" resname="tooltip.viewElementAction">
+        <source>Preview element</source>
+        <target state="needs-translation">Preview element</target>
+      </trans-unit>
+      <trans-unit id="tooltip.editElementAction" resname="tooltip.editElementAction">
+        <source>Edit element</source>
+        <target state="needs-translation">Edit element</target>
+      </trans-unit>
+      <trans-unit id="tooltip.openPage" resname="tooltip.openPage">
+        <source>Open version of page</source>
+        <target state="needs-translation">Open version of page</target>
+      </trans-unit>
+      <trans-unit id="tooltip.sendToPrevStage" resname="tooltip.sendToPrevStage">
+        <source>Send record to previous Stage</source>
+        <target state="needs-translation">Send record to previous Stage</target>
+      </trans-unit>
+      <trans-unit id="tooltip.sendToNextStage" resname="tooltip.sendToNextStage">
+        <source>Send record to next Stage</source>
+        <target state="needs-translation">Send record to next Stage</target>
+      </trans-unit>
+      <trans-unit id="tooltip.discardVersion" resname="tooltip.discardVersion">
+        <source>Discard version of record</source>
+        <target state="needs-translation">Discard version of record</target>
+      </trans-unit>
+      <trans-unit id="tooltip.expand" resname="tooltip.expand">
+        <source>Expand element and show relations</source>
+        <target state="needs-translation">Expand element and show relations</target>
+      </trans-unit>
+      <trans-unit id="tooltip.showHistory" resname="tooltip.showHistory">
+        <source>Show history of workspace version</source>
+        <target state="needs-translation">Show history of workspace version</target>
+      </trans-unit>
+      <trans-unit id="window.discard.title" resname="window.discard.title">
+        <source>Discard version of record</source>
+        <target state="needs-translation">Discard version of record</target>
+      </trans-unit>
+      <trans-unit id="window.discardAll.title" resname="window.discardAll.title">
+        <source>Discard all workspace version of current page.</source>
+        <target state="needs-translation">Discard all workspace version of current page.</target>
+      </trans-unit>
+      <trans-unit id="window.discard.message" resname="window.discard.message">
+        <source>Do you really want to discard this version from workspace?</source>
+        <target state="needs-translation">Do you really want to discard this version from workspace?</target>
+      </trans-unit>
+      <trans-unit id="window.discardAll.message" resname="window.discardAll.message">
+        <source>Do you really want to discard all versions from page?</source>
+        <target state="needs-translation">Do you really want to discard all versions from page?</target>
+      </trans-unit>
+      <trans-unit id="window.massAction.title" resname="window.massAction.title">
+        <source>Prepare to start mass action</source>
+        <target state="needs-translation">Prepare to start mass action</target>
+      </trans-unit>
+      <trans-unit id="window.version.published" resname="window.version.published">
+        <source>Published version</source>
+        <target state="needs-translation">Published version</target>
+      </trans-unit>
+      <trans-unit id="window.version.staged" resname="window.version.staged">
+        <source>Staged version</source>
+        <target state="needs-translation">Staged version</target>
+      </trans-unit>
+      <trans-unit id="window.selectionAction.title" resname="window.selectionAction.title">
+        <source>Prepare to execute actions on selection</source>
+        <target state="needs-translation">Prepare to execute actions on selection</target>
+      </trans-unit>
+      <trans-unit id="error.stageId.integer" resname="error.stageId.integer">
+        <source>StageId is supposed to be an integer</source>
+        <target state="needs-translation">StageId is supposed to be an integer</target>
+      </trans-unit>
+      <trans-unit id="error.stageId.invalid" resname="error.stageId.invalid" xml:space="preserve">
+				<source>The stage to be used seems to be invalid and cannot be used. Please consider to use the update
+					wizard in the install tool to fix this.
+				</source>
+			<target state="needs-translation">The stage to be used seems to be invalid and cannot be used. Please consider to use the update
+					wizard in the install tool to fix this.
+				</target></trans-unit>
+      <trans-unit id="error.sendToNextStage.noRecordFound" resname="error.sendToNextStage.noRecordFound">
+        <source>The record element could not be found.</source>
+        <target state="needs-translation">The record element could not be found.</target>
+      </trans-unit>
+      <trans-unit id="error.sendToPrevStage.noPreviousStage" resname="error.sendToPrevStage.noPreviousStage">
+        <source>The record element is already in editing stage, there is no previous stage.</source>
+        <target state="needs-translation">The record element is already in editing stage, there is no previous stage.</target>
+      </trans-unit>
+      <trans-unit id="window.sendToNextStageWindow.itemsWillBeSentTo" resname="window.sendToNextStageWindow.itemsWillBeSentTo">
+        <source>The selected element(s) will be sent to</source>
+        <target state="needs-translation">The selected element(s) will be sent to</target>
+      </trans-unit>
+      <trans-unit id="window.sendToNextStageWindow.selectAll" resname="window.sendToNextStageWindow.selectAll">
+        <source>Select all</source>
+        <target state="needs-translation">Select all</target>
+      </trans-unit>
+      <trans-unit id="window.sendToNextStageWindow.deselectAll" resname="window.sendToNextStageWindow.deselectAll">
+        <source>Uncheck all</source>
+        <target state="needs-translation">Uncheck all</target>
+      </trans-unit>
+      <trans-unit id="window.sendToNextStageWindow.sendMailTo" resname="window.sendToNextStageWindow.sendMailTo">
+        <source>Send mail to</source>
+        <target state="needs-translation">Send mail to</target>
+      </trans-unit>
+      <trans-unit id="window.sendToNextStageWindow.additionalRecipients" resname="window.sendToNextStageWindow.additionalRecipients">
+        <source>Additional recipients</source>
+        <target state="needs-translation">Additional recipients</target>
+      </trans-unit>
+      <trans-unit id="window.sendToNextStageWindow.additionalRecipients.hint" resname="window.sendToNextStageWindow.additionalRecipients.hint">
+        <source>One recipient per line</source>
+        <target state="needs-translation">One recipient per line</target>
+      </trans-unit>
+      <trans-unit id="window.sendToNextStageWindow.comments" resname="window.sendToNextStageWindow.comments">
+        <source>Comments</source>
+        <target state="needs-translation">Comments</target>
+      </trans-unit>
+      <trans-unit id="window.recordChanges" resname="window.recordChanges">
+        <source>Record changes</source>
+        <target state="needs-translation">Record changes</target>
+      </trans-unit>
+      <trans-unit id="window.recordInformation" resname="window.recordInformation">
+        <source>Information for "{0}"</source>
+        <target state="needs-translation">Information for "{0}"</target>
+      </trans-unit>
+      <trans-unit id="window.recordChanges.tabs.changeSummary" resname="window.recordChanges.tabs.changeSummary">
+        <source>Summary of changes</source>
+        <target state="needs-translation">Summary of changes</target>
+      </trans-unit>
+      <trans-unit id="window.recordChanges.tabs.comments" resname="window.recordChanges.tabs.comments">
+        <source>Comments</source>
+        <target state="needs-translation">Comments</target>
+      </trans-unit>
+      <trans-unit id="window.recordChanges.tabs.history" resname="window.recordChanges.tabs.history">
+        <source>History</source>
+        <target state="needs-translation">History</target>
+      </trans-unit>
+      <trans-unit id="window.recordHistory" resname="window.recordHistory">
+        <source>History of record "{0}"</source>
+        <target state="needs-translation">History of record "{0}"</target>
+      </trans-unit>
+      <trans-unit id="error.getStageTitle.stageNotFound" resname="error.getStageTitle.stageNotFound">
+        <source>Stage not found</source>
+        <target state="needs-translation">Stage not found</target>
+      </trans-unit>
+      <trans-unit id="info.newpage" resname="info.newpage">
+        <source>New Page!</source>
+        <target state="needs-translation">New Page!</target>
+      </trans-unit>
+      <trans-unit id="info.newpage.detail" resname="info.newpage.detail">
+        <source>The previewed page has been created in a workspace and has no live counterpart.</source>
+        <target state="needs-translation">The previewed page has been created in a workspace and has no live counterpart.</target>
+      </trans-unit>
+      <trans-unit id="preview.livePreview" resname="preview.livePreview">
+        <source>Live</source>
+        <target state="needs-translation">Live</target>
+      </trans-unit>
+      <trans-unit id="preview.livePreviewDetail" resname="preview.livePreviewDetail">
+        <source>Click this element to hide the workspace version and see the live version of the page.</source>
+        <target state="needs-translation">Click this element to hide the workspace version and see the live version of the page.</target>
+      </trans-unit>
+      <trans-unit id="preview.workspacePreview" resname="preview.workspacePreview">
+        <source>Workspace</source>
+        <target state="needs-translation">Workspace</target>
+      </trans-unit>
+      <trans-unit id="preview.workspacePreviewDetail" resname="preview.workspacePreviewDetail">
+        <source>Click this element to hide the live version and see the workspace version of the page.</source>
+        <target state="needs-translation">Click this element to hide the live version and see the workspace version of the page.</target>
+      </trans-unit>
+      <trans-unit id="preview.modeSlider" resname="preview.modeSlider">
+        <source>Slider</source>
+        <target state="needs-translation">Slider</target>
+      </trans-unit>
+      <trans-unit id="preview.modeVbox" resname="preview.modeVbox">
+        <source>Vertical</source>
+        <target state="needs-translation">Vertical</target>
+      </trans-unit>
+      <trans-unit id="preview.modeHbox" resname="preview.modeHbox">
+        <source>Horizontal</source>
+        <target state="needs-translation">Horizontal</target>
+      </trans-unit>
+      <trans-unit id="label_doaction_publish" resname="label_doaction_publish">
+        <source>Publish</source>
+        <target state="needs-translation">Publish</target>
+      </trans-unit>
+      <trans-unit id="label_doaction_discard" resname="label_doaction_discard">
+        <source>Discard</source>
+        <target state="needs-translation">Discard</target>
+      </trans-unit>
+      <trans-unit id="label_doaction_generatePreviewLinks" resname="label_doaction_generatePreviewLinks">
+        <source>Generate Workspace Preview Links</source>
+        <target state="needs-translation">Generate Workspace Preview Links</target>
+      </trans-unit>
+      <trans-unit id="info.elementAlreadyModified" resname="info.elementAlreadyModified">
+        <source>Element is in workspace stage "%s", modifications will send it back to "%s".</source>
+        <target state="needs-translation">Element is in workspace stage "%s", modifications will send it back to "%s".</target>
+      </trans-unit>
+      <trans-unit id="live_workspace" resname="live_workspace">
+        <source>Live Workspace</source>
+        <target state="needs-translation">Live Workspace</target>
+      </trans-unit>
+      <trans-unit id="workspace_version" resname="workspace_version">
+        <source>Workspace version</source>
+        <target state="needs-translation">Workspace version</target>
+      </trans-unit>
+      <trans-unit id="current_step" resname="current_step">
+        <source><![CDATA[<b>Current stage step</b>: {0} (<b>{1}</b>/{2})]]></source>
+        <target state="needs-translation"><![CDATA[<b>Current stage step</b>: {0} (<b>{1}</b>/{2})]]></target>
+      </trans-unit>
+      <trans-unit id="path" resname="path">
+        <source><![CDATA[<b>Path</b>: {0}]]></source>
+        <target state="needs-translation"><![CDATA[<b>Path</b>: {0}]]></target>
+      </trans-unit>
+      <trans-unit id="stage" resname="stage">
+        <source>Stage {0}</source>
+        <target state="needs-translation">Stage {0}</target>
+      </trans-unit>
+      <trans-unit id="comments" resname="comments">
+        <source><![CDATA[User comments for <b>step {0} of stage</b> "{1}"]]></source>
+        <target state="needs-translation"><![CDATA[User comments for <b>step {0} of stage</b> "{1}"]]></target>
+      </trans-unit>
+      <trans-unit id="language.allLanguages" resname="language.allLanguages">
+        <source>all languages</source>
+        <target state="needs-translation">all languages</target>
+      </trans-unit>
+      <trans-unit id="language.selectLanguage" resname="language.selectLanguage">
+        <source>all languages</source>
+        <target state="needs-translation">all languages</target>
+      </trans-unit>
+      <trans-unit id="integrity.dependsOnDefaultLanguageRecord" resname="integrity.dependsOnDefaultLanguageRecord">
+        <source><![CDATA[Record "%s" depends on default language record]]></source>
+        <target state="needs-translation"><![CDATA[Record "%s" depends on default language record]]></target>
+      </trans-unit>
+      <trans-unit id="integrity.isDefaultLanguageRecord" resname="integrity.isDefaultLanguageRecord">
+        <source><![CDATA[Default language record for record "%s"]]></source>
+        <target state="needs-translation"><![CDATA[Default language record for record "%s"]]></target>
+      </trans-unit>
+      <trans-unit id="window.integrity_warning.title" resname="window.integrity_warning.title">
+        <source>Integrity Warning</source>
+        <target state="needs-translation">Integrity Warning</target>
+      </trans-unit>
+      <trans-unit id="integrity.hasIssuesDescription" resname="integrity.hasIssuesDescription">
+        <source>The integrity check discovered several issues, see status icons in front of each record for further details.</source>
+        <target state="needs-translation">The integrity check discovered several issues, see status icons in front of each record for further details.</target>
+      </trans-unit>
+      <trans-unit id="integrity.hasIssuesQuestion" resname="integrity.hasIssuesQuestion">
+        <source>Do you want to continue?</source>
+        <target state="needs-translation">Do you want to continue?</target>
+      </trans-unit>
+      <trans-unit id="status.info" resname="status.info">
+        <source>Information</source>
+        <target state="needs-translation">Information</target>
+      </trans-unit>
+      <trans-unit id="status.warning" resname="status.warning">
+        <source>Warning</source>
+        <target state="needs-translation">Warning</target>
+      </trans-unit>
+      <trans-unit id="status.error" resname="status.error">
+        <source>Error</source>
+        <target state="needs-translation">Error</target>
+      </trans-unit>
+      <trans-unit id="iframe.livePreview" resname="iframe.livePreview">
+        <source>Preview of the live record</source>
+        <target state="needs-translation">Preview of the live record</target>
+      </trans-unit>
+      <trans-unit id="iframe.workspacePreview" resname="iframe.workspacePreview">
+        <source>Preview of the record in workspace %s</source>
+        <target state="needs-translation">Preview of the record in workspace %s</target>
+      </trans-unit>
+      <trans-unit id="workingTable.depth" resname="workingTable.depth">
+        <source>Depth</source>
+        <target state="needs-translation">Depth</target>
+      </trans-unit>
+      <trans-unit id="workingTable.languages" resname="workingTable.languages">
+        <source>Languages</source>
+        <target state="needs-translation">Languages</target>
+      </trans-unit>
+      <trans-unit id="workingTable.stages" resname="workingTable.stages">
+        <source>Stages</source>
+        <target state="needs-translation">Stages</target>
+      </trans-unit>
+      <trans-unit id="status.has_changes" resname="status.has_changes">
+        <source>Record was changed in this workspace</source>
+        <target state="needs-translation">Record was changed in this workspace</target>
+      </trans-unit>
+      <trans-unit id="status.contains_changes" resname="status.contains_changes">
+        <source>Record contains version records</source>
+        <target state="needs-translation">Record contains version records</target>
+      </trans-unit>
+      <trans-unit id="status.is_new" resname="status.is_new">
+        <source>Record was created in this workspace</source>
+        <target state="needs-translation">Record was created in this workspace</target>
+      </trans-unit>
+      <trans-unit id="moduleMenu.dropdown.label" resname="moduleMenu.dropdown.label">
+        <source>Selected workspace</source>
+        <target state="needs-translation">Selected workspace</target>
+      </trans-unit>
+      <trans-unit id="action.switchToWorkspace" resname="action.switchToWorkspace">
+        <source>Switch to workspace</source>
+        <target state="needs-translation">Switch to workspace</target>
+      </trans-unit>
+      <trans-unit id="toolbarItems.workspace" resname="toolbarItems.workspace">
+        <source>Workspace</source>
+        <target state="needs-translation">Workspace</target>
+      </trans-unit>
+      <trans-unit id="toolbarItems.workspace.intro.text" resname="toolbarItems.workspace.intro.text">
+        <source>The following workspaces are available to you.</source>
+        <target state="needs-translation">The following workspaces are available to you.</target>
+      </trans-unit>
+      <trans-unit id="toolbarItems.workspace.intro.link" resname="toolbarItems.workspace.intro.link">
+        <source>Workspaces Module</source>
+        <target state="needs-translation">Workspaces Module</target>
+      </trans-unit>
+      <trans-unit id="toolbarItems.workspace.intro.link.description" resname="toolbarItems.workspace.intro.link.description">
+        <source>To view changes made in a workspace, please go to:</source>
+        <target state="needs-translation">To view changes made in a workspace, please go to:</target>
+      </trans-unit>
+      <trans-unit id="toolbarItems.workspace.noWorkspaceFound" resname="toolbarItems.workspace.noWorkspaceFound">
+        <source>No workspaces found.</source>
+        <target state="needs-translation">No workspaces found.</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

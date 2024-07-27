@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file source-language="en" datatype="plaintext" original="EXT:viewpage/Resources/Private/Language/locallang.xlf" date="2011-10-17T20:22:37Z" product-name="viewpage" target-language="fr">
+    <header/>
+    <body>
+      <trans-unit id="width" resname="width">
+        <source>Width</source>
+        <target state="needs-translation">Width</target>
+      </trans-unit>
+      <trans-unit id="tablet" resname="tablet">
+        <source>Tablet</source>
+        <target state="needs-translation">Tablet</target>
+      </trans-unit>
+      <trans-unit id="mobile" resname="mobile">
+        <source>Mobile</source>
+        <target state="needs-translation">Mobile</target>
+      </trans-unit>
+      <trans-unit id="computer" resname="computer">
+        <source>Computer</source>
+        <target state="needs-translation">Computer</target>
+      </trans-unit>
+      <trans-unit id="desktop" resname="desktop">
+        <source>Desktop</source>
+        <target state="needs-translation">Desktop</target>
+      </trans-unit>
+      <trans-unit id="customWidth" resname="customWidth">
+        <source>Custom Size</source>
+        <target state="needs-translation">Custom Size</target>
+      </trans-unit>
+      <trans-unit id="autoSize" resname="autoSize">
+        <source>Auto Size</source>
+        <target state="needs-translation">Auto Size</target>
+      </trans-unit>
+      <trans-unit id="refreshPage" resname="refreshPage">
+        <source>Refresh page</source>
+        <target state="needs-translation">Refresh page</target>
+      </trans-unit>
+      <trans-unit id="language" resname="language">
+        <source>Language</source>
+        <target state="needs-translation">Language</target>
+      </trans-unit>
+      <trans-unit id="automatic" resname="automatic">
+        <source>Automatic</source>
+        <target state="needs-translation">Automatic</target>
+      </trans-unit>
+      <trans-unit id="maximized" resname="maximized">
+        <source>Maximized</source>
+        <target state="needs-translation">Maximized</target>
+      </trans-unit>
+      <trans-unit id="custom" resname="custom">
+        <source>Custom</source>
+        <target state="needs-translation">Custom</target>
+      </trans-unit>
+      <trans-unit id="unidentified" resname="unidentified">
+        <source>Unidentified</source>
+        <target state="needs-translation">Unidentified</target>
+      </trans-unit>
+      <trans-unit id="noValidPageSelected" resname="noValidPageSelected">
+        <source>Please select a page with a valid page type in the page tree to get a preview of it in different screen resolutions.</source>
+        <target state="needs-translation">Please select a page with a valid page type in the page tree to get a preview of it in different screen resolutions.</target>
+      </trans-unit>
+      <trans-unit id="noSiteConfiguration" resname="noSiteConfiguration">
+        <source>The requested page is missing a valid site configuration.</source>
+        <target state="needs-translation">The requested page is missing a valid site configuration.</target>
+      </trans-unit>
+      <trans-unit id="iframe.title" resname="iframe.title">
+        <source>View selected page in different screen resolutions</source>
+        <target state="needs-translation">View selected page in different screen resolutions</target>
+      </trans-unit>
+      <trans-unit id="moduleMenu.dropdown.label" resname="moduleMenu.dropdown.label">
+        <source>Page language</source>
+        <target state="needs-translation">Page language</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

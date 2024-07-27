@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file source-language="en" datatype="plaintext" original="EXT:blog_example/Resources/Private/Language/locallang_db.xlf" date="2020-06-03T15:50:00Z" product-name="blog_example" target-language="fr">
+    <header/>
+    <body>
+      <trans-unit id="tx_blogexample_domain_model_blog" resname="tx_blogexample_domain_model_blog">
+        <source>Blog</source>
+        <target state="needs-translation">Blog</target>
+      </trans-unit>
+      <trans-unit id="tx_blogexample_domain_model_blog.title" resname="tx_blogexample_domain_model_blog.title">
+        <source>Blog title</source>
+        <target state="needs-translation">Blog title</target>
+      </trans-unit>
+      <trans-unit id="tx_blogexample_domain_model_blog.description" resname="tx_blogexample_domain_model_blog.description">
+        <source>Short description</source>
+        <target state="needs-translation">Short description</target>
+      </trans-unit>
+      <trans-unit id="tx_blogexample_domain_model_blog.logo" resname="tx_blogexample_domain_model_blog.logo">
+        <source>Logo</source>
+        <target state="needs-translation">Logo</target>
+      </trans-unit>
+      <trans-unit id="tx_blogexample_domain_model_blog.posts" resname="tx_blogexample_domain_model_blog.posts">
+        <source>Posts</source>
+        <target state="needs-translation">Posts</target>
+      </trans-unit>
+      <trans-unit id="tx_blogexample_domain_model_blog.administrator" resname="tx_blogexample_domain_model_blog.administrator">
+        <source>Administrator</source>
+        <target state="needs-translation">Administrator</target>
+      </trans-unit>
+      <trans-unit id="tx_blogexample_domain_model_post" resname="tx_blogexample_domain_model_post">
+        <source>Post</source>
+        <target state="needs-translation">Post</target>
+      </trans-unit>
+      <trans-unit id="tx_blogexample_domain_model_post.blog" resname="tx_blogexample_domain_model_post.blog">
+        <source>Related to</source>
+        <target state="needs-translation">Related to</target>
+      </trans-unit>
+      <trans-unit id="tx_blogexample_domain_model_post.title" resname="tx_blogexample_domain_model_post.title">
+        <source>Title</source>
+        <target state="needs-translation">Title</target>
+      </trans-unit>
+      <trans-unit id="tx_blogexample_domain_model_post.subtitle" resname="tx_blogexample_domain_model_post.subtitle">
+        <source>Title</source>
+        <target state="needs-translation">Title</target>
+      </trans-unit>
+      <trans-unit id="tx_blogexample_domain_model_post.date" resname="tx_blogexample_domain_model_post.date">
+        <source>Date</source>
+        <target state="needs-translation">Date</target>
+      </trans-unit>
+      <trans-unit id="tx_blogexample_domain_model_post.archive_date" resname="tx_blogexample_domain_model_post.archive_date">
+        <source>Archive date</source>
+        <target state="needs-translation">Archive date</target>
+      </trans-unit>
+      <trans-unit id="tx_blogexample_domain_model_post.author" resname="tx_blogexample_domain_model_post.author">
+        <source>Author</source>
+        <target state="needs-translation">Author</target>
+      </trans-unit>
+      <trans-unit id="tx_blogexample_domain_model_post.second_author" resname="tx_blogexample_domain_model_post.second_author">
+        <source>Second author</source>
+        <target state="needs-translation">Second author</target>
+      </trans-unit>
+      <trans-unit id="tx_blogexample_domain_model_post.reviewer" resname="tx_blogexample_domain_model_post.reviewer">
+        <source>Reviewer</source>
+        <target state="needs-translation">Reviewer</target>
+      </trans-unit>
+      <trans-unit id="tx_blogexample_domain_model_post.content" resname="tx_blogexample_domain_model_post.content">
+        <source>Content</source>
+        <target state="needs-translation">Content</target>
+      </trans-unit>
+      <trans-unit id="tx_blogexample_domain_model_post.votes" resname="tx_blogexample_domain_model_post.votes">
+        <source>Votes</source>
+        <target state="needs-translation">Votes</target>
+      </trans-unit>
+      <trans-unit id="tx_blogexample_domain_model_post.published" resname="tx_blogexample_domain_model_post.published">
+        <source>Published</source>
+        <target state="needs-translation">Published</target>
+      </trans-unit>
+      <trans-unit id="tx_blogexample_domain_model_post.tags" resname="tx_blogexample_domain_model_post.tags">
+        <source>Tags</source>
+        <target state="needs-translation">Tags</target>
+      </trans-unit>
+      <trans-unit id="tx_blogexample_domain_model_post.comments" resname="tx_blogexample_domain_model_post.comments">
+        <source>Comments</source>
+        <target state="needs-translation">Comments</target>
+      </trans-unit>
+      <trans-unit id="tx_blogexample_domain_model_post.related" resname="tx_blogexample_domain_model_post.related">
+        <source>Related posts</source>
+        <target state="needs-translation">Related posts</target>
+      </trans-unit>
+      <trans-unit id="tx_blogexample_domain_model_post.additional_info" resname="tx_blogexample_domain_model_post.additional_info">
+        <source>Additional info (inline 1:1 foreign_field)</source>
+        <target state="needs-translation">Additional info (inline 1:1 foreign_field)</target>
+      </trans-unit>
+      <trans-unit id="tx_blogexample_domain_model_post.additional_name" resname="tx_blogexample_domain_model_post.additional_name">
+        <source>Additional name (inline 1:1 csv)</source>
+        <target state="needs-translation">Additional name (inline 1:1 csv)</target>
+      </trans-unit>
+      <trans-unit id="tx_blogexample_domain_model_post.additional_comments" resname="tx_blogexample_domain_model_post.additional_comments">
+        <source>Additional comments (inline 1:n csv)</source>
+        <target state="needs-translation">Additional comments (inline 1:n csv)</target>
+      </trans-unit>
+      <trans-unit id="tx_blogexample_domain_model_person" resname="tx_blogexample_domain_model_person">
+        <source>Person</source>
+        <target state="needs-translation">Person</target>
+      </trans-unit>
+      <trans-unit id="tx_blogexample_domain_model_person.firstname" resname="tx_blogexample_domain_model_person.firstname">
+        <source>Firstname</source>
+        <target state="needs-translation">Firstname</target>
+      </trans-unit>
+      <trans-unit id="tx_blogexample_domain_model_person.lastname" resname="tx_blogexample_domain_model_person.lastname">
+        <source>Lastname</source>
+        <target state="needs-translation">Lastname</target>
+      </trans-unit>
+      <trans-unit id="tx_blogexample_domain_model_person.email" resname="tx_blogexample_domain_model_person.email">
+        <source>E-Mail</source>
+        <target state="needs-translation">E-Mail</target>
+      </trans-unit>
+      <trans-unit id="tx_blogexample_domain_model_person.avatar" resname="tx_blogexample_domain_model_person.avatar">
+        <source>Avatar</source>
+        <target state="needs-translation">Avatar</target>
+      </trans-unit>
+      <trans-unit id="tx_blogexample_domain_model_person.tags" resname="tx_blogexample_domain_model_person.tags">
+        <source>Tags</source>
+        <target state="needs-translation">Tags</target>
+      </trans-unit>
+      <trans-unit id="tx_blogexample_domain_model_person.tags_special" resname="tx_blogexample_domain_model_person.tags_special">
+        <source>Special tags</source>
+        <target state="needs-translation">Special tags</target>
+      </trans-unit>
+      <trans-unit id="tx_blogexample_domain_model_comment" resname="tx_blogexample_domain_model_comment">
+        <source>Comment</source>
+        <target state="needs-translation">Comment</target>
+      </trans-unit>
+      <trans-unit id="tx_blogexample_domain_model_comment.date" resname="tx_blogexample_domain_model_comment.date">
+        <source>Date</source>
+        <target state="needs-translation">Date</target>
+      </trans-unit>
+      <trans-unit id="tx_blogexample_domain_model_comment.author" resname="tx_blogexample_domain_model_comment.author">
+        <source>Author</source>
+        <target state="needs-translation">Author</target>
+      </trans-unit>
+      <trans-unit id="tx_blogexample_domain_model_comment.reviewer" resname="tx_blogexample_domain_model_comment.reviewer">
+        <source>Reviewer</source>
+        <target state="needs-translation">Reviewer</target>
+      </trans-unit>
+      <trans-unit id="tx_blogexample_domain_model_comment.email" resname="tx_blogexample_domain_model_comment.email">
+        <source>Email</source>
+        <target state="needs-translation">Email</target>
+      </trans-unit>
+      <trans-unit id="tx_blogexample_domain_model_comment.content" resname="tx_blogexample_domain_model_comment.content">
+        <source>Content</source>
+        <target state="needs-translation">Content</target>
+      </trans-unit>
+      <trans-unit id="tx_blogexample_domain_model_registryentry.name" resname="tx_blogexample_domain_model_registryentry.name">
+        <source>Registry Entry Key</source>
+        <target state="needs-translation">Registry Entry Key</target>
+      </trans-unit>
+      <trans-unit id="tx_blogexample_domain_model_tag" resname="tx_blogexample_domain_model_tag">
+        <source>Tag</source>
+        <target state="needs-translation">Tag</target>
+      </trans-unit>
+      <trans-unit id="tx_blogexample_domain_model_tag.name" resname="tx_blogexample_domain_model_tag.name">
+        <source>Name</source>
+        <target state="needs-translation">Name</target>
+      </trans-unit>
+      <trans-unit id="tx_blogexample_domain_model_tag.items" resname="tx_blogexample_domain_model_tag.items">
+        <source>Related items</source>
+        <target state="needs-translation">Related items</target>
+      </trans-unit>
+      <trans-unit id="tx_blogexample_domain_model_info" resname="tx_blogexample_domain_model_info">
+        <source>Additional Info</source>
+        <target state="needs-translation">Additional Info</target>
+      </trans-unit>
+      <trans-unit id="tx_blogexample_domain_model_info.name" resname="tx_blogexample_domain_model_info.name">
+        <source>Additional name</source>
+        <target state="needs-translation">Additional name</target>
+      </trans-unit>
+      <trans-unit id="tx_blogexample_domain_model_info.post" resname="tx_blogexample_domain_model_info.post">
+        <source>Post - parent</source>
+        <target state="needs-translation">Post - parent</target>
+      </trans-unit>
+      <trans-unit id="tx_blogexample_domain_model_dateexample" resname="tx_blogexample_domain_model_dateexample">
+        <source>Date example</source>
+        <target state="needs-translation">Date example</target>
+      </trans-unit>
+      <trans-unit id="fe_users.tx_extbase_type.TYPO3Tests\BlogExample\Domain\Model\Administrator" resname="fe_users.tx_extbase_type.TYPO3Tests\BlogExample\Domain\Model\Administrator">
+        <source>Blog Admin (BlogExample)</source>
+        <target state="needs-translation">Blog Admin (BlogExample)</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

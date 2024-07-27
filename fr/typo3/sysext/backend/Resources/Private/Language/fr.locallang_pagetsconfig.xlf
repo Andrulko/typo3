@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file source-language="en" datatype="plaintext" original="EXT:backend/Resources/Private/Language/locallang_pagetsconfig.xlf" date="2023-01-19T14:41:00Z" product-name="cms" target-language="fr">
+    <header/>
+    <body>
+      <trans-unit id="module.pagetsconfig.title" resname="module.pagetsconfig.title">
+        <source>Page TSconfig</source>
+        <target state="needs-translation">Page TSconfig</target>
+      </trans-unit>
+      <trans-unit id="module.pagetsconfig.description" resname="module.pagetsconfig.description">
+        <source>The page TSconfig module lets you manage configuration overrides for editors and option display throughout the Backend.</source>
+        <target state="needs-translation">The page TSconfig module lets you manage configuration overrides for editors and option display throughout the Backend.</target>
+      </trans-unit>
+      <trans-unit id="module.pagetsconfig.shortDescription" resname="module.pagetsconfig.shortDescription">
+        <source>Page TSconfig tools</source>
+        <target state="needs-translation">Page TSconfig tools</target>
+      </trans-unit>
+      <trans-unit id="module.pagetsconfig.noAccess" resname="module.pagetsconfig.noAccess">
+        <source>Access to this module denied.</source>
+        <target state="needs-translation">Access to this module denied.</target>
+      </trans-unit>
+      <trans-unit id="module.pagetsconfig_pages" resname="module.pagetsconfig_pages">
+        <source>Pages containing page TSconfig</source>
+        <target state="needs-translation">Pages containing page TSconfig</target>
+      </trans-unit>
+      <trans-unit id="module.pagetsconfig_pages.headline" resname="module.pagetsconfig_pages.headline">
+        <source>Pages containing page TSconfig</source>
+        <target state="needs-translation">Pages containing page TSconfig</target>
+      </trans-unit>
+      <trans-unit id="module.pagetsconfig_pages.description" resname="module.pagetsconfig_pages.description">
+        <source>Global overview of all pages in the database containing page TSconfig.</source>
+        <target state="needs-translation">Global overview of all pages in the database containing page TSconfig.</target>
+      </trans-unit>
+      <trans-unit id="module.pagetsconfig_pages.noRecords" resname="module.pagetsconfig_pages.noRecords">
+        <source>There are no pages containing page TSconfig settings in the page configuration.</source>
+        <target state="needs-translation">There are no pages containing page TSconfig settings in the page configuration.</target>
+      </trans-unit>
+      <trans-unit id="module.pagetsconfig_pages.pagetitle" resname="module.pagetsconfig_pages.pagetitle">
+        <source>Page title</source>
+        <target state="needs-translation">Page title</target>
+      </trans-unit>
+      <trans-unit id="module.pagetsconfig_pages.written_tsconfig_lines" resname="module.pagetsconfig_pages.written_tsconfig_lines">
+        <source>Number of lines of code in field "TSconfig"</source>
+        <target state="needs-translation">Number of lines of code in field "TSconfig"</target>
+      </trans-unit>
+      <trans-unit id="module.pagetsconfig_active" resname="module.pagetsconfig_active">
+        <source>Active page TSconfig</source>
+        <target state="needs-translation">Active page TSconfig</target>
+      </trans-unit>
+      <trans-unit id="module.pagetsconfig_active.headline" resname="module.pagetsconfig_active.headline">
+        <source>Active page TSconfig of page "%s"</source>
+        <target state="needs-translation">Active page TSconfig of page "%s"</target>
+      </trans-unit>
+      <trans-unit id="module.pagetsconfig_active.description" resname="module.pagetsconfig_active.description">
+        <source>Overview of the current page TSconfig of the system. A targeted search for values and names is possible. The list of results can also be filtered according to conditions.</source>
+        <target state="needs-translation">Overview of the current page TSconfig of the system. A targeted search for values and names is possible. The list of results can also be filtered according to conditions.</target>
+      </trans-unit>
+      <trans-unit id="module.pagetsconfig_active.displayConstantSubstitutions" resname="module.pagetsconfig_active.displayConstantSubstitutions">
+        <source>Substitute constants in page TSconfig</source>
+        <target state="needs-translation">Substitute constants in page TSconfig</target>
+      </trans-unit>
+      <trans-unit id="module.pagetsconfig_active.displayComments" resname="module.pagetsconfig_active.displayComments">
+        <source>Display comments</source>
+        <target state="needs-translation">Display comments</target>
+      </trans-unit>
+      <trans-unit id="module.pagetsconfig_active.sortAlphabetically" resname="module.pagetsconfig_active.sortAlphabetically">
+        <source>Sort keys alphabetically</source>
+        <target state="needs-translation">Sort keys alphabetically</target>
+      </trans-unit>
+      <trans-unit id="module.pagetsconfig_active.panel.header.conditions" resname="module.pagetsconfig_active.panel.header.conditions">
+        <source>Conditions</source>
+        <target state="needs-translation">Conditions</target>
+      </trans-unit>
+      <trans-unit id="module.pagetsconfig_active.panel.header.numberOfSearchMatches" resname="module.pagetsconfig_active.panel.header.numberOfSearchMatches">
+        <source>%s search match(es)</source>
+        <target state="needs-translation">%s search match(es)</target>
+      </trans-unit>
+      <trans-unit id="module.pagetsconfig_active.panel.info.conditionActiveCount.multiple" resname="module.pagetsconfig_active.panel.info.conditionActiveCount.multiple">
+        <source>%s active conditions</source>
+        <target state="needs-translation">%s active conditions</target>
+      </trans-unit>
+      <trans-unit id="module.pagetsconfig_active.panel.info.conditionActiveCount.single" resname="module.pagetsconfig_active.panel.info.conditionActiveCount.single">
+        <source>%s active condition</source>
+        <target state="needs-translation">%s active condition</target>
+      </trans-unit>
+      <trans-unit id="module.pagetsconfig_active.panel.info.conditionWithConstant" resname="module.pagetsconfig_active.panel.info.conditionWithConstant">
+        <source>Site settings usage: [%s]</source>
+        <target state="needs-translation">Site settings usage: [%s]</target>
+      </trans-unit>
+      <trans-unit id="module.pagetsconfig_active.panel.header.configuration" resname="module.pagetsconfig_active.panel.header.configuration">
+        <source>Configuration</source>
+        <target state="needs-translation">Configuration</target>
+      </trans-unit>
+      <trans-unit id="module.pagetsconfig_active.siteSettings" resname="module.pagetsconfig_active.siteSettings">
+        <source>Constants from site settings</source>
+        <target state="needs-translation">Constants from site settings</target>
+      </trans-unit>
+      <trans-unit id="module.pagetsconfig_active.activePageTsConfig" resname="module.pagetsconfig_active.activePageTsConfig">
+        <source>Page TSconfig</source>
+        <target state="needs-translation">Page TSconfig</target>
+      </trans-unit>
+      <trans-unit id="module.pagetsconfig_active.noPageTSconfigAvailable" resname="module.pagetsconfig_active.noPageTSconfigAvailable">
+        <source>No suitable page TSconfig available.</source>
+        <target state="needs-translation">No suitable page TSconfig available.</target>
+      </trans-unit>
+      <trans-unit id="module.pagetsconfig_active.tree.valueWithConstant" resname="module.pagetsconfig_active.tree.valueWithConstant">
+        <source>Constant usage: [%s]</source>
+        <target state="needs-translation">Constant usage: [%s]</target>
+      </trans-unit>
+      <trans-unit id="module.pagetsconfig_includes" resname="module.pagetsconfig_includes">
+        <source>Included page TSconfig</source>
+        <target state="needs-translation">Included page TSconfig</target>
+      </trans-unit>
+      <trans-unit id="module.pagetsconfig_includes.headline" resname="module.pagetsconfig_includes.headline">
+        <source>Included page TSconfig of page "%s"</source>
+        <target state="needs-translation">Included page TSconfig of page "%s"</target>
+      </trans-unit>
+      <trans-unit id="module.pagetsconfig_includes.description" resname="module.pagetsconfig_includes.description">
+        <source>Overview of the included TypoScript and include order for the current page.</source>
+        <target state="needs-translation">Overview of the included TypoScript and include order for the current page.</target>
+      </trans-unit>
+      <trans-unit id="module.pagetsconfig_includes.siteSettings" resname="module.pagetsconfig_includes.siteSettings">
+        <source>Constants from site settings</source>
+        <target state="needs-translation">Constants from site settings</target>
+      </trans-unit>
+      <trans-unit id="module.pagetsconfig_includes.pagetsconfig" resname="module.pagetsconfig_includes.pagetsconfig">
+        <source>Page TSconfig</source>
+        <target state="needs-translation">Page TSconfig</target>
+      </trans-unit>
+      <trans-unit id="module.pagetsconfig_includes.panel.header.configuration" resname="module.pagetsconfig_includes.panel.header.configuration">
+        <source>Configuration</source>
+        <target state="needs-translation">Configuration</target>
+      </trans-unit>
+      <trans-unit id="module.pagetsconfig_includes.panel.header.syntaxErrors" resname="module.pagetsconfig_includes.panel.header.syntaxErrors">
+        <source>Syntax scanner warnings</source>
+        <target state="needs-translation">Syntax scanner warnings</target>
+      </trans-unit>
+      <trans-unit id="module.pagetsconfig_includes.panel.header.conditions" resname="module.pagetsconfig_includes.panel.header.conditions">
+        <source>Conditions</source>
+        <target state="needs-translation">Conditions</target>
+      </trans-unit>
+      <trans-unit id="module.pagetsconfig_includes.panel.info.syntaxErrorCount.single" resname="module.pagetsconfig_includes.panel.info.syntaxErrorCount.single">
+        <source>%s syntax warning</source>
+        <target state="needs-translation">%s syntax warning</target>
+      </trans-unit>
+      <trans-unit id="module.pagetsconfig_includes.panel.info.syntaxErrorCount.multiple" resname="module.pagetsconfig_includes.panel.info.syntaxErrorCount.multiple">
+        <source>%s syntax warnings</source>
+        <target state="needs-translation">%s syntax warnings</target>
+      </trans-unit>
+      <trans-unit id="module.pagetsconfig_includes.panel.info.conditionActiveCount.multiple" resname="module.pagetsconfig_includes.panel.info.conditionActiveCount.multiple">
+        <source>%s active conditions</source>
+        <target state="needs-translation">%s active conditions</target>
+      </trans-unit>
+      <trans-unit id="module.pagetsconfig_includes.panel.info.conditionActiveCount.single" resname="module.pagetsconfig_includes.panel.info.conditionActiveCount.single">
+        <source>%s active condition</source>
+        <target state="needs-translation">%s active condition</target>
+      </trans-unit>
+      <trans-unit id="module.pagetsconfig_includes.panel.info.conditionWithConstant" resname="module.pagetsconfig_includes.panel.info.conditionWithConstant">
+        <source>Constant usage: [%s]</source>
+        <target state="needs-translation">Constant usage: [%s]</target>
+      </trans-unit>
+      <trans-unit id="module.pagetsconfig_includes.syntaxError.sourceCode" resname="module.pagetsconfig_includes.syntaxError.sourceCode">
+        <source>Show affected code snippet</source>
+        <target state="needs-translation">Show affected code snippet</target>
+      </trans-unit>
+      <trans-unit id="module.pagetsconfig_includes.syntaxError.type.line.invalid" resname="module.pagetsconfig_includes.syntaxError.type.line.invalid">
+        <source>Invalid line in "%1$s", line number "%2$s"</source>
+        <target state="needs-translation">Invalid line in "%1$s", line number "%2$s"</target>
+      </trans-unit>
+      <trans-unit id="module.pagetsconfig_includes.syntaxError.type.brace.excess" resname="module.pagetsconfig_includes.syntaxError.type.brace.excess">
+        <source>Brace in excess in "%1$s", line number "%2$s"</source>
+        <target state="needs-translation">Brace in excess in "%1$s", line number "%2$s"</target>
+      </trans-unit>
+      <trans-unit id="module.pagetsconfig_includes.syntaxError.type.brace.missing" resname="module.pagetsconfig_includes.syntaxError.type.brace.missing">
+        <source>Brace missing in "%1$s", line number "%2$s"</source>
+        <target state="needs-translation">Brace missing in "%1$s", line number "%2$s"</target>
+      </trans-unit>
+      <trans-unit id="module.pagetsconfig_includes.syntaxError.type.import.empty" resname="module.pagetsconfig_includes.syntaxError.type.import.empty">
+        <source>Import does not find a file in "%1$s", line number "%2$s"</source>
+        <target state="needs-translation">Import does not find a file in "%1$s", line number "%2$s"</target>
+      </trans-unit>
+      <trans-unit id="module.pagetsconfig_includes.tree.child.type.Segment" resname="module.pagetsconfig_includes.tree.child.type.Segment">
+        <source>Code segment</source>
+        <target state="needs-translation">Code segment</target>
+      </trans-unit>
+      <trans-unit id="module.pagetsconfig_includes.tree.child.type.AtImport" resname="module.pagetsconfig_includes.tree.child.type.AtImport">
+        <source>Included via "@import"</source>
+        <target state="needs-translation">Included via "@import"</target>
+      </trans-unit>
+      <trans-unit id="module.pagetsconfig_includes.tree.child.type.Condition" resname="module.pagetsconfig_includes.tree.child.type.Condition">
+        <source>Condition (then)</source>
+        <target state="needs-translation">Condition (then)</target>
+      </trans-unit>
+      <trans-unit id="module.pagetsconfig_includes.tree.child.type.ConditionElse" resname="module.pagetsconfig_includes.tree.child.type.ConditionElse">
+        <source>Condition (else)</source>
+        <target state="needs-translation">Condition (else)</target>
+      </trans-unit>
+      <trans-unit id="module.pagetsconfig_includes.tree.child.type.ConditionStop" resname="module.pagetsconfig_includes.tree.child.type.ConditionStop">
+        <source>Condition (end)</source>
+        <target state="needs-translation">Condition (end)</target>
+      </trans-unit>
+      <trans-unit id="module.pagetsconfig_includes.tree.child.type.ConditionIncludeTyposcript" resname="module.pagetsconfig_includes.tree.child.type.ConditionIncludeTyposcript">
+        <source>Included via "INCLUDE_TYPOSCRIPT" (with condition)</source>
+        <target state="needs-translation">Included via "INCLUDE_TYPOSCRIPT" (with condition)</target>
+      </trans-unit>
+      <trans-unit id="module.pagetsconfig_includes.tree.child.type.IncludeTyposcript" resname="module.pagetsconfig_includes.tree.child.type.IncludeTyposcript">
+        <source>Included via "INCLUDE_TYPOSCRIPT"</source>
+        <target state="needs-translation">Included via "INCLUDE_TYPOSCRIPT"</target>
+      </trans-unit>
+      <trans-unit id="module.pagetsconfig_includes.tree.child.type.Segment" resname="module.pagetsconfig_includes.tree.child.type.Segment">
+        <source>Code segment</source>
+        <target state="needs-translation">Code segment</target>
+      </trans-unit>
+      <trans-unit id="module.pagetsconfig_includes.tree.child.type.TsConfig" resname="module.pagetsconfig_includes.tree.child.type.TsConfig">
+        <source>TSconfig</source>
+        <target state="needs-translation">TSconfig</target>
+      </trans-unit>
+      <trans-unit id="module.pagetsconfig_includes.tree.child.conditionVerdict.matched" resname="module.pagetsconfig_includes.tree.child.conditionVerdict.matched">
+        <source>Matched</source>
+        <target state="needs-translation">Matched</target>
+      </trans-unit>
+      <trans-unit id="module.pagetsconfig_includes.tree.child.conditionVerdict.notMatched" resname="module.pagetsconfig_includes.tree.child.conditionVerdict.notMatched">
+        <source>Not matched</source>
+        <target state="needs-translation">Not matched</target>
+      </trans-unit>
+      <trans-unit id="module.pagetsconfig_includes.tree.child.btn.sourceCode" resname="module.pagetsconfig_includes.tree.child.btn.sourceCode">
+        <source>Show code</source>
+        <target state="needs-translation">Show code</target>
+      </trans-unit>
+      <trans-unit id="module.pagetsconfig_includes.tree.child.btn.sourceCodeWithResolvedIncludes" resname="module.pagetsconfig_includes.tree.child.btn.sourceCodeWithResolvedIncludes">
+        <source>Show code including possible includes/imports</source>
+        <target state="needs-translation">Show code including possible includes/imports</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

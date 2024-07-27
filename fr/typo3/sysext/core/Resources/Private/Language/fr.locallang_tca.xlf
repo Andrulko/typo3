@@ -1,0 +1,836 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file source-language="en" datatype="plaintext" original="EXT:core/Resources/Private/Language/locallang_tca.xlf" date="2011-10-17T20:22:34Z" product-name="lang" target-language="fr">
+    <header/>
+    <body>
+      <trans-unit id="file_mountpoints" resname="file_mountpoints">
+        <source>File Mounts</source>
+        <target state="needs-translation">File Mounts</target>
+      </trans-unit>
+      <trans-unit id="file_mountpoints_edit_title" resname="file_mountpoints_edit_title">
+        <source>Edit filemount</source>
+        <target state="needs-translation">Edit filemount</target>
+      </trans-unit>
+      <trans-unit id="file_mountpoints_add_title" resname="file_mountpoints_add_title">
+        <source>Create new filemount</source>
+        <target state="needs-translation">Create new filemount</target>
+      </trans-unit>
+      <trans-unit id="file_mountpoints_list_title" resname="file_mountpoints_list_title">
+        <source>List filemounts</source>
+        <target state="needs-translation">List filemounts</target>
+      </trans-unit>
+      <trans-unit id="db_mountpoints" resname="db_mountpoints">
+        <source>DB Mounts</source>
+        <target state="needs-translation">DB Mounts</target>
+      </trans-unit>
+      <trans-unit id="userMods" resname="userMods">
+        <source>Allowed modules</source>
+        <target state="needs-translation">Allowed modules</target>
+      </trans-unit>
+      <trans-unit id="availableWidgets" resname="userMods">
+        <source>Allowed dashboard widgets</source>
+        <target state="needs-translation">Allowed dashboard widgets</target>
+      </trans-unit>
+      <trans-unit id="mfa_providers" resname="mfa_providers">
+        <source>Allowed multi-factor authentication providers</source>
+        <target state="needs-translation">Allowed multi-factor authentication providers</target>
+      </trans-unit>
+      <trans-unit id="allowed_languages" resname="allowed_languages">
+        <source>Limit to languages</source>
+        <target state="needs-translation">Limit to languages</target>
+      </trans-unit>
+      <trans-unit id="allowed_languages.description" resname="allowed_languages.description">
+        <source>If no language is selected, all languages will be available by default.</source>
+        <target state="needs-translation">If no language is selected, all languages will be available by default.</target>
+      </trans-unit>
+      <trans-unit id="category_perms" resname="category_perms">
+        <source>Category Mounts</source>
+        <target state="needs-translation">Category Mounts</target>
+      </trans-unit>
+      <trans-unit id="workspace_perms" resname="workspace_perms">
+        <source>Workspace permissions</source>
+        <target state="needs-translation">Workspace permissions</target>
+      </trans-unit>
+      <trans-unit id="workspace_perms_live" resname="workspace_perms_live">
+        <source>Edit Live (Online)</source>
+        <target state="needs-translation">Edit Live (Online)</target>
+      </trans-unit>
+      <trans-unit id="TSconfig" resname="TSconfig">
+        <source>TSconfig</source>
+        <target state="needs-translation">TSconfig</target>
+      </trans-unit>
+      <trans-unit id="be_users.username" resname="be_users.username">
+        <source>Username</source>
+        <target state="needs-translation">Username</target>
+      </trans-unit>
+      <trans-unit id="be_users.password" resname="be_users.password">
+        <source>Password</source>
+        <target state="needs-translation">Password</target>
+      </trans-unit>
+      <trans-unit id="be_users.mfa" resname="be_users.mfa">
+        <source>Multi-factor authentication</source>
+        <target state="needs-translation">Multi-factor authentication</target>
+      </trans-unit>
+      <trans-unit id="be_users.avatar" resname="be_users.avatar">
+        <source>Avatar</source>
+        <target state="needs-translation">Avatar</target>
+      </trans-unit>
+      <trans-unit id="be_users.usergroup" resname="be_users.usergroup">
+        <source>Group</source>
+        <target state="needs-translation">Group</target>
+      </trans-unit>
+      <trans-unit id="be_users.usergroup_edit_title" resname="be_users.usergroup_edit_title">
+        <source>Edit usergroup</source>
+        <target state="needs-translation">Edit usergroup</target>
+      </trans-unit>
+      <trans-unit id="be_users.usergroup_add_title" resname="be_users.usergroup_add_title">
+        <source>Create new group</source>
+        <target state="needs-translation">Create new group</target>
+      </trans-unit>
+      <trans-unit id="be_users.usergroup_list_title" resname="be_users.usergroup_list_title">
+        <source>List groups</source>
+        <target state="needs-translation">List groups</target>
+      </trans-unit>
+      <trans-unit id="be_users.admin" resname="be_users.admin">
+        <source>Admin (!)</source>
+        <target state="needs-translation">Admin (!)</target>
+      </trans-unit>
+      <trans-unit id="be_users.options" resname="be_users.options">
+        <source>Mount from groups</source>
+        <target state="needs-translation">Mount from groups</target>
+      </trans-unit>
+      <trans-unit id="be_users.options_db_mounts" resname="be_users.options_db_mounts">
+        <source>DB Mounts</source>
+        <target state="needs-translation">DB Mounts</target>
+      </trans-unit>
+      <trans-unit id="be_users.options_file_mounts" resname="be_users.options_file_mounts">
+        <source>File Mounts</source>
+        <target state="needs-translation">File Mounts</target>
+      </trans-unit>
+      <trans-unit id="be_users.fileoper_perms" resname="be_users.fileoper_perms">
+        <source>Fileoperation permissions</source>
+        <target state="needs-translation">Fileoperation permissions</target>
+      </trans-unit>
+      <trans-unit id="be_users.file_permissions.files" resname="be_users.file_permissions.files">
+        <source>Files</source>
+        <target state="needs-translation">Files</target>
+      </trans-unit>
+      <trans-unit id="be_users.file_permissions.files_read" resname="be_users.file_permissions.files_read">
+        <source>Files: Read</source>
+        <target state="needs-translation">Files: Read</target>
+      </trans-unit>
+      <trans-unit id="be_users.file_permissions.files_write" resname="be_users.file_permissions.files_write">
+        <source>Files: Write</source>
+        <target state="needs-translation">Files: Write</target>
+      </trans-unit>
+      <trans-unit id="be_users.file_permissions.files_add" resname="be_users.file_permissions.files_add">
+        <source>Files: Add</source>
+        <target state="needs-translation">Files: Add</target>
+      </trans-unit>
+      <trans-unit id="be_users.file_permissions.files_rename" resname="be_users.file_permissions.files_rename">
+        <source>Files: Rename</source>
+        <target state="needs-translation">Files: Rename</target>
+      </trans-unit>
+      <trans-unit id="be_groups.file_permissions.files_replace" resname="be_groups.file_permissions.files_replace">
+        <source>Files: Replace</source>
+        <target state="needs-translation">Files: Replace</target>
+      </trans-unit>
+      <trans-unit id="be_users.file_permissions.files_move" resname="be_users.file_permissions.files_move">
+        <source>Files: Move</source>
+        <target state="needs-translation">Files: Move</target>
+      </trans-unit>
+      <trans-unit id="be_users.file_permissions.files_copy" resname="be_users.file_permissions.files_copy">
+        <source>Files: Copy</source>
+        <target state="needs-translation">Files: Copy</target>
+      </trans-unit>
+      <trans-unit id="be_users.fileoper_perms_unzip" resname="be_users.fileoper_perms_unzip">
+        <source>Files: Unzip</source>
+        <target state="needs-translation">Files: Unzip</target>
+      </trans-unit>
+      <trans-unit id="be_users.file_permissions.file_delete" resname="be_users.file_permissions.file_delete">
+        <source>Files: Delete</source>
+        <target state="needs-translation">Files: Delete</target>
+      </trans-unit>
+      <trans-unit id="be_users.fileoper_perms_general" resname="be_users.fileoper_perms_general">
+        <source>Files: Upload,Copy,Move,Delete,Rename,New,Edit</source>
+        <target state="needs-translation">Files: Upload,Copy,Move,Delete,Rename,New,Edit</target>
+      </trans-unit>
+      <trans-unit id="be_users.fileoper_perms_diroper_perms" resname="be_users.fileoper_perms_diroper_perms">
+        <source>Directory: Move,Delete,Rename,New</source>
+        <target state="needs-translation">Directory: Move,Delete,Rename,New</target>
+      </trans-unit>
+      <trans-unit id="be_users.fileoper_perms_diroper_perms_copy" resname="be_users.fileoper_perms_diroper_perms_copy">
+        <source>Directory: Copy</source>
+        <target state="needs-translation">Directory: Copy</target>
+      </trans-unit>
+      <trans-unit id="be_users.fileoper_perms_diroper_perms_delete" resname="be_users.fileoper_perms_diroper_perms_delete">
+        <source>Directory: Delete recursively (rm -Rf)</source>
+        <target state="needs-translation">Directory: Delete recursively (rm -Rf)</target>
+      </trans-unit>
+      <trans-unit id="be_users.lang" resname="be_users.lang">
+        <source>User Interface Language</source>
+        <target state="needs-translation">User Interface Language</target>
+      </trans-unit>
+      <trans-unit id="be_users.languageItemGroups.default" resname="be_users.languageItemGroups.default">
+        <source>Default</source>
+        <target state="needs-translation">Default</target>
+      </trans-unit>
+      <trans-unit id="be_users.languageItemGroups.installed" resname="be_users.languageItemGroups.installed">
+        <source>Installed Languages</source>
+        <target state="needs-translation">Installed Languages</target>
+      </trans-unit>
+      <trans-unit id="be_users.languageItemGroups.unavailable" resname="be_users.languageItemGroups.unavailable">
+        <source>Unavailable Languages</source>
+        <target state="needs-translation">Unavailable Languages</target>
+      </trans-unit>
+      <trans-unit id="be_users.tabs.permissions" resname="be_users.tabs.permissions">
+        <source>Permissions</source>
+        <target state="needs-translation">Permissions</target>
+      </trans-unit>
+      <trans-unit id="be_users.tabs.mounts_and_workspaces" resname="be_users.tabs.mounts_and_workspaces">
+        <source>Mounts and Workspaces</source>
+        <target state="needs-translation">Mounts and Workspaces</target>
+      </trans-unit>
+      <trans-unit id="be_users.tabs.options" resname="be_users.tabs.options">
+        <source>Options</source>
+        <target state="needs-translation">Options</target>
+      </trans-unit>
+      <trans-unit id="be_users.tabs.extended" resname="be_users.tabs.extended">
+        <source>Extended</source>
+        <target state="needs-translation">Extended</target>
+      </trans-unit>
+      <trans-unit id="be_users.tabs.access" resname="be_users.tabs.access">
+        <source>Access</source>
+        <target state="needs-translation">Access</target>
+      </trans-unit>
+      <trans-unit id="be_users.tabs.personal_data" resname="be_users.tabs.personal_data">
+        <source>Personal Data</source>
+        <target state="needs-translation">Personal Data</target>
+      </trans-unit>
+      <trans-unit id="be_groups.title" resname="be_groups.title">
+        <source>Title</source>
+        <target state="needs-translation">Title</target>
+      </trans-unit>
+      <trans-unit id="be_groups.pagetypes_select" resname="be_groups.pagetypes_select">
+        <source>Allowed page types</source>
+        <target state="needs-translation">Allowed page types</target>
+      </trans-unit>
+      <trans-unit id="be_groups.tables_modify" resname="be_groups.tables_modify">
+        <source>Table permissions</source>
+        <target state="needs-translation">Table permissions</target>
+      </trans-unit>
+      <trans-unit id="be_groups.tables_modify.description" resname="be_groups.tables_modify.description">
+        <source>Tables chosen for writing automatically receive read access permissions.</source>
+        <target state="needs-translation">Tables chosen for writing automatically receive read access permissions.</target>
+      </trans-unit>
+      <trans-unit id="be_groups.tables_modify.permissions.none" resname="be_groups.tables_modify.permissions.none">
+        <source>No Access</source>
+        <target state="needs-translation">No Access</target>
+      </trans-unit>
+      <trans-unit id="be_groups.tables_modify.permissions.select" resname="be_groups.tables_modify.permissions.select">
+        <source>Read</source>
+        <target state="needs-translation">Read</target>
+      </trans-unit>
+      <trans-unit id="be_groups.tables_modify.permissions.modify" resname="be_groups.tables_modify.permissions.modify">
+        <source>Read &amp; Write</source>
+        <target state="needs-translation">Read &amp; Write</target>
+      </trans-unit>
+      <trans-unit id="be_groups.tables_select" resname="be_groups.tables_select">
+        <source>Tables (listing)</source>
+        <target state="needs-translation">Tables (listing)</target>
+      </trans-unit>
+      <trans-unit id="be_groups.non_exclude_fields" resname="be_groups.non_exclude_fields">
+        <source>Allowed fields</source>
+        <target state="needs-translation">Allowed fields</target>
+      </trans-unit>
+      <trans-unit id="be_groups.non_exclude_fields.description" resname="be_groups.non_exclude_fields.description">
+        <source>Allow fields that are excluded in forms by default for non-admin users. This option refers to the 'exclude' configuration set in TCA (Table Configuration Array).</source>
+        <target state="needs-translation">Allow fields that are excluded in forms by default for non-admin users. This option refers to the 'exclude' configuration set in TCA (Table Configuration Array).</target>
+      </trans-unit>
+      <trans-unit id="be_groups.explicit_allowdeny" resname="be_groups.explicit_allowdeny">
+        <source>Explicitly allow field values</source>
+        <target state="needs-translation">Explicitly allow field values</target>
+      </trans-unit>
+      <trans-unit id="be_groups.custom_options" resname="be_groups.custom_options">
+        <source>Custom module options</source>
+        <target state="needs-translation">Custom module options</target>
+      </trans-unit>
+      <trans-unit id="be_groups.subgroup" resname="be_groups.subgroup">
+        <source>Inherit settings from groups</source>
+        <target state="needs-translation">Inherit settings from groups</target>
+      </trans-unit>
+      <trans-unit id="be_groups.tabs.record_permissions" resname="be_groups.tabs.record_permissions">
+        <source>Record Permissions</source>
+        <target state="needs-translation">Record Permissions</target>
+      </trans-unit>
+      <trans-unit id="be_groups.tabs.module_permissions" resname="be_groups.tabs.module_permissions">
+        <source>Module Permissions</source>
+        <target state="needs-translation">Module Permissions</target>
+      </trans-unit>
+      <trans-unit id="be_groups.tabs.mounts_and_workspaces" resname="be_groups.tabs.mounts_and_workspaces">
+        <source>Mounts and Workspaces</source>
+        <target state="needs-translation">Mounts and Workspaces</target>
+      </trans-unit>
+      <trans-unit id="be_groups.fileoper_perms" resname="be_groups.fileoper_perms">
+        <source>Fileoperation permissions</source>
+        <target state="needs-translation">Fileoperation permissions</target>
+      </trans-unit>
+      <trans-unit id="be_groups.file_permissions.folder" resname="be_groups.file_permissions.folder">
+        <source>Directory</source>
+        <target state="needs-translation">Directory</target>
+      </trans-unit>
+      <trans-unit id="be_groups.file_permissions.folder_read" resname="be_groups.file_permissions.folder_read">
+        <source>Directory: Read</source>
+        <target state="needs-translation">Directory: Read</target>
+      </trans-unit>
+      <trans-unit id="be_groups.file_permissions.folder_write" resname="be_groups.file_permissions.folder_write">
+        <source>Directory: Write</source>
+        <target state="needs-translation">Directory: Write</target>
+      </trans-unit>
+      <trans-unit id="be_groups.file_permissions.folder_add" resname="be_groups.file_permissions.folder_add">
+        <source>Directory: Add</source>
+        <target state="needs-translation">Directory: Add</target>
+      </trans-unit>
+      <trans-unit id="be_groups.file_permissions.folder_rename" resname="be_groups.file_permissions.folder_rename">
+        <source>Directory: Rename</source>
+        <target state="needs-translation">Directory: Rename</target>
+      </trans-unit>
+      <trans-unit id="be_groups.file_permissions.folder_move" resname="be_groups.file_permissions.folder_move">
+        <source>Directory: Move</source>
+        <target state="needs-translation">Directory: Move</target>
+      </trans-unit>
+      <trans-unit id="be_groups.file_permissions.folder_copy" resname="be_groups.file_permissions.folder_copy">
+        <source>Directory: Copy</source>
+        <target state="needs-translation">Directory: Copy</target>
+      </trans-unit>
+      <trans-unit id="be_groups.file_permissions.folder_delete" resname="be_groups.file_permissions.folder_delete">
+        <source>Directory: Delete</source>
+        <target state="needs-translation">Directory: Delete</target>
+      </trans-unit>
+      <trans-unit id="be_groups.file_permissions.folder_recursivedelete" resname="be_groups.file_permissions.folder_recursivedelete">
+        <source>Directory: Delete recursively</source>
+        <target state="needs-translation">Directory: Delete recursively</target>
+      </trans-unit>
+      <trans-unit id="be_groups.file_permissions.files" resname="be_groups.file_permissions.files">
+        <source>Files</source>
+        <target state="needs-translation">Files</target>
+      </trans-unit>
+      <trans-unit id="be_groups.file_permissions.files_read" resname="be_groups.file_permissions.files_read">
+        <source>Files: Read</source>
+        <target state="needs-translation">Files: Read</target>
+      </trans-unit>
+      <trans-unit id="be_groups.file_permissions.files_write" resname="be_groups.file_permissions.files_write">
+        <source>Files: Write</source>
+        <target state="needs-translation">Files: Write</target>
+      </trans-unit>
+      <trans-unit id="be_groups.file_permissions.files_edit" resname="be_groups.file_permissions.files_edit">
+        <source>Files: Edit</source>
+        <target state="needs-translation">Files: Edit</target>
+      </trans-unit>
+      <trans-unit id="be_groups.file_permissions.files_add" resname="be_groups.file_permissions.files_add">
+        <source>Files: Add</source>
+        <target state="needs-translation">Files: Add</target>
+      </trans-unit>
+      <trans-unit id="be_groups.file_permissions.files_rename" resname="be_groups.file_permissions.files_rename">
+        <source>Files: Rename</source>
+        <target state="needs-translation">Files: Rename</target>
+      </trans-unit>
+      <trans-unit id="be_groups.file_permissions.files_move" resname="be_groups.file_permissions.files_move">
+        <source>Files: Move</source>
+        <target state="needs-translation">Files: Move</target>
+      </trans-unit>
+      <trans-unit id="be_groups.file_permissions.files_copy" resname="be_groups.file_permissions.files_copy">
+        <source>Files: Copy</source>
+        <target state="needs-translation">Files: Copy</target>
+      </trans-unit>
+      <trans-unit id="be_groups.fileoper_perms_unzip" resname="be_groups.fileoper_perms_unzip">
+        <source>Files: Unzip</source>
+        <target state="needs-translation">Files: Unzip</target>
+      </trans-unit>
+      <trans-unit id="be_groups.file_permissions.files_delete" resname="be_groups.file_permissions.files_delete">
+        <source>Files: Delete</source>
+        <target state="needs-translation">Files: Delete</target>
+      </trans-unit>
+      <trans-unit id="be_groups.fileoper_perms_general" resname="be_groups.fileoper_perms_general">
+        <source>Files: Upload,Copy,Move,Delete,Rename,New,Edit</source>
+        <target state="needs-translation">Files: Upload,Copy,Move,Delete,Rename,New,Edit</target>
+      </trans-unit>
+      <trans-unit id="be_groups.fileoper_perms_diroper_perms" resname="be_groups.fileoper_perms_diroper_perms">
+        <source>Directory: Move,Delete,Rename,New</source>
+        <target state="needs-translation">Directory: Move,Delete,Rename,New</target>
+      </trans-unit>
+      <trans-unit id="be_groups.fileoper_perms_diroper_perms_copy" resname="be_groups.fileoper_perms_diroper_perms_copy">
+        <source>Directory: Copy</source>
+        <target state="needs-translation">Directory: Copy</target>
+      </trans-unit>
+      <trans-unit id="be_groups.fileoper_perms_diroper_perms_delete" resname="be_groups.fileoper_perms_diroper_perms_delete">
+        <source>Directory: Delete recursively (rm -Rf)</source>
+        <target state="needs-translation">Directory: Delete recursively (rm -Rf)</target>
+      </trans-unit>
+      <trans-unit id="be_groups.tabs.options" resname="be_groups.tabs.options">
+        <source>Options</source>
+        <target state="needs-translation">Options</target>
+      </trans-unit>
+      <trans-unit id="be_groups.tabs.extended" resname="be_groups.tabs.extended">
+        <source>Extended</source>
+        <target state="needs-translation">Extended</target>
+      </trans-unit>
+      <trans-unit id="sys_filemounts.tabs.users" resname="sys_filemounts.tabs.users">
+        <source>Users</source>
+        <target state="needs-translation">Users</target>
+      </trans-unit>
+      <trans-unit id="sys_filemounts.tabs.mountpoints" resname="sys_filemounts.tabs.mountpoints">
+        <source>Mountpoints</source>
+        <target state="needs-translation">Mountpoints</target>
+      </trans-unit>
+      <trans-unit id="sys_filemounts.tabs.publishing" resname="sys_filemounts.tabs.publishing">
+        <source>Publishing</source>
+        <target state="needs-translation">Publishing</target>
+      </trans-unit>
+      <trans-unit id="sys_filemounts.tabs.other" resname="sys_filemounts.tabs.other">
+        <source>Other</source>
+        <target state="needs-translation">Other</target>
+      </trans-unit>
+      <trans-unit id="sys_filemounts.identifier" resname="sys_filemounts.identifier">
+        <source>Entry point</source>
+        <target state="needs-translation">Entry point</target>
+      </trans-unit>
+      <trans-unit id="sys_filemounts.title" resname="sys_filemounts.title">
+        <source>Label</source>
+        <target state="needs-translation">Label</target>
+      </trans-unit>
+      <trans-unit id="sys_filemounts.read_only" resname="sys_filemounts.read_only">
+        <source>Read-only</source>
+        <target state="needs-translation">Read-only</target>
+      </trans-unit>
+      <trans-unit id="sys_history" resname="sys_history">
+        <source>System History</source>
+        <target state="needs-translation">System History</target>
+      </trans-unit>
+      <trans-unit id="sys_log" resname="sys_log">
+        <source>System Log</source>
+        <target state="needs-translation">System Log</target>
+      </trans-unit>
+      <trans-unit id="sys_news" resname="sys_news">
+        <source>System News</source>
+        <target state="needs-translation">System News</target>
+      </trans-unit>
+      <trans-unit id="sys_news.tabs.access" resname="sys_news.tabs.access">
+        <source>Access</source>
+        <target state="needs-translation">Access</target>
+      </trans-unit>
+      <trans-unit id="sys_workspace.adminusers" resname="sys_workspace.adminusers">
+        <source>Owners</source>
+        <target state="needs-translation">Owners</target>
+      </trans-unit>
+      <trans-unit id="sys_workspace.members" resname="sys_workspace.members">
+        <source>Members</source>
+        <target state="needs-translation">Members</target>
+      </trans-unit>
+      <trans-unit id="sys_workspace.publish_time" resname="sys_workspace.publish_time">
+        <source>Publish</source>
+        <target state="needs-translation">Publish</target>
+      </trans-unit>
+      <trans-unit id="sys_workspace.freeze" resname="sys_workspace.freeze">
+        <source>Freeze Editing</source>
+        <target state="needs-translation">Freeze Editing</target>
+      </trans-unit>
+      <trans-unit id="sys_workspace.live_edit" resname="sys_workspace.live_edit">
+        <source>Allow "live" editing of records from tables without versioning</source>
+        <target state="needs-translation">Allow "live" editing of records from tables without versioning</target>
+      </trans-unit>
+      <trans-unit id="sys_workspace.review_stage_edit" resname="sys_workspace.review_stage_edit">
+        <source>Allow members to edit records in "Review" stage</source>
+        <target state="needs-translation">Allow members to edit records in "Review" stage</target>
+      </trans-unit>
+      <trans-unit id="sys_workspace.disable_autocreate" resname="sys_workspace.disable_autocreate">
+        <source>Disable auto-versioning when editing</source>
+        <target state="needs-translation">Disable auto-versioning when editing</target>
+      </trans-unit>
+      <trans-unit id="sys_workspace.publish_access" resname="sys_workspace.publish_access">
+        <source>Publish access</source>
+        <target state="needs-translation">Publish access</target>
+      </trans-unit>
+      <trans-unit id="sys_workspace.stagechg_notification" resname="sys_workspace.stagechg_notification">
+        <source>Stage change notification by email</source>
+        <target state="needs-translation">Stage change notification by email</target>
+      </trans-unit>
+      <trans-unit id="pages" resname="pages">
+        <source>Page</source>
+        <target state="needs-translation">Page</target>
+      </trans-unit>
+      <trans-unit id="pages.hidden_toggle" resname="pages.hidden_toggle">
+        <source>Page visible</source>
+        <target state="needs-translation">Page visible</target>
+      </trans-unit>
+      <trans-unit id="pages.hidden_toggle_formlabel" resname="pages.hidden_toggle_formlabel">
+        <source>Page visible</source>
+        <target state="needs-translation">Page visible</target>
+      </trans-unit>
+      <trans-unit id="pages.nav_hide" resname="pages.nav_hide">
+        <source>Page not enabled in menus</source>
+        <target state="needs-translation">Page not enabled in menus</target>
+      </trans-unit>
+      <trans-unit id="pages.nav_hide_toggle" resname="pages.nav_hide_toggle">
+        <source>Page enabled in menus</source>
+        <target state="needs-translation">Page enabled in menus</target>
+      </trans-unit>
+      <trans-unit id="pages.nav_hide_toggle_formlabel" resname="pages.nav_hide_toggle_formlabel">
+        <source>Page enabled in menus</source>
+        <target state="needs-translation">Page enabled in menus</target>
+      </trans-unit>
+      <trans-unit id="doktype.I.0" resname="doktype.I.0">
+        <source>Standard</source>
+        <target state="needs-translation">Standard</target>
+      </trans-unit>
+      <trans-unit id="doktype.I.1" resname="doktype.I.1">
+        <source>SysFolder</source>
+        <target state="needs-translation">SysFolder</target>
+      </trans-unit>
+      <trans-unit id="doktype.I.folder" resname="doktype.I.folder">
+        <source>Folder</source>
+        <target state="needs-translation">Folder</target>
+      </trans-unit>
+      <trans-unit id="title" resname="title">
+        <source>Page title</source>
+        <target state="needs-translation">Page title</target>
+      </trans-unit>
+      <trans-unit id="php_tree_stop" resname="php_tree_stop">
+        <source>Hide child pages in page tree</source>
+        <target state="needs-translation">Hide child pages in page tree</target>
+      </trans-unit>
+      <trans-unit id="is_siteroot" resname="is_siteroot">
+        <source>Is root of website</source>
+        <target state="needs-translation">Is root of website</target>
+      </trans-unit>
+      <trans-unit id="pages.slug" resname="pages.slug">
+        <source>URL Segment</source>
+        <target state="needs-translation">URL Segment</target>
+      </trans-unit>
+      <trans-unit id="pages.description" resname="pages.description">
+        <source>Description for search engines</source>
+        <target state="needs-translation">Description for search engines</target>
+      </trans-unit>
+      <trans-unit id="be_users" resname="be_users">
+        <source>Backend user</source>
+        <target state="needs-translation">Backend user</target>
+      </trans-unit>
+      <trans-unit id="be_groups" resname="be_groups">
+        <source>Backend usergroup</source>
+        <target state="needs-translation">Backend usergroup</target>
+      </trans-unit>
+      <trans-unit id="sys_filemounts" resname="sys_filemounts">
+        <source>Filemount</source>
+        <target state="needs-translation">Filemount</target>
+      </trans-unit>
+      <trans-unit id="sys_file_storage" resname="sys_file_storage">
+        <source>File Storage</source>
+        <target state="needs-translation">File Storage</target>
+      </trans-unit>
+      <trans-unit id="sys_file_storage.type" resname="sys_file_storage.type">
+        <source>Entry point</source>
+        <target state="needs-translation">Entry point</target>
+      </trans-unit>
+      <trans-unit id="sys_file_storage.name" resname="sys_file_storage.name">
+        <source>Name</source>
+        <target state="needs-translation">Name</target>
+      </trans-unit>
+      <trans-unit id="sys_file_storage.hidden" resname="sys_file_storage.hidden">
+        <source>Hide from listings</source>
+        <target state="needs-translation">Hide from listings</target>
+      </trans-unit>
+      <trans-unit id="sys_file_storage.is_online" resname="sys_file_storage.is_online">
+        <source>Is online?</source>
+        <target state="needs-translation">Is online?</target>
+      </trans-unit>
+      <trans-unit id="sys_file_storage.is_default" resname="sys_file_storage.is_default">
+        <source>Is default storage?</source>
+        <target state="needs-translation">Is default storage?</target>
+      </trans-unit>
+      <trans-unit id="sys_file_storage.is_browsable" resname="sys_file_storage.is_browsable">
+        <source>Is browsable?</source>
+        <target state="needs-translation">Is browsable?</target>
+      </trans-unit>
+      <trans-unit id="sys_file_storage.is_public" resname="sys_file_storage.is_public">
+        <source>Is publicly available?</source>
+        <target state="needs-translation">Is publicly available?</target>
+      </trans-unit>
+      <trans-unit id="sys_file_storage.is_writable" resname="sys_file_storage.is_writable">
+        <source>Is writable?</source>
+        <target state="needs-translation">Is writable?</target>
+      </trans-unit>
+      <trans-unit id="sys_file_storage.auto_extract_metadata" resname="sys_file_storage.auto_extract_metadata">
+        <source>Automatically extract metadata after upload</source>
+        <target state="needs-translation">Automatically extract metadata after upload</target>
+      </trans-unit>
+      <trans-unit id="sys_file_storage.capabilities" resname="sys_file_storage.capabilities">
+        <source>Capabilities</source>
+        <target state="needs-translation">Capabilities</target>
+      </trans-unit>
+      <trans-unit id="sys_file_storage.processingfolder" resname="sys_file_storage.processingfolder">
+        <source>Folder for manipulated and temporary images etc.</source>
+        <target state="needs-translation">Folder for manipulated and temporary images etc.</target>
+      </trans-unit>
+      <trans-unit id="sys_file_storage.processingfolder.placeholder" resname="sys_file_storage.processingfolder.placeholder">
+        <source>_processed_ or 1:/processed_files_storage_x</source>
+        <target state="needs-translation">_processed_ or 1:/processed_files_storage_x</target>
+      </trans-unit>
+      <trans-unit id="sys_file_storage.driver" resname="sys_file_storage.driver">
+        <source>Driver</source>
+        <target state="needs-translation">Driver</target>
+      </trans-unit>
+      <trans-unit id="sys_file_storage.driver.local" resname="sys_file_storage.driver.local">
+        <source>Local Filesystem</source>
+        <target state="needs-translation">Local Filesystem</target>
+      </trans-unit>
+      <trans-unit id="sys_file_storage.configuration" resname="sys_file_storage.configuration">
+        <source>Driver Configuration</source>
+        <target state="needs-translation">Driver Configuration</target>
+      </trans-unit>
+      <trans-unit id="sys_file" resname="sys_file">
+        <source>File</source>
+        <target state="needs-translation">File</target>
+      </trans-unit>
+      <trans-unit id="sys_file.storage" resname="sys_file.storage">
+        <source>Storage</source>
+        <target state="needs-translation">Storage</target>
+      </trans-unit>
+      <trans-unit id="sys_file.identifier" resname="sys_file.identifier">
+        <source>Identifier</source>
+        <target state="needs-translation">Identifier</target>
+      </trans-unit>
+      <trans-unit id="sys_file.name" resname="sys_file.name">
+        <source>Filename</source>
+        <target state="needs-translation">Filename</target>
+      </trans-unit>
+      <trans-unit id="sys_file.title" resname="sys_file.title">
+        <source>Title</source>
+        <target state="needs-translation">Title</target>
+      </trans-unit>
+      <trans-unit id="sys_file.type" resname="sys_file.type">
+        <source>File Type</source>
+        <target state="needs-translation">File Type</target>
+      </trans-unit>
+      <trans-unit id="sys_file.type.unknown" resname="sys_file.type.unknown">
+        <source>Unknown</source>
+        <target state="needs-translation">Unknown</target>
+      </trans-unit>
+      <trans-unit id="sys_file.type.text" resname="sys_file.type.text">
+        <source>Text</source>
+        <target state="needs-translation">Text</target>
+      </trans-unit>
+      <trans-unit id="sys_file.type.image" resname="sys_file.type.image">
+        <source>Image</source>
+        <target state="needs-translation">Image</target>
+      </trans-unit>
+      <trans-unit id="sys_file.type.audio" resname="sys_file.type.audio">
+        <source>Audio</source>
+        <target state="needs-translation">Audio</target>
+      </trans-unit>
+      <trans-unit id="sys_file.type.video" resname="sys_file.type.video">
+        <source>Video</source>
+        <target state="needs-translation">Video</target>
+      </trans-unit>
+      <trans-unit id="sys_file.type.software" resname="sys_file.type.software">
+        <source>Software</source>
+        <target state="needs-translation">Software</target>
+      </trans-unit>
+      <trans-unit id="sys_file.mime_type" resname="sys_file.mime_type">
+        <source>Mime Type</source>
+        <target state="needs-translation">Mime Type</target>
+      </trans-unit>
+      <trans-unit id="sys_file.sha1" resname="sys_file.sha1">
+        <source>SHA1</source>
+        <target state="needs-translation">SHA1</target>
+      </trans-unit>
+      <trans-unit id="sys_file.size" resname="sys_file.size">
+        <source>Size</source>
+        <target state="needs-translation">Size</target>
+      </trans-unit>
+      <trans-unit id="sys_file.usage_count" resname="sys_file.usage_count">
+        <source>Usage Count</source>
+        <target state="needs-translation">Usage Count</target>
+      </trans-unit>
+      <trans-unit id="sys_file.description" resname="sys_file.description">
+        <source>Description</source>
+        <target state="needs-translation">Description</target>
+      </trans-unit>
+      <trans-unit id="sys_file.alternative" resname="sys_file.alternative">
+        <source>Alternative Text</source>
+        <target state="needs-translation">Alternative Text</target>
+      </trans-unit>
+      <trans-unit id="sys_file.alternative.description" resname="sys_file.alternative.description">
+        <source>Images must have text alternatives that describe the information or function represented by them. This should only be empty for purely decorative images.</source>
+        <target state="needs-translation">Images must have text alternatives that describe the information or function represented by them. This should only be empty for purely decorative images.</target>
+      </trans-unit>
+      <trans-unit id="sys_file.missing" resname="sys_file.missing">
+        <source>Marked as missing</source>
+        <target state="needs-translation">Marked as missing</target>
+      </trans-unit>
+      <trans-unit id="sys_file.metadata" resname="sys_file.metadata">
+        <source>Metadata records</source>
+        <target state="needs-translation">Metadata records</target>
+      </trans-unit>
+      <trans-unit id="file.width" resname="file.width">
+        <source>Width</source>
+        <target state="needs-translation">Width</target>
+      </trans-unit>
+      <trans-unit id="file.height" resname="file.height">
+        <source>Height</source>
+        <target state="needs-translation">Height</target>
+      </trans-unit>
+      <trans-unit id="sys_file_metadata" resname="sys_file_metadata">
+        <source>File Metadata</source>
+        <target state="needs-translation">File Metadata</target>
+      </trans-unit>
+      <trans-unit id="sys_file_reference" resname="sys_file_reference">
+        <source>File Reference</source>
+        <target state="needs-translation">File Reference</target>
+      </trans-unit>
+      <trans-unit id="sys_file_reference.uid_local" resname="sys_file_reference.uid_local">
+        <source>File</source>
+        <target state="needs-translation">File</target>
+      </trans-unit>
+      <trans-unit id="sys_file_reference.uid_foreign" resname="sys_file_reference.uid_foreign">
+        <source>Used by content elements</source>
+        <target state="needs-translation">Used by content elements</target>
+      </trans-unit>
+      <trans-unit id="sys_file_reference.tablenames" resname="sys_file_reference.tablenames">
+        <source>Table name</source>
+        <target state="needs-translation">Table name</target>
+      </trans-unit>
+      <trans-unit id="sys_file_reference.fieldname" resname="sys_file_reference.fieldname">
+        <source>Foreign Field</source>
+        <target state="needs-translation">Foreign Field</target>
+      </trans-unit>
+      <trans-unit id="sys_file_reference.sorting_foreign" resname="sys_file_reference.sorting_foreign">
+        <source>Sorting foreign</source>
+        <target state="needs-translation">Sorting foreign</target>
+      </trans-unit>
+      <trans-unit id="sys_file_reference.basicoverlayPalette" resname="sys_file_reference.basicoverlayPalette">
+        <source>File Metadata</source>
+        <target state="needs-translation">File Metadata</target>
+      </trans-unit>
+      <trans-unit id="sys_file_reference.imageoverlayPalette" resname="sys_file_reference.imageoverlayPalette">
+        <source>Image Metadata</source>
+        <target state="needs-translation">Image Metadata</target>
+      </trans-unit>
+      <trans-unit id="sys_file_reference.audioOverlayPalette" resname="sys_file_reference.audioOverlayPalette">
+        <source>Audio Metadata</source>
+        <target state="needs-translation">Audio Metadata</target>
+      </trans-unit>
+      <trans-unit id="sys_file_reference.videoOverlayPalette" resname="sys_file_reference.videoOverlayPalette">
+        <source>Video Metadata</source>
+        <target state="needs-translation">Video Metadata</target>
+      </trans-unit>
+      <trans-unit id="sys_file_reference.title" resname="sys_file_reference.title">
+        <source>Title</source>
+        <target state="needs-translation">Title</target>
+      </trans-unit>
+      <trans-unit id="sys_file_reference.description" resname="sys_file_reference.description">
+        <source>Description (Caption)</source>
+        <target state="needs-translation">Description (Caption)</target>
+      </trans-unit>
+      <trans-unit id="sys_file_reference.downloadname" resname="sys_file_reference.downloadname">
+        <source>Download Name</source>
+        <target state="needs-translation">Download Name</target>
+      </trans-unit>
+      <trans-unit id="sys_file_reference.alternative" resname="sys_file_reference.alternative">
+        <source>Alternative Text</source>
+        <target state="needs-translation">Alternative Text</target>
+      </trans-unit>
+      <trans-unit id="sys_file_reference.link" resname="sys_file_reference.link">
+        <source>Link</source>
+        <target state="needs-translation">Link</target>
+      </trans-unit>
+      <trans-unit id="sys_file_reference.crop" resname="sys_file_reference.crop">
+        <source>Image manipulation</source>
+        <target state="needs-translation">Image manipulation</target>
+      </trans-unit>
+      <trans-unit id="sys_file_reference.autoplay" resname="sys_file_reference.autoplay">
+        <source>Autoplay</source>
+        <target state="needs-translation">Autoplay</target>
+      </trans-unit>
+      <trans-unit id="sys_file_collection" resname="sys_file_collection">
+        <source>File collection</source>
+        <target state="needs-translation">File collection</target>
+      </trans-unit>
+      <trans-unit id="sys_file_collection.files" resname="sys_file_collection.files">
+        <source>Files</source>
+        <target state="needs-translation">Files</target>
+      </trans-unit>
+      <trans-unit id="sys_file_collection.title" resname="sys_file_collection.title">
+        <source>Title</source>
+        <target state="needs-translation">Title</target>
+      </trans-unit>
+      <trans-unit id="sys_file_collection.type" resname="sys_file_collection.type">
+        <source>Type</source>
+        <target state="needs-translation">Type</target>
+      </trans-unit>
+      <trans-unit id="sys_file_collection.type.0" resname="sys_file_collection.type.0">
+        <source>Static selection of files</source>
+        <target state="needs-translation">Static selection of files</target>
+      </trans-unit>
+      <trans-unit id="sys_file_collection.type.1" resname="sys_file_collection.type.1">
+        <source>Folder from Storage</source>
+        <target state="needs-translation">Folder from Storage</target>
+      </trans-unit>
+      <trans-unit id="sys_file_collection.type.2" resname="sys_file_collection.type.2">
+        <source>Select by category</source>
+        <target state="needs-translation">Select by category</target>
+      </trans-unit>
+      <trans-unit id="sys_file_collection.storage" resname="sys_file_collection.storage">
+        <source>File Storage</source>
+        <target state="needs-translation">File Storage</target>
+      </trans-unit>
+      <trans-unit id="sys_file_collection.folder" resname="sys_file_collection.folder">
+        <source>Folder</source>
+        <target state="needs-translation">Folder</target>
+      </trans-unit>
+      <trans-unit id="sys_file_collection.recursive" resname="sys_file_collection.recursive">
+        <source>Recursive</source>
+        <target state="needs-translation">Recursive</target>
+      </trans-unit>
+      <trans-unit id="sys_file_collection.category" resname="sys_file_collection.category">
+        <source>Category</source>
+        <target state="needs-translation">Category</target>
+      </trans-unit>
+      <trans-unit id="sys_workspace" resname="sys_workspace">
+        <source>Workspace</source>
+        <target state="needs-translation">Workspace</target>
+      </trans-unit>
+      <trans-unit id="editlock" resname="editlock">
+        <source>Restrict editing by non-Admins</source>
+        <target state="needs-translation">Restrict editing by non-Admins</target>
+      </trans-unit>
+      <trans-unit id="sys_category" resname="sys_category">
+        <source>Category</source>
+        <target state="needs-translation">Category</target>
+      </trans-unit>
+      <trans-unit id="sys_category.title" resname="sys_category.title">
+        <source>Title</source>
+        <target state="needs-translation">Title</target>
+      </trans-unit>
+      <trans-unit id="sys_category.parent" resname="sys_category.parent">
+        <source>Parent</source>
+        <target state="needs-translation">Parent</target>
+      </trans-unit>
+      <trans-unit id="sys_category.items" resname="sys_category.items">
+        <source>Items</source>
+        <target state="needs-translation">Items</target>
+      </trans-unit>
+      <trans-unit id="sys_category.categories" resname="sys_category.categories">
+        <source>Categories</source>
+        <target state="needs-translation">Categories</target>
+      </trans-unit>
+      <trans-unit id="sys_category.tabs.category" resname="sys_category.tabs.category">
+        <source>Categories</source>
+        <target state="needs-translation">Categories</target>
+      </trans-unit>
+      <trans-unit id="sys_category.tabs.items" resname="sys_category.tabs.items">
+        <source>Items</source>
+        <target state="needs-translation">Items</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

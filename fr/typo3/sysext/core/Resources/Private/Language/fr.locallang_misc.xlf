@@ -1,0 +1,588 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file source-language="en" datatype="plaintext" original="EXT:core/Resources/Private/Language/locallang_misc.xlf" date="2011-10-17T20:22:34Z" product-name="lang" target-language="fr">
+    <header/>
+    <body>
+      <trans-unit id="shortcut_edit" resname="shortcut_edit">
+        <source>Edit</source>
+        <target state="needs-translation">Edit</target>
+      </trans-unit>
+      <trans-unit id="shortcut_create" resname="shortcut_create">
+        <source>Create</source>
+        <target state="needs-translation">Create</target>
+      </trans-unit>
+      <trans-unit id="shortcut_editID" resname="shortcut_editID">
+        <source>Edit/Search</source>
+        <target state="needs-translation">Edit/Search</target>
+      </trans-unit>
+      <trans-unit id="shortcut_save" resname="shortcut_save">
+        <source>Update shortcut title</source>
+        <target state="needs-translation">Update shortcut title</target>
+      </trans-unit>
+      <trans-unit id="shortcut_saveClose" resname="shortcut_saveClose">
+        <source>Update and close editor</source>
+        <target state="needs-translation">Update and close editor</target>
+      </trans-unit>
+      <trans-unit id="shortcut_close" resname="shortcut_close">
+        <source>Close shortcut editor</source>
+        <target state="needs-translation">Close shortcut editor</target>
+      </trans-unit>
+      <trans-unit id="shortcut_delete" resname="shortcut_delete">
+        <source>Remove shortcut</source>
+        <target state="needs-translation">Remove shortcut</target>
+      </trans-unit>
+      <trans-unit id="shortcut_loadEdit" resname="shortcut_loadEdit">
+        <source>Loading page</source>
+        <target state="needs-translation">Loading page</target>
+      </trans-unit>
+      <trans-unit id="shortcut_searchFor" resname="shortcut_searchFor">
+        <source>Search for</source>
+        <target state="needs-translation">Search for</target>
+      </trans-unit>
+      <trans-unit id="shortcut_notEditable" resname="shortcut_notEditable">
+        <source>No editable page found!</source>
+        <target state="needs-translation">No editable page found!</target>
+      </trans-unit>
+      <trans-unit id="shortcut_group" resname="shortcut_group">
+        <source>Group</source>
+        <target state="needs-translation">Group</target>
+      </trans-unit>
+      <trans-unit id="shortcut_group_1" resname="shortcut_group_1">
+        <source>Pages</source>
+        <target state="needs-translation">Pages</target>
+      </trans-unit>
+      <trans-unit id="shortcut_group_2" resname="shortcut_group_2">
+        <source>Records</source>
+        <target state="needs-translation">Records</target>
+      </trans-unit>
+      <trans-unit id="shortcut_group_3" resname="shortcut_group_3">
+        <source>Files</source>
+        <target state="needs-translation">Files</target>
+      </trans-unit>
+      <trans-unit id="shortcut_group_4" resname="shortcut_group_4">
+        <source>Tools</source>
+        <target state="needs-translation">Tools</target>
+      </trans-unit>
+      <trans-unit id="shortcut_group_5" resname="shortcut_group_5">
+        <source>Miscellaneous</source>
+        <target state="needs-translation">Miscellaneous</target>
+      </trans-unit>
+      <trans-unit id="shortcut_global" resname="shortcut_global">
+        <source>Global</source>
+        <target state="needs-translation">Global</target>
+      </trans-unit>
+      <trans-unit id="shortcut_all" resname="shortcut_all">
+        <source>All</source>
+        <target state="needs-translation">All</target>
+      </trans-unit>
+      <trans-unit id="shortcut_onlyAdmin" resname="shortcut_onlyAdmin">
+        <source>You cannot edit a shared shortcut!</source>
+        <target state="needs-translation">You cannot edit a shared shortcut!</target>
+      </trans-unit>
+      <trans-unit id="shortcut_selSC" resname="shortcut_selSC">
+        <source>Select shortcut</source>
+        <target state="needs-translation">Select shortcut</target>
+      </trans-unit>
+      <trans-unit id="shortcut_delAllInCat" resname="shortcut_delAllInCat">
+        <source>Delete all shortcuts in this group?</source>
+        <target state="needs-translation">Delete all shortcuts in this group?</target>
+      </trans-unit>
+      <trans-unit id="shortcut_onlineWS" resname="shortcut_onlineWS">
+        <source>LIVE workspace</source>
+        <target state="needs-translation">LIVE workspace</target>
+      </trans-unit>
+      <trans-unit id="shortcut_active" resname="shortcut_active">
+        <source>active</source>
+        <target state="needs-translation">active</target>
+      </trans-unit>
+      <trans-unit id="shortcut_inactive" resname="shortcut_inactive">
+        <source>inactive</source>
+        <target state="needs-translation">inactive</target>
+      </trans-unit>
+      <trans-unit id="shortcut_noWSfound" resname="shortcut_noWSfound">
+        <source>ERROR: No workspaces found!</source>
+        <target state="needs-translation">ERROR: No workspaces found!</target>
+      </trans-unit>
+      <trans-unit id="shortcut_FEPreview" resname="shortcut_FEPreview">
+        <source>Enable Frontend Preview</source>
+        <target state="needs-translation">Enable Frontend Preview</target>
+      </trans-unit>
+      <trans-unit id="shortcut_workspace" resname="shortcut_workspace">
+        <source>Go to Workspace Module</source>
+        <target state="needs-translation">Go to Workspace Module</target>
+      </trans-unit>
+      <trans-unit id="bookmark_edit" resname="bookmark_edit">
+        <source>Edit</source>
+        <target state="needs-translation">Edit</target>
+      </trans-unit>
+      <trans-unit id="bookmark_create" resname="bookmark_create">
+        <source>Create</source>
+        <target state="needs-translation">Create</target>
+      </trans-unit>
+      <trans-unit id="bookmark_editID" resname="bookmark_editID">
+        <source>Edit/Search</source>
+        <target state="needs-translation">Edit/Search</target>
+      </trans-unit>
+      <trans-unit id="bookmark_save" resname="bookmark_save">
+        <source>Update bookmark title</source>
+        <target state="needs-translation">Update bookmark title</target>
+      </trans-unit>
+      <trans-unit id="bookmark_saveClose" resname="bookmark_saveClose">
+        <source>Update and close editor</source>
+        <target state="needs-translation">Update and close editor</target>
+      </trans-unit>
+      <trans-unit id="bookmark_close" resname="bookmark_close">
+        <source>Close bookmark editor</source>
+        <target state="needs-translation">Close bookmark editor</target>
+      </trans-unit>
+      <trans-unit id="bookmark_delete" resname="bookmark_delete">
+        <source>Remove bookmark</source>
+        <target state="needs-translation">Remove bookmark</target>
+      </trans-unit>
+      <trans-unit id="bookmark_loadEdit" resname="bookmark_loadEdit">
+        <source>Loading page</source>
+        <target state="needs-translation">Loading page</target>
+      </trans-unit>
+      <trans-unit id="bookmark_searchFor" resname="bookmark_searchFor">
+        <source>Search for</source>
+        <target state="needs-translation">Search for</target>
+      </trans-unit>
+      <trans-unit id="bookmark_notEditable" resname="bookmark_notEditable">
+        <source>No editable page found!</source>
+        <target state="needs-translation">No editable page found!</target>
+      </trans-unit>
+      <trans-unit id="bookmark_group" resname="bookmark_group">
+        <source>Group</source>
+        <target state="needs-translation">Group</target>
+      </trans-unit>
+      <trans-unit id="bookmark_group_1" resname="bookmark_group_1">
+        <source>Pages</source>
+        <target state="needs-translation">Pages</target>
+      </trans-unit>
+      <trans-unit id="bookmark_group_2" resname="bookmark_group_2">
+        <source>Records</source>
+        <target state="needs-translation">Records</target>
+      </trans-unit>
+      <trans-unit id="bookmark_group_3" resname="bookmark_group_3">
+        <source>Files</source>
+        <target state="needs-translation">Files</target>
+      </trans-unit>
+      <trans-unit id="bookmark_group_4" resname="bookmark_group_4">
+        <source>Tools</source>
+        <target state="needs-translation">Tools</target>
+      </trans-unit>
+      <trans-unit id="bookmark_group_5" resname="bookmark_group_5">
+        <source>Miscellaneous</source>
+        <target state="needs-translation">Miscellaneous</target>
+      </trans-unit>
+      <trans-unit id="bookmark_global" resname="bookmark_global">
+        <source>Global</source>
+        <target state="needs-translation">Global</target>
+      </trans-unit>
+      <trans-unit id="bookmark_all" resname="bookmark_all">
+        <source>All</source>
+        <target state="needs-translation">All</target>
+      </trans-unit>
+      <trans-unit id="bookmark_onlyAdmin" resname="bookmark_onlyAdmin">
+        <source>You cannot edit a shared bookmark!</source>
+        <target state="needs-translation">You cannot edit a shared bookmark!</target>
+      </trans-unit>
+      <trans-unit id="bookmark_selSC" resname="bookmark_selSC">
+        <source>Select bookmark</source>
+        <target state="needs-translation">Select bookmark</target>
+      </trans-unit>
+      <trans-unit id="bookmark_delAllInCat" resname="bookmark_delAllInCat">
+        <source>Delete all bookmarks in this group</source>
+        <target state="needs-translation">Delete all bookmarks in this group</target>
+      </trans-unit>
+      <trans-unit id="bookmark_onlineWS" resname="bookmark_onlineWS">
+        <source>LIVE workspace</source>
+        <target state="needs-translation">LIVE workspace</target>
+      </trans-unit>
+      <trans-unit id="bookmark_active" resname="bookmark_active">
+        <source>active</source>
+        <target state="needs-translation">active</target>
+      </trans-unit>
+      <trans-unit id="bookmark_inactive" resname="bookmark_inactive">
+        <source>inactive</source>
+        <target state="needs-translation">inactive</target>
+      </trans-unit>
+      <trans-unit id="bookmark_FEPreview" resname="bookmark_FEPreview">
+        <source>Enable Frontend Preview</source>
+        <target state="needs-translation">Enable Frontend Preview</target>
+      </trans-unit>
+      <trans-unit id="bookmark_workspaceComparisonView" resname="bookmark_workspaceComparisonView">
+        <source>Enable comparison view</source>
+        <target state="needs-translation">Enable comparison view</target>
+      </trans-unit>
+      <trans-unit id="overwriteExistingFiles" resname="overwriteExistingFiles">
+        <source>Overwrite existing files</source>
+        <target state="needs-translation">Overwrite existing files</target>
+      </trans-unit>
+      <trans-unit id="uploadMultipleFilesInfo" resname="uploadMultipleFilesInfo">
+        <source>Upload multiple files by holding the Shift or CTRL-file pressed while selecting your files (works on modern browsers only).</source>
+        <target state="needs-translation">Upload multiple files by holding the Shift or CTRL-file pressed while selecting your files (works on modern browsers only).</target>
+      </trans-unit>
+      <trans-unit id="fileMetaDataLocation" resname="fileMetaDataLocation">
+        <source>Location</source>
+        <target state="needs-translation">Location</target>
+      </trans-unit>
+      <trans-unit id="fileMetaErrorInvalidRecord" resname="fileMetaErrorInvalidRecord">
+        <source>File meta data not found</source>
+        <target state="needs-translation">File meta data not found</target>
+      </trans-unit>
+      <trans-unit id="selectPosition" resname="selectPosition">
+        <source>Select a position for the new page</source>
+        <target state="needs-translation">Select a position for the new page</target>
+      </trans-unit>
+      <trans-unit id="pageSelectPosition" resname="pageSelectPosition">
+        <source>Page (select position)</source>
+        <target state="needs-translation">Page (select position)</target>
+      </trans-unit>
+      <trans-unit id="goBack" resname="goBack">
+        <source>Go back</source>
+        <target state="needs-translation">Go back</target>
+      </trans-unit>
+      <trans-unit id="createNewPage" resname="createNewPage">
+        <source>Create a new page</source>
+        <target state="needs-translation">Create a new page</target>
+      </trans-unit>
+      <trans-unit id="insertNewPageHere" resname="insertNewPageHere">
+        <source>Insert the new page here</source>
+        <target state="needs-translation">Insert the new page here</target>
+      </trans-unit>
+      <trans-unit id="insertNewRecordHere" resname="insertNewRecordHere">
+        <source>Insert new record here</source>
+        <target state="needs-translation">Insert new record here</target>
+      </trans-unit>
+      <trans-unit id="movePageToHere" resname="movePageToHere">
+        <source>Move page to this position</source>
+        <target state="needs-translation">Move page to this position</target>
+      </trans-unit>
+      <trans-unit id="moveElementToHere" resname="moveElementToHere">
+        <source>Move element to this position</source>
+        <target state="needs-translation">Move element to this position</target>
+      </trans-unit>
+      <trans-unit id="moveElement" resname="moveElement">
+        <source>Move element</source>
+        <target state="needs-translation">Move element</target>
+      </trans-unit>
+      <trans-unit id="moveElements" resname="moveElements">
+        <source>Move elements</source>
+        <target state="needs-translation">Move elements</target>
+      </trans-unit>
+      <trans-unit id="copyElements" resname="copyElements">
+        <source>Copy elements</source>
+        <target state="needs-translation">Copy elements</target>
+      </trans-unit>
+      <trans-unit id="selectPositionOfElement" resname="selectPositionOfElement">
+        <source>Select position of the element</source>
+        <target state="needs-translation">Select position of the element</target>
+      </trans-unit>
+      <trans-unit id="movingElement" resname="movingElement">
+        <source>Move element</source>
+        <target state="needs-translation">Move element</target>
+      </trans-unit>
+      <trans-unit id="makeCopy" resname="makeCopy">
+        <source>Make copy instead of moving element</source>
+        <target state="needs-translation">Make copy instead of moving element</target>
+      </trans-unit>
+      <trans-unit id="newRecordWizard.filter.placeholder" resname="newRecordWizard.filter.placeholder">
+        <source>Search for any record type</source>
+        <target state="needs-translation">Search for any record type</target>
+      </trans-unit>
+      <trans-unit id="newRecordWizard.filter.noResults" resname="newRecordWizard.filter.noResults">
+        <source>Unfortunately no record type matches your query, please try a different one.</source>
+        <target state="needs-translation">Unfortunately no record type matches your query, please try a different one.</target>
+      </trans-unit>
+      <trans-unit id="newContentElement" resname="newContentElement">
+        <source>New content element</source>
+        <target state="needs-translation">New content element</target>
+      </trans-unit>
+      <trans-unit id="newContentElement.filter.label" resname="newContentElement.filter.label">
+        <source>Filter by:</source>
+        <target state="needs-translation">Filter by:</target>
+      </trans-unit>
+      <trans-unit id="newContentElement.filter.placeholder" resname="newContentElement.filter.placeholder">
+        <source>Search for any content type</source>
+        <target state="needs-translation">Search for any content type</target>
+      </trans-unit>
+      <trans-unit id="newContentElement.filter.noResults" resname="newContentElement.filter.noResults">
+        <source>Unfortunately no content type matches your query, please try a different one.</source>
+        <target state="needs-translation">Unfortunately no content type matches your query, please try a different one.</target>
+      </trans-unit>
+      <trans-unit id="system_records" resname="system_records">
+        <source>System Records</source>
+        <target state="needs-translation">System Records</target>
+      </trans-unit>
+      <trans-unit id="recordgroup.content" resname="recordgroup.content">
+        <source>Content</source>
+        <target state="needs-translation">Content</target>
+      </trans-unit>
+      <trans-unit id="recordgroup.backendaccess" resname="recordgroup.backendaccess">
+        <source>Backend Access</source>
+        <target state="needs-translation">Backend Access</target>
+      </trans-unit>
+      <trans-unit id="recordgroup.frontendaccess" resname="recordgroup.frontendaccess">
+        <source>Frontend Access</source>
+        <target state="needs-translation">Frontend Access</target>
+      </trans-unit>
+      <trans-unit id="1_selectType" resname="1_selectType">
+        <source>First select the type of the new content element</source>
+        <target state="needs-translation">First select the type of the new content element</target>
+      </trans-unit>
+      <trans-unit id="2_selectPosition" resname="2_selectPosition">
+        <source>Now click on the position of the new content element</source>
+        <target state="needs-translation">Now click on the position of the new content element</target>
+      </trans-unit>
+      <trans-unit id="CM_history" resname="CM_history">
+        <source>History/Undo</source>
+        <target state="needs-translation">History/Undo</target>
+      </trans-unit>
+      <trans-unit id="CM_hideInMenus" resname="CM_hideInMenus">
+        <source>Hide in menu</source>
+        <target state="needs-translation">Hide in menu</target>
+      </trans-unit>
+      <trans-unit id="CM_showInMenus" resname="CM_showInMenus">
+        <source>Show in menu</source>
+        <target state="needs-translation">Show in menu</target>
+      </trans-unit>
+      <trans-unit id="CM_perms" resname="CM_perms">
+        <source>Access</source>
+        <target state="needs-translation">Access</target>
+      </trans-unit>
+      <trans-unit id="CM_moveWizard" resname="CM_moveWizard">
+        <source>Move element</source>
+        <target state="needs-translation">Move element</target>
+      </trans-unit>
+      <trans-unit id="CM_moveWizard_page" resname="CM_moveWizard_page">
+        <source>Move page</source>
+        <target state="needs-translation">Move page</target>
+      </trans-unit>
+      <trans-unit id="CM_newWizard" resname="CM_newWizard">
+        <source>'Create New' wizard</source>
+        <target state="needs-translation">'Create New' wizard</target>
+      </trans-unit>
+      <trans-unit id="CM_editPageProperties" resname="CM_editPageProperties">
+        <source>Edit page properties</source>
+        <target state="needs-translation">Edit page properties</target>
+      </trans-unit>
+      <trans-unit id="noEditPage" resname="noEditPage">
+        <source>You asked to edit page "%s" but you cannot edit this page. Now loading backend as usual.</source>
+        <target state="needs-translation">You asked to edit page "%s" but you cannot edit this page. Now loading backend as usual.</target>
+      </trans-unit>
+      <trans-unit id="localize" resname="localize">
+        <source>Localize</source>
+        <target state="needs-translation">Localize</target>
+      </trans-unit>
+      <trans-unit id="localize.isLocalizable" resname="localize.isLocalizable">
+        <source>Record can be localized</source>
+        <target state="needs-translation">Record can be localized</target>
+      </trans-unit>
+      <trans-unit id="localize.wasRemovedInOriginal" resname="localize.wasRemovedInOriginal">
+        <source>Record was removed in original language</source>
+        <target state="needs-translation">Record was removed in original language</target>
+      </trans-unit>
+      <trans-unit id="localizeAllRecords" resname="localizeAllRecords">
+        <source>Localize all records</source>
+        <target state="needs-translation">Localize all records</target>
+      </trans-unit>
+      <trans-unit id="synchronizeWithOriginalLanguage" resname="synchronizeWithOriginalLanguage">
+        <source>Synchronize with original language</source>
+        <target state="needs-translation">Synchronize with original language</target>
+      </trans-unit>
+      <trans-unit id="pageTree_filter" resname="pageTree_filter">
+        <source>Filter</source>
+        <target state="needs-translation">Filter</target>
+      </trans-unit>
+      <trans-unit id="fileUpload_windowTitle" resname="fileUpload_windowTitle">
+        <source>File Upload Progress</source>
+        <target state="needs-translation">File Upload Progress</target>
+      </trans-unit>
+      <trans-unit id="fileUpload_buttonSelectFiles" resname="fileUpload_buttonSelectFiles">
+        <source>Select Files</source>
+        <target state="needs-translation">Select Files</target>
+      </trans-unit>
+      <trans-unit id="fileUpload_buttonCancelAll" resname="fileUpload_buttonCancelAll">
+        <source>Cancel All Uploads</source>
+        <target state="needs-translation">Cancel All Uploads</target>
+      </trans-unit>
+      <trans-unit id="fileUpload_infoComponentMaxFileSize" resname="fileUpload_infoComponentMaxFileSize">
+        <source>You can upload files with a maximum size of {0}.</source>
+        <target state="needs-translation">You can upload files with a maximum size of {0}.</target>
+      </trans-unit>
+      <trans-unit id="fileUpload_infoComponentFileUploadLimit" resname="fileUpload_infoComponentFileUploadLimit">
+        <source>You can upload a total of {0}.</source>
+        <target state="needs-translation">You can upload a total of {0}.</target>
+      </trans-unit>
+      <trans-unit id="fileUpload_infoComponentFileTypeLimit" resname="fileUpload_infoComponentFileTypeLimit">
+        <source>You can upload the following file types {0}.</source>
+        <target state="needs-translation">You can upload the following file types {0}.</target>
+      </trans-unit>
+      <trans-unit id="fileUpload_infoComponentOverrideFiles" resname="fileUpload_infoComponentOverrideFiles">
+        <source>Overwrite existing files</source>
+        <target state="needs-translation">Overwrite existing files</target>
+      </trans-unit>
+      <trans-unit id="fileUpload_processRunning" resname="fileUpload_processRunning">
+        <source>Another process is already uploading</source>
+        <target state="needs-translation">Another process is already uploading</target>
+      </trans-unit>
+      <trans-unit id="fileUpload_uploadWait" resname="fileUpload_uploadWait">
+        <source>Waiting to start upload of {0}</source>
+        <target state="needs-translation">Waiting to start upload of {0}</target>
+      </trans-unit>
+      <trans-unit id="fileUpload_uploadStarting" resname="fileUpload_uploadStarting">
+        <source>Starting upload of {0}</source>
+        <target state="needs-translation">Starting upload of {0}</target>
+      </trans-unit>
+      <trans-unit id="fileUpload_uploadProgress" resname="fileUpload_uploadProgress">
+        <source>{0}% of {1} uploaded</source>
+        <target state="needs-translation">{0}% of {1} uploaded</target>
+      </trans-unit>
+      <trans-unit id="fileUpload_uploadSuccess" resname="fileUpload_uploadSuccess">
+        <source>{0} was successfully uploaded!</source>
+        <target state="needs-translation">{0} was successfully uploaded!</target>
+      </trans-unit>
+      <trans-unit id="pagetree_networkErrorTitle" resname="pagetree_networkErrorTitle">
+        <source>Page tree error</source>
+        <target state="needs-translation">Page tree error</target>
+      </trans-unit>
+      <trans-unit id="pagetree_networkErrorDesc" resname="pagetree_networkErrorDesc">
+        <source>Got unexpected response from the server. Please check logs for details.</source>
+        <target state="needs-translation">Got unexpected response from the server. Please check logs for details.</target>
+      </trans-unit>
+      <trans-unit id="tree_networkError" resname="tree_networkError">
+        <source>Navigation loading error</source>
+        <target state="needs-translation">Navigation loading error</target>
+      </trans-unit>
+      <trans-unit id="tree_networkErrorDescription" resname="tree_networkErrorDescription">
+        <source>Got unexpected response from the server. Please check logs for details.</source>
+        <target state="needs-translation">Got unexpected response from the server. Please check logs for details.</target>
+      </trans-unit>
+      <trans-unit id="fileUpload_errorQueueLimitExceeded" resname="fileUpload_errorQueueLimitExceeded">
+        <source>Too many files selected</source>
+        <target state="needs-translation">Too many files selected</target>
+      </trans-unit>
+      <trans-unit id="fileUpload_errorQueueFileSizeLimit" resname="fileUpload_errorQueueFileSizeLimit">
+        <source>{0} is too big</source>
+        <target state="needs-translation">{0} is too big</target>
+      </trans-unit>
+      <trans-unit id="fileUpload_errorQueueZeroByteFile" resname="fileUpload_errorQueueZeroByteFile">
+        <source>{0} is empty</source>
+        <target state="needs-translation">{0} is empty</target>
+      </trans-unit>
+      <trans-unit id="fileUpload_errorQueueInvalidFiletype" resname="fileUpload_errorQueueInvalidFiletype">
+        <source>Filetype not allowed for {0}</source>
+        <target state="needs-translation">Filetype not allowed for {0}</target>
+      </trans-unit>
+      <trans-unit id="fileUpload_errorUploadHttp" resname="fileUpload_errorUploadHttp">
+        <source>Too many files selected</source>
+        <target state="needs-translation">Too many files selected</target>
+      </trans-unit>
+      <trans-unit id="fileUpload_errorUploadHttpError" resname="fileUpload_errorUploadHttpError">
+        <source>A HTTP error occurred: {0}</source>
+        <target state="needs-translation">A HTTP error occurred: {0}</target>
+      </trans-unit>
+      <trans-unit id="fileUpload_errorUploadMissingUrl" resname="fileUpload_errorUploadMissingUrl">
+        <source>Internal error: No Upload URL set</source>
+        <target state="needs-translation">Internal error: No Upload URL set</target>
+      </trans-unit>
+      <trans-unit id="fileUpload_errorUploadIO" resname="fileUpload_errorUploadIO">
+        <source>Internal error: Problems while reading/writing the file</source>
+        <target state="needs-translation">Internal error: Problems while reading/writing the file</target>
+      </trans-unit>
+      <trans-unit id="fileUpload_errorUploadSecurityError" resname="fileUpload_errorUploadSecurityError">
+        <source>Internal error: {0}</source>
+        <target state="needs-translation">Internal error: {0}</target>
+      </trans-unit>
+      <trans-unit id="fileUpload_errorUploadLimit" resname="fileUpload_errorUploadLimit">
+        <source>Upload limit exceeded</source>
+        <target state="needs-translation">Upload limit exceeded</target>
+      </trans-unit>
+      <trans-unit id="fileUpload_errorUploadFailed" resname="fileUpload_errorUploadFailed">
+        <source>Upload failed</source>
+        <target state="needs-translation">Upload failed</target>
+      </trans-unit>
+      <trans-unit id="fileUpload_errorUploadFileIDNotFound" resname="fileUpload_errorUploadFileIDNotFound">
+        <source>Internal error: File ID not found</source>
+        <target state="needs-translation">Internal error: File ID not found</target>
+      </trans-unit>
+      <trans-unit id="fileUpload_errorUploadFileValidation" resname="fileUpload_errorUploadFileValidation">
+        <source>Internal error while validating the file</source>
+        <target state="needs-translation">Internal error while validating the file</target>
+      </trans-unit>
+      <trans-unit id="fileUpload_errorUploadFileCancelled" resname="fileUpload_errorUploadFileCancelled">
+        <source>Upload of {0} canceled</source>
+        <target state="needs-translation">Upload of {0} canceled</target>
+      </trans-unit>
+      <trans-unit id="fileUpload_errorUploadStopped" resname="fileUpload_errorUploadStopped">
+        <source>Upload of {0} stopped</source>
+        <target state="needs-translation">Upload of {0} stopped</target>
+      </trans-unit>
+      <trans-unit id="fileUpload_allErrorMessageTitle" resname="fileUpload_allErrorMessageTitle">
+        <source>All uploads failed</source>
+        <target state="needs-translation">All uploads failed</target>
+      </trans-unit>
+      <trans-unit id="fileUpload_allErrorMessageText" resname="fileUpload_allErrorMessageText">
+        <source>All of your uploads failed.&lt;br /&gt;&lt;br /&gt;If this problem persists, please try another browser, contact your administrator or disable this "Flash Uploader" in your User Settings.&lt;br /&gt;&lt;br /&gt;Detailed problem description:&lt;br /&gt;</source>
+        <target state="needs-translation">All of your uploads failed.&lt;br /&gt;&lt;br /&gt;If this problem persists, please try another browser, contact your administrator or disable this "Flash Uploader" in your User Settings.&lt;br /&gt;&lt;br /&gt;Detailed problem description:&lt;br /&gt;</target>
+      </trans-unit>
+      <trans-unit id="fileUpload_allError401" resname="fileUpload_allError401">
+        <source>The server returned the status code 401, which is related to a .htaccess file used for password protection on your server. Unfortunately this can not be handled by your browser's Flash plugin.</source>
+        <target state="needs-translation">The server returned the status code 401, which is related to a .htaccess file used for password protection on your server. Unfortunately this can not be handled by your browser's Flash plugin.</target>
+      </trans-unit>
+      <trans-unit id="fileUpload_allError2038" resname="fileUpload_allError2038">
+        <source>An input/output error occurred (Error #2038). This i.e. happens with servers using a self-signed SSL certificate, which is a limitation of your browser's Flash plugin.</source>
+        <target state="needs-translation">An input/output error occurred (Error #2038). This i.e. happens with servers using a self-signed SSL certificate, which is a limitation of your browser's Flash plugin.</target>
+      </trans-unit>
+      <trans-unit id="synchronizeFolderRelations.afterFolderRenamed" resname="synchronizeRelations.afterFolderRenamed">
+        <source>%d %s records referencing the renamed directory were updated.</source>
+        <target state="needs-translation">%d %s records referencing the renamed directory were updated.</target>
+      </trans-unit>
+      <trans-unit id="liveSearch_title" resname="liveSearch_title">
+        <source>Short result list</source>
+        <target state="needs-translation">Short result list</target>
+      </trans-unit>
+      <trans-unit id="liveSearch_emptyText" resname="liveSearch_emptyText">
+        <source>Enter search term</source>
+        <target state="needs-translation">Enter search term</target>
+      </trans-unit>
+      <trans-unit id="liveSearch_loadingText" resname="liveSearch_loadingText">
+        <source>Searching...</source>
+        <target state="needs-translation">Searching...</target>
+      </trans-unit>
+      <trans-unit id="liveSearch_listEmptyText" resname="liveSearch_listEmptyText">
+        <source>No results found.</source>
+        <target state="needs-translation">No results found.</target>
+      </trans-unit>
+      <trans-unit id="liveSearch_helpTitle" resname="liveSearch_helpTitle">
+        <source>How to use advanced search tags</source>
+        <target state="needs-translation">How to use advanced search tags</target>
+      </trans-unit>
+      <trans-unit id="liveSearch_helpDescription" resname="liveSearch_helpDescription">
+        <source>Search in certain tables</source>
+        <target state="needs-translation">Search in certain tables</target>
+      </trans-unit>
+      <trans-unit id="liveSearch_helpDescriptionPages" resname="liveSearch_helpDescriptionPages">
+        <source>#page:Home will search for all pages with the title "Home"</source>
+        <target state="needs-translation">#page:Home will search for all pages with the title "Home"</target>
+      </trans-unit>
+      <trans-unit id="liveSearch_helpDescriptionContent" resname="liveSearch_helpDescriptionContent">
+        <source>#content:Professional will search for all content elements containing the term "Professional"</source>
+        <target state="needs-translation">#content:Professional will search for all content elements containing the term "Professional"</target>
+      </trans-unit>
+      <trans-unit id="liveSearch_help.shortcutOpen" resname="liveSearch_help.shortcutOpen">
+        <source>You can open the live search by pressing the Ctrl+K or Cmd+K keystroke</source>
+        <target state="needs-translation">You can open the live search by pressing the Ctrl+K or Cmd+K keystroke</target>
+      </trans-unit>
+      <trans-unit id="viewport_navigation_show" resname="viewport_navigation_show">
+        <source>Show Navigation</source>
+        <target state="needs-translation">Show Navigation</target>
+      </trans-unit>
+      <trans-unit id="viewport_navigation_hide" resname="viewport_navigation_hide">
+        <source>Hide Navigation</source>
+        <target state="needs-translation">Hide Navigation</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
