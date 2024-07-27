@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file source-language="en" datatype="plaintext" original="EXT:backend/Resources/Private/Language/SudoMode.xlf" date="2023-04-08T00:00:00Z" product-name="backend" target-language="fr">
+    <header/>
+    <body>
+      <trans-unit id="cancel" resname="cancel">
+        <source>Cancel</source>
+        <target state="needs-translation">Cancel</target>
+      </trans-unit>
+      <trans-unit id="verify" resname="verify">
+        <source>Verify</source>
+        <target state="needs-translation">Verify</target>
+      </trans-unit>
+      <trans-unit id="password" resname="password">
+        <source>Password</source>
+        <target state="needs-translation">Password</target>
+      </trans-unit>
+      <trans-unit id="verifyWithUserPassword" resname="verifyWithUserPassword">
+        <source>Verify with user password</source>
+        <target state="needs-translation">Verify with user password</target>
+      </trans-unit>
+      <trans-unit id="verifyWithInstallToolPassword" resname="verifyWithInstallToolPassword">
+        <source>Verify with Install Tool password</source>
+        <target state="needs-translation">Verify with Install Tool password</target>
+      </trans-unit>
+      <trans-unit id="accessGranted" resname="accessGranted">
+        <source>Access granted</source>
+        <target state="needs-translation">Access granted</target>
+      </trans-unit>
+      <trans-unit id="invalidPassword" resname="invalidPassword">
+        <source>Invalid password</source>
+        <target state="needs-translation">Invalid password</target>
+      </trans-unit>
+      <trans-unit id="userPasswordMode" resname="userPasswordMode">
+        <source>Use user password instead</source>
+        <target state="needs-translation">Use user password instead</target>
+      </trans-unit>
+      <trans-unit id="installToolPasswordMode" resname="installToolPasswordMode">
+        <source>Use Install Tool password instead</source>
+        <target state="needs-translation">Use Install Tool password instead</target>
+      </trans-unit>
+      <trans-unit id="verificationFailed" resname="verificationFailed">
+        <source>Verification failed</source>
+        <target state="needs-translation">Verification failed</target>
+      </trans-unit>
+      <trans-unit id="verificationExpired" resname="verificationExpired">
+        <source>Confirmation has expired. Please try again.</source>
+        <target state="needs-translation">Confirmation has expired. Please try again.</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
