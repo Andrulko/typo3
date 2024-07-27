@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file source-language="en" datatype="plaintext" original="EXT:core/Resources/Private/Language/Wizards/move_page.xlf" date="2024-03-08T20:22:34Z" product-name="backend" target-language="fr">
+    <header/>
+    <body>
+      <trans-unit id="headline" resname="headline">
+        <source>Move page "%1$s" [%2$d]</source>
+        <target state="needs-translation">Move page "%1$s" [%2$d]</target>
+      </trans-unit>
+      <trans-unit id="currentPath" resname="currentPath">
+        <source>Current path</source>
+        <target state="needs-translation">Current path</target>
+      </trans-unit>
+      <trans-unit id="makeCopy" resname="makeCopy">
+        <source>Copy page instead of moving page</source>
+        <target state="needs-translation">Copy page instead of moving page</target>
+      </trans-unit>
+      <trans-unit id="samePageConflict" resname="samePageConflict">
+        <source>The page "%1$s" [%2$d] cannot get moved into itself.</source>
+        <target state="needs-translation">The page "%1$s" [%2$d] cannot get moved into itself.</target>
+      </trans-unit>
+      <trans-unit id="action.pasteAbove" resname="action.pasteAbove">
+        <source>Paste above</source>
+        <target state="needs-translation">Paste above</target>
+      </trans-unit>
+      <trans-unit id="action.pasteBelow" resname="action.pasteBelow">
+        <source>Paste below</source>
+        <target state="needs-translation">Paste below</target>
+      </trans-unit>
+      <trans-unit id="action.pasteInto" resname="action.pasteInto">
+        <source>Paste into</source>
+        <target state="needs-translation">Paste into</target>
+      </trans-unit>
+      <trans-unit id="movePage.notification.pageMoved.title" resname="movePage.notification.pageMoved.title">
+        <source>Page successfully moved</source>
+        <target state="needs-translation">Page successfully moved</target>
+      </trans-unit>
+      <trans-unit id="movePage.notification.pageMoved.message" resname="movePage.notification.pageMoved.message">
+        <source>The page "%s" has been successfully moved.</source>
+        <target state="needs-translation">The page "%s" has been successfully moved.</target>
+      </trans-unit>
+      <trans-unit id="movePage.notification.pageCopied.title" resname="movePage.notification.pageCopied.title">
+        <source>Page successfully copied</source>
+        <target state="needs-translation">Page successfully copied</target>
+      </trans-unit>
+      <trans-unit id="movePage.notification.pageCopied.message" resname="movePage.notification.pageCopied.message">
+        <source>The page "%s" has been successfully copied.</source>
+        <target state="needs-translation">The page "%s" has been successfully copied.</target>
+      </trans-unit>
+      <trans-unit id="movePage.notification.pagePasted.action.dismiss" resname="movePage.notification.pagePasted.action.dismiss">
+        <source>Dismiss</source>
+        <target state="needs-translation">Dismiss</target>
+      </trans-unit>
+      <trans-unit id="movePage.notification.pagePasted.action.open" resname="movePage.notification.pagePasted.action.open">
+        <source>Open "%s"</source>
+        <target state="needs-translation">Open "%s"</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
