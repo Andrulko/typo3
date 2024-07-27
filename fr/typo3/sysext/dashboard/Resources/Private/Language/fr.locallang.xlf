@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file source-language="en" datatype="plaintext" original="messages" date="2018-11-27T22:26:21Z" product-name="dashboard" target-language="fr">
+    <header/>
+    <body>
+      <trans-unit id="close" resname="close" xml:space="preserve">
+				<source>Close</source>
+			<target state="needs-translation">Close</target></trans-unit>
+      <trans-unit id="title" resname="title" xml:space="preserve">
+				<source>Dashboard</source>
+			<target state="needs-translation">Dashboard</target></trans-unit>
+      <trans-unit id="widget.add" resname="widget.add" xml:space="preserve">
+				<source>Add widget</source>
+			<target state="needs-translation">Add widget</target></trans-unit>
+      <trans-unit id="widget.addToDashboard" resname="widget.addToDashboard" xml:space="preserve">
+				<source>Add widget to "%s"</source>
+			<target state="needs-translation">Add widget to "%s"</target></trans-unit>
+      <trans-unit id="widget.addToDashboard.searchLabel" resname="widget.addToDashboard.searchLabel" xml:space="preserve">
+				<source>Search for dashboard widgets</source>
+			<target state="needs-translation">Search for dashboard widgets</target></trans-unit>
+      <trans-unit id="widget.addToDashboard.searchNotFound" resname="widget.addToDashboard.searchNotFound" xml:space="preserve">
+				<source>Unfortunately no dashboard widget matches your query, please try a different one.</source>
+			<target state="needs-translation">Unfortunately no dashboard widget matches your query, please try a different one.</target></trans-unit>
+      <trans-unit id="widget.add.button.close" resname="widget.add.button.close" xml:space="preserve">
+				<source>Close</source>
+			<target state="needs-translation">Close</target></trans-unit>
+      <trans-unit id="widget.add.button.ok" resname="widget.add.button.ok" xml:space="preserve">
+				<source>Add widget</source>
+			<target state="needs-translation">Add widget</target></trans-unit>
+      <trans-unit id="widget.remove.button.close" resname="widget.remove.button.close" xml:space="preserve">
+				<source>Close</source>
+			<target state="needs-translation">Close</target></trans-unit>
+      <trans-unit id="widget.remove.button.ok" resname="widget.remove.button.ok" xml:space="preserve">
+				<source>Remove</source>
+			<target state="needs-translation">Remove</target></trans-unit>
+      <trans-unit id="widget.remove.confirm.title" resname="widget.remove.confirm.title" xml:space="preserve">
+				<source>Remove widget</source>
+			<target state="needs-translation">Remove widget</target></trans-unit>
+      <trans-unit id="widget.remove.confirm.message" resname="widget.remove.confirm.message" xml:space="preserve">
+				<source>Are you sure you want to remove this widget?</source>
+			<target state="needs-translation">Are you sure you want to remove this widget?</target></trans-unit>
+      <trans-unit id="widget.error" resname="widget.error" xml:space="preserve">
+				<source>An error occurred while retrieving information for this widget. Please try again, and if the problem persists, contact your administrator.</source>
+			<target state="needs-translation">An error occurred while retrieving information for this widget. Please try again, and if the problem persists, contact your administrator.</target></trans-unit>
+      <trans-unit id="dashboard.default" resname="dashboard.default" xml:space="preserve">
+				<source>My dashboard</source>
+			<target state="needs-translation">My dashboard</target></trans-unit>
+      <trans-unit id="dashboard.default.description" resname="dashboard.default.description" xml:space="preserve">
+				<source>Create a new dashboard with some general TYPO3 widgets on it</source>
+			<target state="needs-translation">Create a new dashboard with some general TYPO3 widgets on it</target></trans-unit>
+      <trans-unit id="dashboard.empty" resname="dashboard.empty" xml:space="preserve">
+				<source>Empty dashboard</source>
+			<target state="needs-translation">Empty dashboard</target></trans-unit>
+      <trans-unit id="dashboard.empty.description" resname="dashboard.empty.description" xml:space="preserve">
+				<source>Your dashboard will be created without any widget on it.</source>
+			<target state="needs-translation">Your dashboard will be created without any widget on it.</target></trans-unit>
+      <trans-unit id="dashboard.add" resname="dashboard.add" xml:space="preserve">
+				<source>Add dashboard</source>
+			<target state="needs-translation">Add dashboard</target></trans-unit>
+      <trans-unit id="dashboard.add.button.close" resname="dashboard.add.button.close" xml:space="preserve">
+				<source>Close</source>
+			<target state="needs-translation">Close</target></trans-unit>
+      <trans-unit id="dashboard.add.button.ok" resname="dashboard.add.button.ok" xml:space="preserve">
+				<source>Add Dashboard</source>
+			<target state="needs-translation">Add Dashboard</target></trans-unit>
+      <trans-unit id="dashboard.configure" resname="dashboard.configure" xml:space="preserve">
+				<source>Configure dashboard</source>
+			<target state="needs-translation">Configure dashboard</target></trans-unit>
+      <trans-unit id="dashboard.configure.button.close" resname="dashboard.configure.button.close" xml:space="preserve">
+				<source>Close</source>
+			<target state="needs-translation">Close</target></trans-unit>
+      <trans-unit id="dashboard.configure.button.ok" resname="dashboard.configure.button.ok" xml:space="preserve">
+				<source>Save Dashboard</source>
+			<target state="needs-translation">Save Dashboard</target></trans-unit>
+      <trans-unit id="dashboard.delete" resname="dashboard.delete" xml:space="preserve">
+				<source>Delete dashboard</source>
+			<target state="needs-translation">Delete dashboard</target></trans-unit>
+      <trans-unit id="dashboard.delete.sure" resname="dashboard.delete.sure" xml:space="preserve">
+				<source>Are you sure you want to delete this dashboard?</source>
+			<target state="needs-translation">Are you sure you want to delete this dashboard?</target></trans-unit>
+      <trans-unit id="dashboard.delete.ok" resname="dashboard.delete.ok" xml:space="preserve">
+				<source>Yes, delete it</source>
+			<target state="needs-translation">Yes, delete it</target></trans-unit>
+      <trans-unit id="dashboard.delete.cancel" resname="dashboard.delete.cancel" xml:space="preserve">
+				<source>Cancel</source>
+			<target state="needs-translation">Cancel</target></trans-unit>
+      <trans-unit id="dashboard.title" resname="dashboard.title" xml:space="preserve">
+				<source>Title of dashboard</source>
+			<target state="needs-translation">Title of dashboard</target></trans-unit>
+      <trans-unit id="widgets.documentation.gettingStarted.title" resname="widgets.documentation.gettingStarted.title" xml:space="preserve">
+				<source>Getting Started with TYPO3</source>
+ 			<target state="needs-translation">Getting Started with TYPO3</target></trans-unit>
+      <trans-unit id="widgets.documentation.gettingStarted.description" resname="widgets.documentation.gettingStarted.description" xml:space="preserve">
+				<source>Add a shortcut to the TYPO3 Getting Started Tutorial.</source>
+ 			<target state="needs-translation">Add a shortcut to the TYPO3 Getting Started Tutorial.</target></trans-unit>
+      <trans-unit id="widgets.documentation.gettingStarted.text" resname="widgets.documentation.gettingStarted.text" xml:space="preserve">
+				<source>New to TYPO3? In our Getting Started Tutorial you will learn the basics how to use TYPO3.</source>
+ 			<target state="needs-translation">New to TYPO3? In our Getting Started Tutorial you will learn the basics how to use TYPO3.</target></trans-unit>
+      <trans-unit id="widgets.documentation.gettingStarted.content.label" resname="widgets.documentation.gettingStarted.content.label" xml:space="preserve">
+				<source>Getting Started Tutorial</source>
+ 			<target state="needs-translation">Getting Started Tutorial</target></trans-unit>
+      <trans-unit id="widgets.documentation.typoscriptReference.title" resname="widgets.documentation.typoscriptReference.title" xml:space="preserve">
+				<source>TypoScript Template Reference</source>
+ 			<target state="needs-translation">TypoScript Template Reference</target></trans-unit>
+      <trans-unit id="widgets.documentation.typoscriptReference.description" resname="widgets.documentation.typoscriptReference.description" xml:space="preserve">
+				<source>Add a shortcut to the TYPO3 TypoScript Template Reference.</source>
+ 			<target state="needs-translation">Add a shortcut to the TYPO3 TypoScript Template Reference.</target></trans-unit>
+      <trans-unit id="widgets.documentation.typoscriptReference.text" resname="widgets.documentation.typoscriptReference.text" xml:space="preserve">
+				<source>This document is a reference, used to lookup TypoScript templating.</source>
+ 			<target state="needs-translation">This document is a reference, used to lookup TypoScript templating.</target></trans-unit>
+      <trans-unit id="widgets.documentation.typoscriptReference.content.label" resname="widgets.documentation.typoscriptReference.content.label" xml:space="preserve">
+				<source>TypoScript Template Reference</source>
+ 			<target state="needs-translation">TypoScript Template Reference</target></trans-unit>
+      <trans-unit id="widgets.documentation.TSconfigReference.title" resname="widgets.documentation.TSconfigReference.title" xml:space="preserve">
+				<source>TSconfig Reference</source>
+ 			<target state="needs-translation">TSconfig Reference</target></trans-unit>
+      <trans-unit id="widgets.documentation.TSconfigReference.description" resname="widgets.documentation.TSconfigReference.description" xml:space="preserve">
+				<source>Add a shortcut to the TYPO3 TSconfig Reference.</source>
+ 			<target state="needs-translation">Add a shortcut to the TYPO3 TSconfig Reference.</target></trans-unit>
+      <trans-unit id="widgets.documentation.TSconfigReference.text" resname="widgets.documentation.TSconfigReference.text" xml:space="preserve">
+				<source>This document describes TSconfig and its options.</source>
+ 			<target state="needs-translation">This document describes TSconfig and its options.</target></trans-unit>
+      <trans-unit id="widgets.documentation.TSconfigReference.content.label" resname="widgets.documentation.TSconfigReference.content.label" xml:space="preserve">
+				<source>TSconfig Reference</source>
+ 			<target state="needs-translation">TSconfig Reference</target></trans-unit>
+      <trans-unit id="widgets.t3news.title" resname="widgets.t3news.title" xml:space="preserve">
+				<source>TYPO3 news</source>
+			<target state="needs-translation">TYPO3 news</target></trans-unit>
+      <trans-unit id="widgets.t3news.description" resname="widgets.t3news.description" xml:space="preserve">
+				<source>Add a list of news items from the TYPO3 project</source>
+			<target state="needs-translation">Add a list of news items from the TYPO3 project</target></trans-unit>
+      <trans-unit id="widgets.t3news.moreItems" resname="widgets.t3news.moreItems" xml:space="preserve">
+				<source>More TYPO3 news</source>
+			<target state="needs-translation">More TYPO3 news</target></trans-unit>
+      <trans-unit id="widgets.t3information.title" resname="widgets.t3information.title" xml:space="preserve">
+				<source>About TYPO3</source>
+			<target state="needs-translation">About TYPO3</target></trans-unit>
+      <trans-unit id="widgets.t3information.description" resname="widgets.t3information.description" xml:space="preserve">
+				<source>Some general information about TYPO3 and the version used</source>
+			<target state="needs-translation">Some general information about TYPO3 and the version used</target></trans-unit>
+      <trans-unit id="widgets.t3information.text" resname="widgets.t3information.text">
+        <source><![CDATA[TYPO3 CMS is an enterprise-class, Open Source Content Management System, used internationally to build and manage websites of all types, from small sites for non-profits to multilingual enterprise solutions for large corporations.<br /><br />For further information visit <a href="https://typo3.org/typo3-cms/" target="_blank" rel="noreferrer">typo3.org</a>.<br /><br />TYPO3 CMS is <b>freely available</b> under the <a href="https://typo3.org/project/licenses/" target="_blank" rel="noreferrer">TYPO3-license (GNU/GPL)</a>.<br /><br />You are using version %s - Copyright %s %s]]></source>
+        <target state="needs-translation"><![CDATA[TYPO3 CMS is an enterprise-class, Open Source Content Management System, used internationally to build and manage websites of all types, from small sites for non-profits to multilingual enterprise solutions for large corporations.<br /><br />For further information visit <a href="https://typo3.org/typo3-cms/" target="_blank" rel="noreferrer">typo3.org</a>.<br /><br />TYPO3 CMS is <b>freely available</b> under the <a href="https://typo3.org/project/licenses/" target="_blank" rel="noreferrer">TYPO3-license (GNU/GPL)</a>.<br /><br />You are using version %s - Copyright %s %s]]></target>
+      </trans-unit>
+      <trans-unit id="widgets.t3information.logo" resname="widgets.t3information.logo">
+        <source>TYPO3 CMS logo</source>
+        <target state="needs-translation">TYPO3 CMS logo</target>
+      </trans-unit>
+      <trans-unit id="widgets.sysLogErrors.title" resname="widgets.sysLogErrors.title" xml:space="preserve">
+				<source>Number of errors in system log</source>
+			<target state="needs-translation">Number of errors in system log</target></trans-unit>
+      <trans-unit id="widgets.sysLogErrors.description" resname="widgets.sysLogErrors.description" xml:space="preserve">
+				<source>Shows the number of errors in the sys log of the last month, grouped by date</source>
+			<target state="needs-translation">Shows the number of errors in the sys log of the last month, grouped by date</target></trans-unit>
+      <trans-unit id="widgets.sysLogErrors.buttonText" resname="widgets.sysLogErrors.buttonText" xml:space="preserve">
+				<source>Show all errors in log</source>
+			<target state="needs-translation">Show all errors in log</target></trans-unit>
+      <trans-unit id="widgets.sysLogErrors.chart.dataSet.0" resname="widgets.sysLogErrors.chart.dataSet.0" xml:space="preserve">
+				<source>Number of errors</source>
+			<target state="needs-translation">Number of errors</target></trans-unit>
+      <trans-unit id="widgets.typeOfUsers.title" resname="widgets.typeOfUsers.title" xml:space="preserve">
+				<source>Type of backend users</source>
+			<target state="needs-translation">Type of backend users</target></trans-unit>
+      <trans-unit id="widgets.typeOfUsers.description" resname="widgets.typeOfUsers.description" xml:space="preserve">
+				<source>Shows the amount of normal- and admin-users</source>
+			<target state="needs-translation">Shows the amount of normal- and admin-users</target></trans-unit>
+      <trans-unit id="widgets.typeOfUsers.normalUsers" resname="widgets.typeOfUsers.normalUsers" xml:space="preserve">
+				<source>Normal users</source>
+			<target state="needs-translation">Normal users</target></trans-unit>
+      <trans-unit id="widgets.typeOfUsers.adminUsers" resname="widgets.typeOfUsers.adminUsers" xml:space="preserve">
+				<source>Admin users</source>
+			<target state="needs-translation">Admin users</target></trans-unit>
+      <trans-unit id="widgets.failedLogins.title" resname="widgets.failedLogins.title" xml:space="preserve">
+				<source>Failed backend logins</source>
+			<target state="needs-translation">Failed backend logins</target></trans-unit>
+      <trans-unit id="widgets.failedLogins.subtitle" resname="widgets.failedLogins.subtitle" xml:space="preserve">
+				<source>In last 24 hours</source>
+			<target state="needs-translation">In last 24 hours</target></trans-unit>
+      <trans-unit id="widgets.failedLogins.description" resname="widgets.failedLogins.description" xml:space="preserve">
+				<source>Information about the number of failed logins during the last 24 hours.</source>
+			<target state="needs-translation">Information about the number of failed logins during the last 24 hours.</target></trans-unit>
+      <trans-unit id="widgets.t3securityAdvisories.title" resname="widgets.t3securityAdvisories.title" xml:space="preserve">
+				<source>TYPO3 security advisories</source>
+			<target state="needs-translation">TYPO3 security advisories</target></trans-unit>
+      <trans-unit id="widgets.t3securityAdvisories.description" resname="widgets.t3securityAdvisories.description" xml:space="preserve">
+				<source>Add a list of security advisories from the TYPO3 project</source>
+			<target state="needs-translation">Add a list of security advisories from the TYPO3 project</target></trans-unit>
+      <trans-unit id="widgets.t3securityAdvisories.moreItems" resname="widgets.t3securityAdvisories.moreItems" xml:space="preserve">
+				<source>More TYPO3 security advisories</source>
+			<target state="needs-translation">More TYPO3 security advisories</target></trans-unit>
+      <trans-unit id="widget_group.general" resname="widget_group.general" xml:space="preserve">
+				<source>General</source>
+ 			<target state="needs-translation">General</target></trans-unit>
+      <trans-unit id="widget_group.typo3" resname="widget_group.typo3" xml:space="preserve">
+				<source>TYPO3 community</source>
+ 			<target state="needs-translation">TYPO3 community</target></trans-unit>
+      <trans-unit id="widget_group.news" resname="widget_group.news" xml:space="preserve">
+				<source>News</source>
+ 			<target state="needs-translation">News</target></trans-unit>
+      <trans-unit id="widget_group.documentation" resname="widget_group.documentation" xml:space="preserve">
+				<source>Documentation</source>
+ 			<target state="needs-translation">Documentation</target></trans-unit>
+      <trans-unit id="widget_group.system" resname="widget_group.system" xml:space="preserve">
+				<source>System Information</source>
+ 			<target state="needs-translation">System Information</target></trans-unit>
+      <trans-unit id="dashboard.empty.content.title" resname="dashboard.empty.content.title" xml:space="preserve">
+				<source>No widgets</source>
+ 			<target state="needs-translation">No widgets</target></trans-unit>
+      <trans-unit id="dashboard.empty.content.description" resname="dashboard.empty.content.description" xml:space="preserve">
+				<source>There are no widgets on this dashboard yet. You can add widgets now by clicking on the button below.</source>
+ 			<target state="needs-translation">There are no widgets on this dashboard yet. You can add widgets now by clicking on the button below.</target></trans-unit>
+      <trans-unit id="dashboard.empty.content.button" resname="dashboard.empty.content.button" xml:space="preserve">
+				<source>Add a widget</source>
+ 			<target state="needs-translation">Add a widget</target></trans-unit>
+    </body>
+  </file>
+</xliff>
