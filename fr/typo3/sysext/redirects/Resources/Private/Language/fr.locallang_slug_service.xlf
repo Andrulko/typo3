@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file source-language="en" datatype="plaintext" original="EXT:redirects/Resources/Private/Language/locallang_slug_service.xlf" date="2017-12-29T20:23:34Z" product-name="redirects" target-language="fr">
+    <header/>
+    <body>
+      <trans-unit id="notification.slug_and_redirects.title" resname="notification.slug_and_redirects.title">
+        <source>Slugs updated and redirects created</source>
+        <target state="needs-translation">Slugs updated and redirects created</target>
+      </trans-unit>
+      <trans-unit id="notification.slug_and_redirects.message" resname="notification.slug_and_redirects.message">
+        <source>Because you renamed a slug, the slugs of all sub-pages were updated and redirects were created for you automatically.</source>
+        <target state="needs-translation">Because you renamed a slug, the slugs of all sub-pages were updated and redirects were created for you automatically.</target>
+      </trans-unit>
+      <trans-unit id="notification.slug_only.title" resname="notification.slug_only.title">
+        <source>Slugs updated</source>
+        <target state="needs-translation">Slugs updated</target>
+      </trans-unit>
+      <trans-unit id="notification.slug_only.message" resname="notification.slug_only.message">
+        <source>Because you renamed a slug, the slugs of all sub-pages were updated for you automatically.</source>
+        <target state="needs-translation">Because you renamed a slug, the slugs of all sub-pages were updated for you automatically.</target>
+      </trans-unit>
+      <trans-unit id="notification.redirects.button.revert_update" resname="notification.redirects.button.revert_update">
+        <source>Revert update</source>
+        <target state="needs-translation">Revert update</target>
+      </trans-unit>
+      <trans-unit id="notification.redirects.button.revert_redirect" resname="notification.redirects.button.revert_redirect">
+        <source>Revert redirects only</source>
+        <target state="needs-translation">Revert redirects only</target>
+      </trans-unit>
+      <trans-unit id="redirects_error_title" resname="redirects_error_title">
+        <source>An error occurred</source>
+        <target state="needs-translation">An error occurred</target>
+      </trans-unit>
+      <trans-unit id="redirects_error_message" resname="redirects_error_message">
+        <source>Sorry something went wrong.</source>
+        <target state="needs-translation">Sorry something went wrong.</target>
+      </trans-unit>
+      <trans-unit id="revert_update_success_title" resname="revert_update_success_title">
+        <source>Revert successful</source>
+        <target state="needs-translation">Revert successful</target>
+      </trans-unit>
+      <trans-unit id="revert_update_success_message" resname="revert_update_success_message">
+        <source>All slug changes of sub pages have been reverted.</source>
+        <target state="needs-translation">All slug changes of sub pages have been reverted.</target>
+      </trans-unit>
+      <trans-unit id="revert_redirects_success_title" resname="revert_redirects_success_title">
+        <source>Revert successful</source>
+        <target state="needs-translation">Revert successful</target>
+      </trans-unit>
+      <trans-unit id="revert_redirects_success_message" resname="revert_redirects_success_message">
+        <source>All created redirects have been reverted.</source>
+        <target state="needs-translation">All created redirects have been reverted.</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
