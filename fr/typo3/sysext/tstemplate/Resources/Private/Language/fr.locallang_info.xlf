@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file source-language="en" datatype="plaintext" original="EXT:tstemplate/Resources/Private/Language/locallang_info.xlf" date="2011-10-17T20:22:37Z" product-name="tstemplate" target-language="fr">
+    <header/>
+    <body>
+      <trans-unit id="submodule.title" resname="submodule.title">
+        <source>Edit TypoScript record</source>
+        <target state="needs-translation">Edit TypoScript record</target>
+      </trans-unit>
+      <trans-unit id="submodule.titleWithRecord" resname="submodule.titleWithRecord">
+        <source>Edit TypoScript record "%s"</source>
+        <target state="needs-translation">Edit TypoScript record "%s"</target>
+      </trans-unit>
+      <trans-unit id="submodule.description" resname="submodule.description">
+        <source>Modify the content of the selected TypoScript record of the current page. Modifications can be made either for configurations like TypoScript constants and setup or basics like the title and description of the TypoScript record itself.</source>
+        <target state="needs-translation">Modify the content of the selected TypoScript record of the current page. Modifications can be made either for configurations like TypoScript constants and setup or basics like the title and description of the TypoScript record itself.</target>
+      </trans-unit>
+      <trans-unit id="options.selectedRecord" resname="options.selectedRecord">
+        <source>Selected record</source>
+        <target state="needs-translation">Selected record</target>
+      </trans-unit>
+      <trans-unit id="table.column.constants" resname="table.column.constants">
+        <source>Constants</source>
+        <target state="needs-translation">Constants</target>
+      </trans-unit>
+      <trans-unit id="table.column.description" resname="table.column.description">
+        <source>Description</source>
+        <target state="needs-translation">Description</target>
+      </trans-unit>
+      <trans-unit id="table.column.lines" resname="table.column.lines">
+        <source>%s lines</source>
+        <target state="needs-translation">%s lines</target>
+      </trans-unit>
+      <trans-unit id="table.column.setup" resname="table.column.setup">
+        <source>Setup</source>
+        <target state="needs-translation">Setup</target>
+      </trans-unit>
+      <trans-unit id="table.column.title" resname="table.column.title">
+        <source>Title</source>
+        <target state="needs-translation">Title</target>
+      </trans-unit>
+      <trans-unit id="btn.editTypoScriptRecord" resname="btn.editTypoScriptRecord">
+        <source>Edit the whole TypoScript record</source>
+        <target state="needs-translation">Edit the whole TypoScript record</target>
+      </trans-unit>
+      <trans-unit id="infoTypoScriptRecordFromSite.title" resname="infoTypoScriptRecordFromSite.title">
+        <source>Includes via site sets</source>
+        <target state="needs-translation">Includes via site sets</target>
+      </trans-unit>
+      <trans-unit id="infoTypoScriptRecordFromSite.message" resname="infoTypoScriptRecordFromSite.message">
+        <source>The site configuration '%s' has one or more dependencies on site sets. The TypoScript definitions can be edited on the file system.</source>
+        <target state="needs-translation">The site configuration '%s' has one or more dependencies on site sets. The TypoScript definitions can be edited on the file system.</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
