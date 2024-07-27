@@ -1,0 +1,476 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file source-language="en" datatype="plaintext" original="EXT:belog/Resources/Private/Language/locallang.xlf" date="2011-10-17T20:22:32Z" product-name="belog" target-language="fr">
+    <header/>
+    <body>
+      <trans-unit id="adminLog" resname="adminLog">
+        <source>Administration log</source>
+        <target state="needs-translation">Administration log</target>
+      </trans-unit>
+      <trans-unit id="allUsers" resname="allUsers">
+        <source>[All users]</source>
+        <target state="needs-translation">[All users]</target>
+      </trans-unit>
+      <trans-unit id="any" resname="any">
+        <source>[Any]</source>
+        <target state="needs-translation">[Any]</target>
+      </trans-unit>
+      <trans-unit id="viaUser" resname="viaUser">
+        <source>via</source>
+        <target state="needs-translation">via</target>
+      </trans-unit>
+      <trans-unit id="live" resname="live">
+        <source>LIVE</source>
+        <target state="needs-translation">LIVE</target>
+      </trans-unit>
+      <trans-unit id="draft" resname="draft">
+        <source>Draft</source>
+        <target state="needs-translation">Draft</target>
+      </trans-unit>
+      <trans-unit id="self" resname="self">
+        <source>Self</source>
+        <target state="needs-translation">Self</target>
+      </trans-unit>
+      <trans-unit id="userGroup" resname="userGroup">
+        <source>Group</source>
+        <target state="needs-translation">Group</target>
+      </trans-unit>
+      <trans-unit id="set" resname="set">
+        <source>Filter</source>
+        <target state="needs-translation">Filter</target>
+      </trans-unit>
+      <trans-unit id="reset" resname="reset">
+        <source>Reset</source>
+        <target state="needs-translation">Reset</target>
+      </trans-unit>
+      <trans-unit id="all" resname="all">
+        <source>[all]</source>
+        <target state="needs-translation">[all]</target>
+      </trans-unit>
+      <trans-unit id="actionAll" resname="actionAll">
+        <source>All</source>
+        <target state="needs-translation">All</target>
+      </trans-unit>
+      <trans-unit id="actionDatabase" resname="actionDatabase">
+        <source>Database</source>
+        <target state="needs-translation">Database</target>
+      </trans-unit>
+      <trans-unit id="actionFile" resname="actionFile">
+        <source>File</source>
+        <target state="needs-translation">File</target>
+      </trans-unit>
+      <trans-unit id="actionCache" resname="actionCache">
+        <source>Cache</source>
+        <target state="needs-translation">Cache</target>
+      </trans-unit>
+      <trans-unit id="actionSettings" resname="actionSettings">
+        <source>Settings</source>
+        <target state="needs-translation">Settings</target>
+      </trans-unit>
+      <trans-unit id="actionLogin" resname="actionLogin">
+        <source>Login</source>
+        <target state="needs-translation">Login</target>
+      </trans-unit>
+      <trans-unit id="actionErrors" resname="actionErrors">
+        <source>Errors</source>
+        <target state="needs-translation">Errors</target>
+      </trans-unit>
+      <trans-unit id="group" resname="group">
+        <source>Group</source>
+        <target state="needs-translation">Group</target>
+      </trans-unit>
+      <trans-unit id="user" resname="user">
+        <source>User</source>
+        <target state="needs-translation">User</target>
+      </trans-unit>
+      <trans-unit id="users" resname="users">
+        <source>Users</source>
+        <target state="needs-translation">Users</target>
+      </trans-unit>
+      <trans-unit id="time" resname="time">
+        <source>Time</source>
+        <target state="needs-translation">Time</target>
+      </trans-unit>
+      <trans-unit id="max" resname="max">
+        <source>Max</source>
+        <target state="needs-translation">Max</target>
+      </trans-unit>
+      <trans-unit id="showHistory" resname="showHistory">
+        <source>Show History</source>
+        <target state="needs-translation">Show History</target>
+      </trans-unit>
+      <trans-unit id="action" resname="action">
+        <source>Action</source>
+        <target state="needs-translation">Action</target>
+      </trans-unit>
+      <trans-unit id="channel" resname="channel">
+        <source>Channel</source>
+        <target state="needs-translation">Channel</target>
+      </trans-unit>
+      <trans-unit id="levels" resname="levels">
+        <source>Levels</source>
+        <target state="needs-translation">Levels</target>
+      </trans-unit>
+      <trans-unit id="workspace" resname="workspace">
+        <source>Workspace</source>
+        <target state="needs-translation">Workspace</target>
+      </trans-unit>
+      <trans-unit id="overview" resname="overview">
+        <source>Overview</source>
+        <target state="needs-translation">Overview</target>
+      </trans-unit>
+      <trans-unit id="type_1" resname="type_1">
+        <source>DB</source>
+        <target state="needs-translation">DB</target>
+      </trans-unit>
+      <trans-unit id="action_1_1" resname="action_1_1">
+        <source>Insert</source>
+        <target state="needs-translation">Insert</target>
+      </trans-unit>
+      <trans-unit id="action_1_2" resname="action_1_2">
+        <source>Update</source>
+        <target state="needs-translation">Update</target>
+      </trans-unit>
+      <trans-unit id="action_1_3" resname="action_1_3">
+        <source>Delete</source>
+        <target state="needs-translation">Delete</target>
+      </trans-unit>
+      <trans-unit id="action_1_4" resname="action_1_4">
+        <source>Move</source>
+        <target state="needs-translation">Move</target>
+      </trans-unit>
+      <trans-unit id="action_1_5" resname="action_1_5">
+        <source>Check</source>
+        <target state="needs-translation">Check</target>
+      </trans-unit>
+      <trans-unit id="msg_1_0_1" resname="msg_1_0_1">
+        <source>Referer host '%s' and server host '%s' did not match!</source>
+        <target state="needs-translation">Referer host '%s' and server host '%s' did not match!</target>
+      </trans-unit>
+      <trans-unit id="msg_1_1_11" resname="msg_1_1_11">
+        <source>Attempt to insert record on page '%s' (%s) where this table, %s, is not allowed</source>
+        <target state="needs-translation">Attempt to insert record on page '%s' (%s) where this table, %s, is not allowed</target>
+      </trans-unit>
+      <trans-unit id="msg_1_1_12" resname="msg_1_1_12">
+        <source>Attempt to insert a record on page '%s' (%s) from table '%s' without permissions. Or non-existing page.</source>
+        <target state="needs-translation">Attempt to insert a record on page '%s' (%s) from table '%s' without permissions. Or non-existing page.</target>
+      </trans-unit>
+      <trans-unit id="msg_1_2_1" resname="msg_1_2_1">
+        <source>Attempt to modify table '%s' without permission</source>
+        <target state="needs-translation">Attempt to modify table '%s' without permission</target>
+      </trans-unit>
+      <trans-unit id="msg_1_2_2" resname="msg_1_2_2">
+        <source>Attempt to modify record '%s' (%s) without permission. Or non-existing page.</source>
+        <target state="needs-translation">Attempt to modify record '%s' (%s) without permission. Or non-existing page.</target>
+      </trans-unit>
+      <trans-unit id="msg_1_2_10" resname="msg_1_2_10">
+        <source>Record '%s' (%s) was updated.</source>
+        <target state="needs-translation">Record '%s' (%s) was updated.</target>
+      </trans-unit>
+      <trans-unit id="msg_1_2_12" resname="msg_1_2_12">
+        <source>MySQL error: '%s' (%s)</source>
+        <target state="needs-translation">MySQL error: '%s' (%s)</target>
+      </trans-unit>
+      <trans-unit id="msg_1_4_1" resname="msg_1_4_1">
+        <source>Attempt to move record '%s' (%s) to after a non-existing record (uid=%s)</source>
+        <target state="needs-translation">Attempt to move record '%s' (%s) to after a non-existing record (uid=%s)</target>
+      </trans-unit>
+      <trans-unit id="msg_1_4_2" resname="msg_1_4_2">
+        <source>Moved record '%s' (%s) to page '%s' (%s)</source>
+        <target state="needs-translation">Moved record '%s' (%s) to page '%s' (%s)</target>
+      </trans-unit>
+      <trans-unit id="msg_1_4_3" resname="msg_1_4_3">
+        <source>Moved record '%s' (%s) from page '%s' (%s)</source>
+        <target state="needs-translation">Moved record '%s' (%s) from page '%s' (%s)</target>
+      </trans-unit>
+      <trans-unit id="msg_1_4_4" resname="msg_1_4_4">
+        <source>Moved record '%s' (%s) on page '%s' (%s)</source>
+        <target state="needs-translation">Moved record '%s' (%s) on page '%s' (%s)</target>
+      </trans-unit>
+      <trans-unit id="msg_1_4_10" resname="msg_1_4_10">
+        <source>Attempt to move page '%s' (%s) to inside of its own rootline (at page '%s' (%s))</source>
+        <target state="needs-translation">Attempt to move page '%s' (%s) to inside of its own rootline (at page '%s' (%s))</target>
+      </trans-unit>
+      <trans-unit id="msg_1_4_11" resname="msg_1_4_11">
+        <source>Attempt to insert record on page '%s' (%s) where this table, %s, is not allowed</source>
+        <target state="needs-translation">Attempt to insert record on page '%s' (%s) where this table, %s, is not allowed</target>
+      </trans-unit>
+      <trans-unit id="msg_1_4_12" resname="msg_1_4_12">
+        <source>Attempt to insert a record on page '%s' (%s) from table '%s' without permissions. Or non-existing page.</source>
+        <target state="needs-translation">Attempt to insert a record on page '%s' (%s) from table '%s' without permissions. Or non-existing page.</target>
+      </trans-unit>
+      <trans-unit id="msg_1_4_13" resname="msg_1_4_13">
+        <source>Attempt to move record '%s' (%s) to after another record, although the table has no sorting row.</source>
+        <target state="needs-translation">Attempt to move record '%s' (%s) to after another record, although the table has no sorting row.</target>
+      </trans-unit>
+      <trans-unit id="msg_1_4_14" resname="msg_1_4_14">
+        <source>Attempt to move record '%s' (%s) without having permissions to do so</source>
+        <target state="needs-translation">Attempt to move record '%s' (%s) without having permissions to do so</target>
+      </trans-unit>
+      <trans-unit id="msg_1_5_1" resname="msg_1_5_1">
+        <source>You cannot change the 'doktype' of page '%s' to the desired value.</source>
+        <target state="needs-translation">You cannot change the 'doktype' of page '%s' to the desired value.</target>
+      </trans-unit>
+      <trans-unit id="msg_1_5_2" resname="msg_1_5_2">
+        <source>'doktype' of page '%s' could not be changed because the page contains records from disallowed tables; %s</source>
+        <target state="needs-translation">'doktype' of page '%s' could not be changed because the page contains records from disallowed tables; %s</target>
+      </trans-unit>
+      <trans-unit id="msg_1_5_3" resname="msg_1_5_3">
+        <source>Too few items in the list of values. (%s)</source>
+        <target state="needs-translation">Too few items in the list of values. (%s)</target>
+      </trans-unit>
+      <trans-unit id="msg_1_5_10" resname="msg_1_5_10">
+        <source>Could not delete file '%s' (does not exist). (%s)</source>
+        <target state="needs-translation">Could not delete file '%s' (does not exist). (%s)</target>
+      </trans-unit>
+      <trans-unit id="msg_1_5_11" resname="msg_1_5_11">
+        <source>Copying file '%s' failed!: No destination file (%s) possible!. (%s)</source>
+        <target state="needs-translation">Copying file '%s' failed!: No destination file (%s) possible!. (%s)</target>
+      </trans-unit>
+      <trans-unit id="msg_1_5_12" resname="msg_1_5_12">
+        <source>File extension '%s' is not allowed. (%s)</source>
+        <target state="needs-translation">File extension '%s' is not allowed. (%s)</target>
+      </trans-unit>
+      <trans-unit id="msg_1_5_13" resname="msg_1_5_13">
+        <source>File size (%s) of file '%s' exceeds limit (%s). (%s)</source>
+        <target state="needs-translation">File size (%s) of file '%s' exceeds limit (%s). (%s)</target>
+      </trans-unit>
+      <trans-unit id="msg_1_5_14" resname="msg_1_5_14">
+        <source>The destination (%s) or the source file (%s) does not exist. (%s)</source>
+        <target state="needs-translation">The destination (%s) or the source file (%s) does not exist. (%s)</target>
+      </trans-unit>
+      <trans-unit id="msg_1_5_15" resname="msg_1_5_15">
+        <source>Copying to file '%s' failed! (%s)</source>
+        <target state="needs-translation">Copying to file '%s' failed! (%s)</target>
+      </trans-unit>
+      <trans-unit id="msg_1_5_16" resname="msg_1_5_16">
+        <source>Copying file '%s' failed!: The destination path (%s) may be write protected. Please make it write enabled!. (%s)</source>
+        <target state="needs-translation">Copying file '%s' failed!: The destination path (%s) may be write protected. Please make it write enabled!. (%s)</target>
+      </trans-unit>
+      <trans-unit id="msg_1_5_4" resname="msg_1_5_4">
+        <source>The value of the field "%s" has been changed from "%s" to "%s" as it is required to be unique.</source>
+        <target state="needs-translation">The value of the field "%s" has been changed from "%s" to "%s" as it is required to be unique.</target>
+      </trans-unit>
+      <trans-unit id="type_2" resname="type_2">
+        <source>FILE</source>
+        <target state="needs-translation">FILE</target>
+      </trans-unit>
+      <trans-unit id="action_2_1" resname="action_2_1">
+        <source>Upload</source>
+        <target state="needs-translation">Upload</target>
+      </trans-unit>
+      <trans-unit id="action_2_2" resname="action_2_2">
+        <source>Copy</source>
+        <target state="needs-translation">Copy</target>
+      </trans-unit>
+      <trans-unit id="action_2_3" resname="action_2_3">
+        <source>Move</source>
+        <target state="needs-translation">Move</target>
+      </trans-unit>
+      <trans-unit id="action_2_4" resname="action_2_4">
+        <source>Delete</source>
+        <target state="needs-translation">Delete</target>
+      </trans-unit>
+      <trans-unit id="action_2_5" resname="action_2_5">
+        <source>Rename</source>
+        <target state="needs-translation">Rename</target>
+      </trans-unit>
+      <trans-unit id="action_2_6" resname="action_2_6">
+        <source>New</source>
+        <target state="needs-translation">New</target>
+      </trans-unit>
+      <trans-unit id="action_2_7" resname="action_2_7">
+        <source>Unzip</source>
+        <target state="needs-translation">Unzip</target>
+      </trans-unit>
+      <trans-unit id="action_2_8" resname="action_2_8">
+        <source>New file</source>
+        <target state="needs-translation">New file</target>
+      </trans-unit>
+      <trans-unit id="action_2_9" resname="action_2_9">
+        <source>Edit</source>
+        <target state="needs-translation">Edit</target>
+      </trans-unit>
+      <trans-unit id="msg_2_9_1" resname="msg_2_9_1">
+        <source>File saved to '%s', bytes: %s, MD5: %s </source>
+        <target state="needs-translation">File saved to '%s', bytes: %s, MD5: %s </target>
+      </trans-unit>
+      <trans-unit id="type_3" resname="type_3">
+        <source>CACHE</source>
+        <target state="needs-translation">CACHE</target>
+      </trans-unit>
+      <trans-unit id="action_3_1" resname="action_3_1">
+        <source>Clear Cache</source>
+        <target state="needs-translation">Clear Cache</target>
+      </trans-unit>
+      <trans-unit id="type_4" resname="type_4">
+        <source>EXTENSION</source>
+        <target state="needs-translation">EXTENSION</target>
+      </trans-unit>
+      <trans-unit id="type_5" resname="type_5">
+        <source>ERROR</source>
+        <target state="needs-translation">ERROR</target>
+      </trans-unit>
+      <trans-unit id="action_5_0" resname="action_5_0">
+        <source>Error handler</source>
+        <target state="needs-translation">Error handler</target>
+      </trans-unit>
+      <trans-unit id="type_254" resname="type_254">
+        <source>SETTING</source>
+        <target state="needs-translation">SETTING</target>
+      </trans-unit>
+      <trans-unit id="action_254_1" resname="action_254_1">
+        <source>Change</source>
+        <target state="needs-translation">Change</target>
+      </trans-unit>
+      <trans-unit id="type_255" resname="type_255">
+        <source>LOGIN</source>
+        <target state="needs-translation">LOGIN</target>
+      </trans-unit>
+      <trans-unit id="action_255_1" resname="action_255_1">
+        <source>LOGIN</source>
+        <target state="needs-translation">LOGIN</target>
+      </trans-unit>
+      <trans-unit id="action_255_2" resname="action_255_2">
+        <source>LOGOUT</source>
+        <target state="needs-translation">LOGOUT</target>
+      </trans-unit>
+      <trans-unit id="action_255_3" resname="action_255_3">
+        <source>ATTEMPT</source>
+        <target state="needs-translation">ATTEMPT</target>
+      </trans-unit>
+      <trans-unit id="chLog_title" resname="chLog_title">
+        <source>Admin Changelog</source>
+        <target state="needs-translation">Admin Changelog</target>
+      </trans-unit>
+      <trans-unit id="chLog_users_0" resname="chLog_users_0">
+        <source>All users</source>
+        <target state="needs-translation">All users</target>
+      </trans-unit>
+      <trans-unit id="chLog_users_-1" resname="chLog_users_-1">
+        <source>Self</source>
+        <target state="needs-translation">Self</target>
+      </trans-unit>
+      <trans-unit id="chLog_time_0" resname="chLog_time_0">
+        <source>This week</source>
+        <target state="needs-translation">This week</target>
+      </trans-unit>
+      <trans-unit id="chLog_time_1" resname="chLog_time_1">
+        <source>Last week</source>
+        <target state="needs-translation">Last week</target>
+      </trans-unit>
+      <trans-unit id="chLog_time_2" resname="chLog_time_2">
+        <source>Last 7 days</source>
+        <target state="needs-translation">Last 7 days</target>
+      </trans-unit>
+      <trans-unit id="chLog_time_10" resname="chLog_time_10">
+        <source>This month</source>
+        <target state="needs-translation">This month</target>
+      </trans-unit>
+      <trans-unit id="chLog_time_11" resname="chLog_time_11">
+        <source>Last month</source>
+        <target state="needs-translation">Last month</target>
+      </trans-unit>
+      <trans-unit id="chLog_time_12" resname="chLog_time_12">
+        <source>Last 31 days</source>
+        <target state="needs-translation">Last 31 days</target>
+      </trans-unit>
+      <trans-unit id="chLog_time_20" resname="chLog_time_20">
+        <source>No limit</source>
+        <target state="needs-translation">No limit</target>
+      </trans-unit>
+      <trans-unit id="chLog_l_time" resname="chLog_l_time">
+        <source>Time</source>
+        <target state="needs-translation">Time</target>
+      </trans-unit>
+      <trans-unit id="chLog_l_user" resname="chLog_l_user">
+        <source>User</source>
+        <target state="needs-translation">User</target>
+      </trans-unit>
+      <trans-unit id="chLog_l_action" resname="chLog_l_action">
+        <source>Action</source>
+        <target state="needs-translation">Action</target>
+      </trans-unit>
+      <trans-unit id="chLog_l_channel" resname="chLog_l_channel">
+        <source>Channel</source>
+        <target state="needs-translation">Channel</target>
+      </trans-unit>
+      <trans-unit id="chLog_l_types" resname="chLog_l_types">
+        <source>Type</source>
+        <target state="needs-translation">Type</target>
+      </trans-unit>
+      <trans-unit id="chLog_l_level" resname="chLog_l_level">
+        <source>Level</source>
+        <target state="needs-translation">Level</target>
+      </trans-unit>
+      <trans-unit id="chLog_l_table" resname="chLog_l_table">
+        <source>Table</source>
+        <target state="needs-translation">Table</target>
+      </trans-unit>
+      <trans-unit id="chLog_l_details" resname="chLog_l_details">
+        <source>Details</source>
+        <target state="needs-translation">Details</target>
+      </trans-unit>
+      <trans-unit id="chLog_menuUsers" resname="chLog_menuUsers">
+        <source>Users</source>
+        <target state="needs-translation">Users</target>
+      </trans-unit>
+      <trans-unit id="chLog_menuPageId" resname="chLog_menuPageId">
+        <source>Page</source>
+        <target state="needs-translation">Page</target>
+      </trans-unit>
+      <trans-unit id="chLog_menuDepth" resname="chLog_menuDepth">
+        <source>Depth</source>
+        <target state="needs-translation">Depth</target>
+      </trans-unit>
+      <trans-unit id="chLog_menuTime" resname="chLog_menuTime">
+        <source>Time</source>
+        <target state="needs-translation">Time</target>
+      </trans-unit>
+      <trans-unit id="systemmessage.errorsInPeriod" resname="systemmessage.errorsInPeriod">
+        <source><![CDATA[We have found %1$d error(s). Please check your <a href="%2$s">system log</a>.]]></source>
+        <target state="needs-translation"><![CDATA[We have found %1$d error(s). Please check your <a href="%2$s">system log</a>.]]></target>
+      </trans-unit>
+      <trans-unit id="actions" resname="actions">
+        <source>Actions</source>
+        <target state="needs-translation">Actions</target>
+      </trans-unit>
+      <trans-unit id="actions.delete" resname="actions.delete">
+        <source>Delete similar errors</source>
+        <target state="needs-translation">Delete similar errors</target>
+      </trans-unit>
+      <trans-unit id="actions.deleteWarnings" resname="actions.deleteWarnings">
+        <source>Delete similar warnings</source>
+        <target state="needs-translation">Delete similar warnings</target>
+      </trans-unit>
+      <trans-unit id="actions.delete.message" resname="actions.delete.message">
+        <source>Total entries deleted: %1$d</source>
+        <target state="needs-translation">Total entries deleted: %1$d</target>
+      </trans-unit>
+      <trans-unit id="actions.delete.noRowFound" resname="actions.delete.noRowFound">
+        <source>Log entry could not be found.</source>
+        <target state="needs-translation">Log entry could not be found.</target>
+      </trans-unit>
+      <trans-unit id="info.noRecords.message" resname="info.noRecords.message">
+        <source>No records found.</source>
+        <target state="needs-translation">No records found.</target>
+      </trans-unit>
+      <trans-unit id="info.selectPage.title" resname="info.selectPage.title">
+        <source>No page selected</source>
+        <target state="needs-translation">No page selected</target>
+      </trans-unit>
+      <trans-unit id="info.selectPage.message" resname="info.selectPage.message">
+        <source>Select a page to display logs for.</source>
+        <target state="needs-translation">Select a page to display logs for.</target>
+      </trans-unit>
+      <trans-unit id="error.noAccess.title" resname="error.noAccess.title">
+        <source>No access!</source>
+        <target state="needs-translation">No access!</target>
+      </trans-unit>
+      <trans-unit id="error.noAccess.message" resname="error.noAccess.message">
+        <source>You don't have access to the selected page.</source>
+        <target state="needs-translation">You don't have access to the selected page.</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
