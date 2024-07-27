@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file source-language="en" datatype="plaintext" original="EXT:setup/Resources/Private/Language/locallang.xlf" date="2011-10-17T20:22:37Z" product-name="setup" target-language="fr">
+    <header/>
+    <body>
+      <trans-unit id="UserSettings" resname="UserSettings">
+        <source>User Settings</source>
+        <target state="needs-translation">User Settings</target>
+      </trans-unit>
+      <trans-unit id="language" resname="language">
+        <source>Language</source>
+        <target state="needs-translation">Language</target>
+      </trans-unit>
+      <trans-unit id="languageUnavailable" resname="languageUnavailable">
+        <source>The selected language "%s" is not available before the language files are installed.</source>
+        <target state="needs-translation">The selected language "%s" is not available before the language files are installed.</target>
+      </trans-unit>
+      <trans-unit id="languageUnavailable.admin" resname="languageUnavailable.admin">
+        <source>You can use "Manage Language Packs" in the Maintenance module to easily download new language files.</source>
+        <target state="needs-translation">You can use "Manage Language Packs" in the Maintenance module to easily download new language files.</target>
+      </trans-unit>
+      <trans-unit id="languageUnavailable.user" resname="languageUnavailable.user">
+        <source>Please ask your system administrator to do this.</source>
+        <target state="needs-translation">Please ask your system administrator to do this.</target>
+      </trans-unit>
+      <trans-unit id="simulate" resname="simulate">
+        <source>Simulate backend user</source>
+        <target state="needs-translation">Simulate backend user</target>
+      </trans-unit>
+      <trans-unit id="opening" resname="opening">
+        <source>Backend appearance</source>
+        <target state="needs-translation">Backend appearance</target>
+      </trans-unit>
+      <trans-unit id="personal_data" resname="personal_data">
+        <source>Personal data</source>
+        <target state="needs-translation">Personal data</target>
+      </trans-unit>
+      <trans-unit id="startModule" resname="startModule">
+        <source>Start up in the following module</source>
+        <target state="needs-translation">Start up in the following module</target>
+      </trans-unit>
+      <trans-unit id="emailMeAtLogin" resname="emailMeAtLogin">
+        <source>Notify me by email when somebody logs in from my account</source>
+        <target state="needs-translation">Notify me by email when somebody logs in from my account</target>
+      </trans-unit>
+      <trans-unit id="helpText" resname="helpText">
+        <source>Show help text when applicable</source>
+        <target state="needs-translation">Show help text when applicable</target>
+      </trans-unit>
+      <trans-unit id="maxTitleLen" resname="maxTitleLen">
+        <source>Max. title length</source>
+        <target state="needs-translation">Max. title length</target>
+      </trans-unit>
+      <trans-unit id="edit_docModuleUpload" resname="edit_docModuleUpload">
+        <source>File upload directly in Doc-module</source>
+        <target state="needs-translation">File upload directly in Doc-module</target>
+      </trans-unit>
+      <trans-unit id="showHiddenFilesAndFolders" resname="showHiddenFilesAndFolders">
+        <source>Show hidden files and folders in the filelist</source>
+        <target state="needs-translation">Show hidden files and folders in the filelist</target>
+      </trans-unit>
+      <trans-unit id="editFunctionsTab" resname="editFunctionsTab">
+        <source>Edit and advanced functions</source>
+        <target state="needs-translation">Edit and advanced functions</target>
+      </trans-unit>
+      <trans-unit id="setToStandard" resname="setToStandard">
+        <source>Reset all values to default</source>
+        <target state="needs-translation">Reset all values to default</target>
+      </trans-unit>
+      <trans-unit id="resetTab" resname="resetTab">
+        <source>Reset configuration</source>
+        <target state="needs-translation">Reset configuration</target>
+      </trans-unit>
+      <trans-unit id="resetConfiguration" resname="resetConfiguration">
+        <source>Reset configuration and clear temporary data</source>
+        <target state="needs-translation">Reset configuration and clear temporary data</target>
+      </trans-unit>
+      <trans-unit id="resetConfigurationButton" resname="resetConfigurationButton">
+        <source>Reset user settings to default state</source>
+        <target state="needs-translation">Reset user settings to default state</target>
+      </trans-unit>
+      <trans-unit id="setToStandardQuestion" resname="setToStandardQuestion">
+        <source>Are you sure you want to reset all values to default?</source>
+        <target state="needs-translation">Are you sure you want to reset all values to default?</target>
+      </trans-unit>
+      <trans-unit id="functions" resname="functions">
+        <source>Advanced functions</source>
+        <target state="needs-translation">Advanced functions</target>
+      </trans-unit>
+      <trans-unit id="copyLevels" resname="copyLevels">
+        <source>Recursive copy: Enter the number of page sublevels to include, when a page is copied</source>
+        <target state="needs-translation">Recursive copy: Enter the number of page sublevels to include, when a page is copied</target>
+      </trans-unit>
+      <trans-unit id="activateChanges" resname="activateChanges">
+        <source>Notice! In order to activate most of these changes, please reload the backend (eg. logout and login again).</source>
+        <target state="needs-translation">Notice! In order to activate most of these changes, please reload the backend (eg. logout and login again).</target>
+      </trans-unit>
+      <trans-unit id="levels" resname="levels">
+        <source>levels</source>
+        <target state="needs-translation">levels</target>
+      </trans-unit>
+      <trans-unit id="beUser_realName" resname="beUser_realName">
+        <source>Your name</source>
+        <target state="needs-translation">Your name</target>
+      </trans-unit>
+      <trans-unit id="beUser_avatar" resname="beUser_avatar">
+        <source>Avatar</source>
+        <target state="needs-translation">Avatar</target>
+      </trans-unit>
+      <trans-unit id="beUser_email" resname="beUser_email">
+        <source>Your email address</source>
+        <target state="needs-translation">Your email address</target>
+      </trans-unit>
+      <trans-unit id="save" resname="save">
+        <source>Save configuration</source>
+        <target state="needs-translation">Save configuration</target>
+      </trans-unit>
+      <trans-unit id="newPassword" resname="newPassword">
+        <source>New password</source>
+        <target state="needs-translation">New password</target>
+      </trans-unit>
+      <trans-unit id="newPasswordAgain" resname="newPasswordAgain">
+        <source>New password (repetition)</source>
+        <target state="needs-translation">New password (repetition)</target>
+      </trans-unit>
+      <trans-unit id="newPassword_ok" resname="newPassword_ok">
+        <source>Password was updated.</source>
+        <target state="needs-translation">Password was updated.</target>
+      </trans-unit>
+      <trans-unit id="passwordCurrent" resname="passwordCurrent">
+        <source>Current password</source>
+        <target state="needs-translation">Current password</target>
+      </trans-unit>
+      <trans-unit id="passwordPolicyFailed" resname="passwordPolicyFailed">
+        <source>The password was NOT updated, since it does not meet the password policy requirements.</source>
+        <target state="needs-translation">The password was NOT updated, since it does not meet the password policy requirements.</target>
+      </trans-unit>
+      <trans-unit id="accountSecurity" resname="accountSecurity">
+        <source>Account security</source>
+        <target state="needs-translation">Account security</target>
+      </trans-unit>
+      <trans-unit id="mfaProviders" resname="mfaProviders">
+        <source>Multi-factor authentication</source>
+        <target state="needs-translation">Multi-factor authentication</target>
+      </trans-unit>
+      <trans-unit id="mfaProviders.notAvailable" resname="mfaProviders.notAvailable">
+        <source>Multi-factor authentication is currently not available.</source>
+        <target state="needs-translation">Multi-factor authentication is currently not available.</target>
+      </trans-unit>
+      <trans-unit id="mfaProviders.description" resname="mfaProviders.description">
+        <source>Use multi-factor authentication to secure your account by providing another factor next to your password.</source>
+        <target state="needs-translation">Use multi-factor authentication to secure your account by providing another factor next to your password.</target>
+      </trans-unit>
+      <trans-unit id="mfaProviders.lockedMfaProviders" resname="mfaProviders.lockedMfaProviders">
+        <source>Some providers are currently locked!</source>
+        <target state="needs-translation">Some providers are currently locked!</target>
+      </trans-unit>
+      <trans-unit id="mfaProviders.enabled" resname="mfaProviders.enabled">
+        <source>Enabled</source>
+        <target state="needs-translation">Enabled</target>
+      </trans-unit>
+      <trans-unit id="mfaProviders.setupLinkTitle" resname="mfaProviders.setupLinkTitle">
+        <source>Setup multi-factor authentication</source>
+        <target state="needs-translation">Setup multi-factor authentication</target>
+      </trans-unit>
+      <trans-unit id="mfaProviders.manageLinkTitle" resname="mfaProviders.manageLinkTitle">
+        <source>Manage multi-factor authentication</source>
+        <target state="needs-translation">Manage multi-factor authentication</target>
+      </trans-unit>
+      <trans-unit id="setupWasUpdated" resname="setupWasUpdated">
+        <source>User settings were updated.</source>
+        <target state="needs-translation">User settings were updated.</target>
+      </trans-unit>
+      <trans-unit id="newPassword_failed" resname="newPassword_failed">
+        <source>Password was NOT updated because you didn't enter the same password twice.</source>
+        <target state="needs-translation">Password was NOT updated because you didn't enter the same password twice.</target>
+      </trans-unit>
+      <trans-unit id="oldPassword_failed" resname="oldPassword_failed">
+        <source>Password was NOT updated because you didn't enter the correct current password.</source>
+        <target state="needs-translation">Password was NOT updated because you didn't enter the correct current password.</target>
+      </trans-unit>
+      <trans-unit id="settingsAreReset" resname="settingsAreReset">
+        <source>The user settings have been reset to default values and temporary data has been cleared.</source>
+        <target state="needs-translation">The user settings have been reset to default values and temporary data has been cleared.</target>
+      </trans-unit>
+      <trans-unit id="startModule.firstInMenu" resname="startModule.firstInMenu">
+        <source>- First module in menu -</source>
+        <target state="needs-translation">- First module in menu -</target>
+      </trans-unit>
+      <trans-unit id="avatar.clear" resname="avatar.clear">
+        <source>Remove selected avatar image</source>
+        <target state="needs-translation">Remove selected avatar image</target>
+      </trans-unit>
+      <trans-unit id="avatar.openFileBrowser" resname="avatar.openFileBrowser">
+        <source>Open file browser to select avatar image</source>
+        <target state="needs-translation">Open file browser to select avatar image</target>
+      </trans-unit>
+      <trans-unit id="backendTitleFormat" resname="backendTitleFormat">
+        <source>Format of window title in backend</source>
+        <target state="needs-translation">Format of window title in backend</target>
+      </trans-unit>
+      <trans-unit id="backendTitleFormat.sitenameFirst" resname="backendTitleFormat.sitenameFirst">
+        <source>[sitename] · [title]</source>
+        <target state="needs-translation">[sitename] · [title]</target>
+      </trans-unit>
+      <trans-unit id="backendTitleFormat.titleFirst" resname="backendTitleFormat.titleFirst">
+        <source>[title] · [sitename]</source>
+        <target state="needs-translation">[title] · [sitename]</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
