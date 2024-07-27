@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file source-language="en" datatype="plaintext" original="EXT:test_irre_mnsymmetric/Resources/Private/Language/locallang_db.xlf" date="2020-06-03T15:50:00Z" product-name="test_irre_mnsymmetric" target-language="fr">
+    <header/>
+    <body>
+      <trans-unit id="tabs.general" resname="tabs.general">
+        <source>General</source>
+        <target state="needs-translation">General</target>
+      </trans-unit>
+      <trans-unit id="tabs.visibility" resname="tabs.visibility">
+        <source>Visibility</source>
+        <target state="needs-translation">Visibility</target>
+      </trans-unit>
+      <trans-unit id="tx_testirremnsymmetric_hotel" resname="tx_testirremnsymmetric_hotel">
+        <source>m:n Sym: Hotels</source>
+        <target state="needs-translation">m:n Sym: Hotels</target>
+      </trans-unit>
+      <trans-unit id="tx_testirremnsymmetric_hotel_rel" resname="tx_testirremnsymmetric_hotel_rel">
+        <source>m:n Sym: Hotels&lt;-&gt;Hotels</source>
+        <target state="needs-translation">m:n Sym: Hotels&lt;-&gt;Hotels</target>
+      </trans-unit>
+      <trans-unit id="tx_testirremnsymmetric_hotel.title" resname="tx_testirremnsymmetric_hotel.title">
+        <source>Title:</source>
+        <target state="needs-translation">Title:</target>
+      </trans-unit>
+      <trans-unit id="tx_testirremnsymmetric_hotel.branches" resname="tx_testirremnsymmetric_hotel.branches">
+        <source>Branches:</source>
+        <target state="needs-translation">Branches:</target>
+      </trans-unit>
+      <trans-unit id="tx_testirremnsymmetric_hotel_rel" resname="tx_testirremnsymmetric_hotel_rel">
+        <source>Hotels&lt;-&gt;Hotels</source>
+        <target state="needs-translation">m:n Sym: Hotels&lt;-&gt;Hotels</target>
+      </trans-unit>
+      <trans-unit id="tx_testirremnsymmetric_hotel_rel.hotelid" resname="tx_testirremnsymmetric_hotel_rel.hotelid">
+        <source>Hotel:</source>
+        <target state="needs-translation">Hotel:</target>
+      </trans-unit>
+      <trans-unit id="tx_testirremnsymmetric_hotel_rel.branchid" resname="tx_testirremnsymmetric_hotel_rel.branchid">
+        <source>Branch:</source>
+        <target state="needs-translation">Branch:</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
